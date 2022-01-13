@@ -3,7 +3,7 @@ The Nounel Project est un projet pour regarder des chaînes TV
 
 Comment ça marche ?
 --------------------
-Android / TV : The Nounel Project -> APK -> The Nounel Project.apk
+Android / TV : The Nounel Project -> APK -> The Nounel Project.apk 
 Autre : The Nounel Project -> HTML -> Officiel -> Nounel.html
 
 
