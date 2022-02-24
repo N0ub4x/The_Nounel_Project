@@ -4,8 +4,12 @@ The Nounel Project - Regarder la TV Gratuitement !
 Appareils testé
 ----------------
 Android
+
 Windows 10
+
 Android TV
+
+
 
 Comment ça marche ?
 --------------------
