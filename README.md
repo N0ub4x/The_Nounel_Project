@@ -52,9 +52,23 @@
 
 [France Info]()
 
+[France 24](https://youtu.be/jVYG_eH5UMU)
+
+[Euronews](https://youtu.be/MsN0_WNXvh8)
+
+[BFM Business](https://bfmtv.com/economie/en-direct)
+
+[beIN Sport](https://matchesdirect.com/bein-sports-1)
+
 
 Enfant
 -------
 [Gulli](https://replay.gulli.fr/jwplayer/embedstreamtv)
 
 [Bob l'éponge TV](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3)
+
+
+
+
+
+par N0ub4x
