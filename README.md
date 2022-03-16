@@ -28,7 +28,7 @@
 
 [France 4]()
 
-[BFM TV]()
+[BFM TV](https://www.bfmtv.com/en-direct/)
 
 [CNews]()
 
@@ -42,21 +42,23 @@
 
 [6ter](https://www.tntendirect.com/6ter-en-direct)
 
-[RMC Story]()
+[RMC Story](https://www.rmcbfmplay.com/direct-tv/rmc-story)
 
-[RMC Découverte]()
+[RMC Découverte](https://www.rmcbfmplay.com/direct-tv/rmc-decouverte)
 
 [Chérie 25](https://www.tntendirect.com/Cherie-25-en-direct)
 
-[LCI]()
+[LCI](https://www.tf1.fr/lci/direct)
 
-[France Info]()
+[France Info](https://youtu.be/Z-Nwo-ypKtM)
 
 [France 24](https://youtu.be/jVYG_eH5UMU)
 
 [Euronews](https://youtu.be/MsN0_WNXvh8)
 
-[BFM Business](https://bfmtv.com/economie/en-direct)
+[BFM Business](https://www.bfmtv.com/economie/en-direct/)
+
+[01net TV](https://www.dailymotion.com/video/x7pctg0)
 
 
 Sport
@@ -66,7 +68,7 @@ Sport
 
 Programmeurs
 -------------
-[dotNET TV](https://www.youtube.com/c/dotNET/videos?view=2&sort=dd&live_view=502&shelf_id=0)
+[dotNET TV](https://www.youtube.com/c/dotNET/videos)
 
 
 Enfant
