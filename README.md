@@ -6,7 +6,7 @@
 
 [France 3](https://www.tntendirect.com/M6-en-direct)
 
-[Canal+]() [Décalé]()
+[Canal+](https://www.canalplus.com/live/?channel=601) [Décalé]()
 
 [France 5]()
 
@@ -30,7 +30,7 @@
 
 [BFM TV](https://www.bfmtv.com/en-direct/)
 
-[CNews]()
+[CNews](https://www.canalplus.com/live/?channel=480)
 
 [CStar](https://www.tntendirect.com/CStar-en-direct)
 
