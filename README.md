@@ -12,7 +12,7 @@
 
 [M6]()
 
-[Arte](https://www.tntendirect.com/Arte-en-direct)
+[Arte](https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8)
 
 [C8](https://www.tntendirect.com/C8-en-direct)
 
@@ -24,21 +24,23 @@
 
 [NRJ 12](https://www.tntendirect.com/NRJ12-en-direct)
 
-[LCP]()
+[Public Sénat](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xkxbzc)
+
+[LCP](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xji3qy)
 
 [France 4]()
 
-[BFM TV](https://www.bfmtv.com/en-direct/)
+[BFM TV](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xgz4t1)
 
-[CNews](https://www.canalplus.com/live/?channel=480)
+[CNews](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x3b68jn)
 
 [CStar](https://www.tntendirect.com/CStar-en-direct)
 
-[Gulli](https://replay.gulli.fr/jwplayer/embedstreamtv)
+[Gulli](https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8)
 
 [TF1 Séries Films](https://www.tntendirect.com/Tf1-Series-Films-en-direct)
 
-[L'Équipe 21](https://www.tntendirect.com/L'Equipe-21-en-direct)
+[L'Équipe 21](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x2lefik)
 
 [6ter](https://www.tntendirect.com/6ter-en-direct)
 
@@ -50,15 +52,17 @@
 
 [LCI](https://www.tf1.fr/lci/direct)
 
-[France Info](https://youtu.be/Z-Nwo-ypKtM)
+[France Info](https://www.youtube.com/embed/Z-Nwo-ypKtM)
 
-[France 24](https://youtu.be/jVYG_eH5UMU)
+[France 24](https://www.youtube.com/embed/jVYG_eH5UMU)
 
-[Euronews](https://youtu.be/MsN0_WNXvh8)
+[Euronews](https://www.youtube.com/embed/MsN0_WNXvh8)
 
 [BFM Business](https://www.bfmtv.com/economie/en-direct/)
 
-[01net TV](https://www.dailymotion.com/video/x7pctg0)
+[France Inter](https://www.youtube.com/embed/5JHIgJYE-78)
+
+[01net TV](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x7pctg0)
 
 
 Sport
@@ -68,7 +72,7 @@ Sport
 
 Programmeurs
 -------------
-[dotNET TV](https://www.youtube.com/c/dotNET/videos)
+[dotNET TV](https://www.youtube.com/c/dotNET/live)
 
 
 Enfant
