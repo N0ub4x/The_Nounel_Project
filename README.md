@@ -21,21 +21,21 @@
 | CNews      | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.tntendirect.com/CStar-en-direct) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
 | Gulli      | [>](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://i.imgur.com/l85rt37.png"/> |
-| TF1 Séries Films | [>](https://www.tntendirect.com/Tf1-Series-Films-en-direct) | <img height="20" src="https://i.imgur.com/JPHIUnf.png"/> |
+| TF1 Séries Films | [>](https://www.tntendirect.com/Tf1-Series-Films-en-direct) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.tntendirect.com/6ter-en-direct) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
-| RMC Story  | [>](https://www.rmcbfmplay.com/direct-tv/rmc-story) | <img height="20" src="https://i.imgur.com/jXANVZp.png"/> |
-| RMC Découverte | [>](https://www.rmcbfmplay.com/direct-tv/rmc-decouverte) | <img height="20" src="https://i.imgur.com/wzmlEBl.png"/> |
-| Chérie 25  | [>](https://www.tntendirect.com/Cherie-25-en-direct) | <img height="20" src="https://i.imgur.com/dI7rnz8.png"/> |
+| RMC Story  | [>](https://www.rmcbfmplay.com/direct-tv/rmc-story) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
+| RMC Découverte | [>](https://www.rmcbfmplay.com/direct-tv/rmc-decouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
+| Chérie 25  | [>](https://www.tntendirect.com/Cherie-25-en-direct) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1.fr/lci/direct) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
-| France 24  | [>](https://www.youtube.com/embed/jVYG_eH5UMU) | <img height="20" src="https://i.imgur.com/FwEeS8x.png"/> |
+| France 24  | [>](https://www.youtube.com/embed/jVYG_eH5UMU) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
 | Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
-| BFM Business | [>](https://www.bfmtv.com/economie/en-direct/) | <img height="20" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
-| France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="20" src="https://i.imgur.com/smk90Wh.png"/> |
-| 01net TV | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x7pctg0) | <img height="20" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
+| BFM Business | [>](https://www.bfmtv.com/economie/en-direct/) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
+| France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
+| 01net TV | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
 | beIN Sport | [x]() | <img height="20" src="https://i.imgur.com/FOVn9J1.png"/> |
-| dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="20" src="https://i.imgur.com/9LrXFNP.png"/> |
-| Bob l'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="20" src="https://i.imgur.com/EETIopp.png"/> |
+| dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
+| Bob l'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="30" src="https://i.imgur.com/EETIopp.png"/> |
 | Fashion TV | [>](https://rplayer.surge.sh/?url=https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n56r7oi.jpg"/> |
-| South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="20" src="https://i.imgur.com/LxGp1n5.png"/> |
+| South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="30" src="https://i.imgur.com/LxGp1n5.png"/> |
