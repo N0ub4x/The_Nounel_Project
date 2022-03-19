@@ -46,7 +46,7 @@ Ouvrez VLC
 
 Appuyez sur Média > Ouvrir un flux réseau...
 
-Copier : https://raw.githubusercontent.com/N0ub4x/IPTVFR/main/iptvfr.m3u
+Copier : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u
 
 Coller sur "Entrer une URL réseau :"
 
