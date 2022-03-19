@@ -13,7 +13,7 @@
 | W9         | [>](https://www.tntendirect.com/W9-en-direct) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
 | TMC        | [>](https://www.tntendirect.com/TMC-en-direct) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
 | TFX        | [>](https://www.tntendirect.com/TFX-en-direct) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
-| NRJ 12     | [>](https://www.tntendirect.com/NRJ12-en-direct) | <img height="20" src="https://i.imgur.com/Sz9Lh9T.png"/> |
+| NRJ 12     | [>](https://www.tntendirect.com/NRJ12-en-direct) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xji3qy) | <img height="20" src="https://i.imgur.com/5iMBxUj.png"/> |
 | Public Sénat | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xkxbzc) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | 
 | France 4   | [x]() | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
@@ -36,6 +36,6 @@
 | 01net TV | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
 | beIN Sport | [x]() | <img height="20" src="https://i.imgur.com/FOVn9J1.png"/> |
 | dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
-| Bob l'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="30" src="https://i.imgur.com/EETIopp.png"/> |
-| Fashion TV | [>](https://rplayer.surge.sh/?url=https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n56r7oi.jpg"/> |
-| South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="30" src="https://i.imgur.com/LxGp1n5.png"/> |
+| Bob l'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="40" src="https://i.imgur.com/EETIopp.png"/> |
+| Fashion TV | [>](https://rplayer.surge.sh/?url=https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
+| South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/LxGp1n5.png"/> |
