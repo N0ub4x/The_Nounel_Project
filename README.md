@@ -17,7 +17,7 @@
 | LCP        | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xji3qy) | <img height="20" src="https://i.imgur.com/5iMBxUj.png"/> |
 | Public Sénat | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xkxbzc) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | 
 | France 4   | [x]() | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
-| BFM TV     | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xgz4t1) | <img height="20" src="https://i.imgur.com/jNCPG26.png"/> |
+| BFM TV     | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
 | CNews      | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.tntendirect.com/CStar-en-direct) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
 | Gulli      | [>](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://i.imgur.com/l85rt37.png"/> |
