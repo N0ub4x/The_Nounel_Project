@@ -35,7 +35,7 @@ https://s6.tntendirect.com/d17/live/playlist.m3u8
 http://omega.ws:8080/kadiri/123456/1095
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CultureBox
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="TF1",TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
 http://omega.ws:8080/kadiri/123456/12943
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
 http://omega.ws:8080/kadiri/123456/1078
@@ -57,23 +57,23 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 http://omega.ws:8080/kadiri/123456/12697
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
 http://omega.ws:8080/kadiri/123456/1186
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine+",Cine+ Emotion
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Émotion",Cine+ Emotion
 http://omega.ws:8080/kadiri/123456/12684
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Première
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Première
 http://omega.ws:8080/kadiri/123456/12682
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Frisson
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Ciné+ Frisson
 http://omega.ws:8080/kadiri/123456/12683
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Famiz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Ciné+ Famiz
 http://omega.ws:8080/kadiri/123456/12687
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Classic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Classic",Ciné+ Classic
 http://omega.ws:8080/kadiri/123456/4415
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Club
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Club
 http://omega.ws:8080/kadiri/123456/12686
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Action
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Action",Action
 http://omega.ws:8080/kadiri/123456/12690
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Warner",Warner TV
 http://omega.ws:8080/kadiri/123456/30405
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Téva
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Téva
 http://omega.ws:8080/kadiri/123456/1142
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TCM Cinéma
 http://omega.ws:8080/kadiri/123456/12946
@@ -123,9 +123,9 @@ http://omega.ws:8080/kadiri/123456/4359
 http://omega.ws:8080/kadiri/123456/12949
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Science et Vie
 http://omega.ws:8080/kadiri/123456/4355
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Animaux
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Animaux
 http://omega.ws:8080/kadiri/123456/4445
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Chasse et Peche
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Chasse et Peche
 http://omega.ws:8080/kadiri/123456/4417
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Seasons
 http://omega.ws:8080/kadiri/123456/4354
@@ -133,39 +133,39 @@ http://omega.ws:8080/kadiri/123456/4354
 http://omega.ws:8080/kadiri/123456/13273
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trek TV
 http://omega.ws:8080/kadiri/123456/1113
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Histoire
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7YXxpe.png" group-title="Histoire",Histoire
 http://omega.ws:8080/kadiri/123456/1113
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NRJ",NRJ Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rmuGNjw.png" group-title="Musique",NRJ Hits
 http://omega.ws:8080/kadiri/123456/1064
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",VH1 Classic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="https://i.imgur.com/eqRoBFw.png",VH1 Classic
 http://omega.ws:8080/kadiri/123456/1060
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Mezzo",Mezzo Live
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo Live
 http://omega.ws:8080/kadiri/123456/1065
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Tropical
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Tropical
 http://omega.ws:8080/kadiri/123456/1062
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Africa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Africa
 http://omega.ws:8080/kadiri/123456/1063
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Latina
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Latina
 http://omega.ws:8080/kadiri/123456/30408
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Mziki
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Mziki
 http://omega.ws:8080/kadiri/123456/30409
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Mezzo",Mezzo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo
 http://omega.ws:8080/kadiri/123456/1069
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="M6",M6 Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",M6 Music
 http://omega.ws:8080/kadiri/123456/1072
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Urbain
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Urbain
 http://omega.ws:8080/kadiri/123456/4337
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Brava
 http://omega.ws:8080/kadiri/123456/1067
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MTV",MTV
 http://omega.ws:8080/kadiri/123456/46864
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MTV",MTV Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",MTV Music
 http://omega.ws:8080/kadiri/123456/1068
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A La Carte
 http://omega.ws:8080/kadiri/123456/18988
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Top",Top Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Top Drama
 http://omega.ws:8080/kadiri/123456/38414
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Top",Top Kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Top Kids
 http://omega.ws:8080/kadiri/123456/1048
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+
 http://omega.ws:8080/kadiri/123456/13740
@@ -213,9 +213,50 @@ http://omega.ws:8080/kadiri/123456/1084
 http://omega.ws:8080/kadiri/123456/13277
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf Channel
 http://omega.ws:8080/kadiri/123456/1080
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",InfoSport
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wxXPG4E.png" group-title="Sport",InfoSport
 http://omega.ws:8080/kadiri/123456/1079
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Eurosport 360
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnk4DEJ.png" group-title="Sport",Eurosport 360
 http://omega.ws:8080/kadiri/123456/56495
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport Acess
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QDsPLfp.png" group-title="Sport",RMC Sport Acess
 http://omega.ws:8080/kadiri/123456/56501
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cp6E5sn.png" group-title="Enfant",Tortues Ninja TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Pluto TV Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kBBeeXx.png" group-title="Action",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WjyB5lZ.png" group-title="Adulte"IGN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DiOiX4R.png" group-title="Enfant",Dora TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5l4ogRi.png" group-title="Film",Pluto TV Ciné
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yYQG75l.png" group-title="Film",Pluto TV Ciné Rétro
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ivhwcjg.png" group-title="Comédie",Pluto TV Comédie
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yfk75lM.png" group-title="Enfant",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XCMr9pe.png" group-title="Enfant",Pluto TV Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kptUbup.png" group-title="Enfant",Pluto TV Kids Collection
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hKJEPUm.png" group-title="Enfant",Pluto Kids Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JIFhEYB.png" group-title="Cuisine",Pluto TV Cuisine
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lAqANMt.png" group-title="Horreur",Pluto TV Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BdJBSR6.png" group-title="Drama",Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VLkMXlD.png" group-title="Horreur",Pluto TV Paranormal
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q3Q9TIk.png" group-title="Enfant",Pluto TV Teens Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fjHLlvo.png" group-title="",Pluto TV Télénovela
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5C51qq5.png" group-title="Gaming",Pluto TV Gaming
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EOKyX4z.png" group-title="",Pluto TV The Pet Collective
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
