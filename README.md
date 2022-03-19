@@ -5,7 +5,7 @@
 | TF1        | [>](https://www.tntendirect.com/TF1-en-direct) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [x]() | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://www.tntendirect.com/M6-en-direct) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
-| Canal+     | [>]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
+| Canal+     | [x]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [x]() | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [x]() | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
