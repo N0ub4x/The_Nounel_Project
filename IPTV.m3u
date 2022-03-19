@@ -2,13 +2,15 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
 http://omega.ws:8080/kadiri/123456/11363
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
-http://omega.ws:8080/kadiri/123456/11365
+https://list.iptvcat.com/my_list/s/2b13b805f6bf99431797f02e8b99574f.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
-http://omega.ws:8080/kadiri/123456/11366
+https://list.iptvcat.com/my_list/s/480ae5d068a671cd591969b072b13286.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
-http://omega.ws:8080/kadiri/123456/11367
+https://list.iptvcat.com/my_list/s/1cbf2f70688bbcc9279f6620a09d9b85.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
-http://omega.ws:8080/kadiri/123456/11368
+https://list.iptvcat.com/my_list/s/2d759beefdc1acfd371d0b8de68bd80d.m3u8
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="" group-title="Adulte",France Ô
+https://list.iptvcat.com/my_list/s/2490ce85252af16a5aa4aed71aadd52d.m3u8
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
 http://omega.ws:8080/kadiri/123456/11364
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
@@ -50,13 +52,13 @@ http://omega.ws:8080/kadiri/123456/4416
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
 http://omega.ws:8080/kadiri/123456/4383
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
-http://omega.ws:8080/kadiri/123456/4391
+https://list.iptvcat.com/my_list/s/e06dedccff77be89a408281611593148.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",TV5 Monde
 http://omega.ws:8080/kadiri/123456/12697
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
-http://omega.ws:8080/kadiri/123456/1186
+https://list.iptvcat.com/my_list/s/7b7822f187628b5428c5bd92ec6ce055.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Émotion",Cine+ Emotion
 http://omega.ws:8080/kadiri/123456/12684
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Première
