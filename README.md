@@ -20,7 +20,7 @@
 | BFM TV     | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
 | CNews      | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.tntendirect.com/CStar-en-direct) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
-| Gulli      | [>](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://i.imgur.com/l85rt37.png"/> |
+| Gulli      | [>](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
 | TF1 Séries Films | [>](https://www.tntendirect.com/Tf1-Series-Films-en-direct) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.tntendirect.com/6ter-en-direct) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
