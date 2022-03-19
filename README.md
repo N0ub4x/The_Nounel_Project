@@ -1,13 +1,12 @@
 # The Nounel Project - Regarder la TV Gratuitement !
-# (Liste Pas Complète)
 
-| Chaînes           | Lien  | Logo |
+| Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://www.tntendirect.com/TF1-en-direct) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
-| France 2   | [>]() | <img height="20" src="https://imgur.com/23MFY0U"/> |
-| France 3   | [>](https://www.tntendirect.com/M6-en-direct) | <img height="20" src="hhttps://imgur.com/hxRmcTD"/> |
-| Canal+     | [>]() | <img height="20" src=""/> |
-| France 5   | [x]() | <img height="20" src="https://imgur.com/5da6u0l"/> |
+| France 2   | [x]() | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
+| France 3   | [>](https://www.tntendirect.com/M6-en-direct) | <img height="20" src="hhttps://i.imgur.com/hxRmcTD.png"/> |
+| Canal+     | [>]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
+| France 5   | [x]() | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [x]() | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.tntendirect.com/C8-en-direct) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
