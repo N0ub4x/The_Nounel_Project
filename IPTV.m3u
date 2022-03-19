@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="TF1",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
 http://omega.ws:8080/kadiri/123456/11363
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="France",France 2
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
 http://omega.ws:8080/kadiri/123456/11365
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="France",France 3
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
 http://omega.ws:8080/kadiri/123456/11366
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="France",France 4
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
 http://omega.ws:8080/kadiri/123456/11367
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="France",France 5
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
 http://omega.ws:8080/kadiri/123456/11368
-#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="",M6
+#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
 http://omega.ws:8080/kadiri/123456/11364
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="",Arte
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
 http://omega.ws:8080/kadiri/123456/13030
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="",C8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
 http://omega.ws:8080/kadiri/123456/4427
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="",W9
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
 http://omega.ws:8080/kadiri/123456/12941
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="",TMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
 http://omega.ws:8080/kadiri/123456/4339
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="",TFX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
 http://omega.ws:8080/kadiri/123456/4369
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="NRJ",NRJ 12
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
 http://omega.ws:8080/kadiri/123456/10397
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="TF1",LCP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
 http://omega.ws:8080/kadiri/123456/4382
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
 http://omega.ws:8080/kadiri/123456/12695
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="",CNews
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="Adulte",CNews
 http://omega.ws:8080/kadiri/123456/4386
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="",CStar
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="Adulte",CStar
 https://s6.tntendirect.com/d17/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
-http://omega.ws:8080/kadiri/123456/1095
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CultureBox
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
 http://omega.ws:8080/kadiri/123456/12943
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
 http://omega.ws:8080/kadiri/123456/1078
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="",6ter
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
 http://omega.ws:8080/kadiri/123456/4451
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
 http://omega.ws:8080/kadiri/123456/1120
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="",Chérie 25
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
 http://omega.ws:8080/kadiri/123456/4416
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="",LCI
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
 http://omega.ws:8080/kadiri/123456/4383
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
 http://omega.ws:8080/kadiri/123456/4391
@@ -71,13 +71,13 @@ http://omega.ws:8080/kadiri/123456/4415
 http://omega.ws:8080/kadiri/123456/12686
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Action",Action
 http://omega.ws:8080/kadiri/123456/12690
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Warner",Warner TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Warner TV
 http://omega.ws:8080/kadiri/123456/30405
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Téva
 http://omega.ws:8080/kadiri/123456/1142
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TCM Cinéma
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",TCM Cinéma
 http://omega.ws:8080/kadiri/123456/12946
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RTL 9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",RTL 9
 http://omega.ws:8080/kadiri/123456/13288
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Max
 http://omega.ws:8080/kadiri/123456/13240
@@ -87,17 +87,17 @@ http://omega.ws:8080/kadiri/123456/4365
 http://omega.ws:8080/kadiri/123456/4366
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Choc
 http://omega.ws:8080/kadiri/123456/13008
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkzlZoT.png" group-title="AB",AB1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkzlZoT.png" group-title="Adulte",AB1
 http://omega.ws:8080/kadiri/123456/1159
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ulaqDr.png" group-title="AB",AB3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ulaqDr.png" group-title="Adulte",AB3
 http://omega.ws:8080/kadiri/123456/4447
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ny545nH.png" group-title="Paramount",Paramount Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ny545nH.png" group-title="Film",Paramount Channel
 http://omega.ws:8080/kadiri/123456/4362
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Paris Première
 http://omega.ws:8080/kadiri/123456/13473
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comédie",Comédie
 http://omega.ws:8080/kadiri/123456/13244
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paramount",Paramount Décalé
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Paramount Décalé
 http://omega.ws:8080/kadiri/123456/13010
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Polar+
 http://omega.ws:8080/kadiri/123456/20157
@@ -129,7 +129,7 @@ http://omega.ws:8080/kadiri/123456/4445
 http://omega.ws:8080/kadiri/123456/4417
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Seasons
 http://omega.ws:8080/kadiri/123456/4354
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Crime District
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Crime District
 http://omega.ws:8080/kadiri/123456/13273
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trek TV
 http://omega.ws:8080/kadiri/123456/1113
@@ -137,7 +137,7 @@ http://omega.ws:8080/kadiri/123456/1113
 http://omega.ws:8080/kadiri/123456/1113
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rmuGNjw.png" group-title="Musique",NRJ Hits
 http://omega.ws:8080/kadiri/123456/1064
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="https://i.imgur.com/eqRoBFw.png",VH1 Classic
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eqRoBFw.png" group-title="",VH1 Classic
 http://omega.ws:8080/kadiri/123456/1060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo Live
 http://omega.ws:8080/kadiri/123456/1065
@@ -157,13 +157,13 @@ http://omega.ws:8080/kadiri/123456/1072
 http://omega.ws:8080/kadiri/123456/4337
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Brava
 http://omega.ws:8080/kadiri/123456/1067
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MTV",MTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",MTV
 http://omega.ws:8080/kadiri/123456/46864
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",MTV Music
 http://omega.ws:8080/kadiri/123456/1068
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A La Carte
 http://omega.ws:8080/kadiri/123456/18988
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Top Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Top Drama
 http://omega.ws:8080/kadiri/123456/38414
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Top Kids
 http://omega.ws:8080/kadiri/123456/1048
@@ -259,4 +259,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dc
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EOKyX4z.png" group-title="",Pluto TV The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VtrteSH.png" group-title="Adulte",Fashion TV L'Original
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mY4SN2K.png" group-title="",Bloomberg TV+
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VtrteSH.png" group-title="Adulte",Fashion TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
