@@ -1,7 +1,6 @@
 # The Nounel Project - Regarder la TV Gratuitement !
 
-<center>
-  | Chaînes           | Lien  | Logo  |
+| Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://www.tntendirect.com/TF1-en-direct) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [x]() | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
