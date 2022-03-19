@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="TF1",TF1
+http://omega.ws:8080/kadiri/123456/11363
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="France",France 2
+http://omega.ws:8080/kadiri/123456/11365
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="France",France 3
+http://omega.ws:8080/kadiri/123456/11366
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="France",France 4
+http://omega.ws:8080/kadiri/123456/11367
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="France",France 5
+http://omega.ws:8080/kadiri/123456/11368
+#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="",M6
+http://omega.ws:8080/kadiri/123456/11364
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="",Arte
+http://omega.ws:8080/kadiri/123456/13030
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="",C8
+http://omega.ws:8080/kadiri/123456/4427
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="",W9
+http://omega.ws:8080/kadiri/123456/12941
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="",TMC
+http://omega.ws:8080/kadiri/123456/4339
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="",TFX
+http://omega.ws:8080/kadiri/123456/4369
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="NRJ",NRJ 12
+http://omega.ws:8080/kadiri/123456/10397
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="TF1",LCP
+http://omega.ws:8080/kadiri/123456/4382
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
+http://omega.ws:8080/kadiri/123456/12695
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="",CNews
+http://omega.ws:8080/kadiri/123456/4386
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="",CStar
+https://s6.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
+http://omega.ws:8080/kadiri/123456/1095
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CultureBox
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="TF1",TF1 Séries Films
+http://omega.ws:8080/kadiri/123456/12943
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
+http://omega.ws:8080/kadiri/123456/1078
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="",6ter
+http://omega.ws:8080/kadiri/123456/4451
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
+http://omega.ws:8080/kadiri/123456/1120
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="",Chérie 25
+http://omega.ws:8080/kadiri/123456/4416
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="",LCI
+http://omega.ws:8080/kadiri/123456/4383
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
+http://omega.ws:8080/kadiri/123456/4391
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",TV5 Monde
+http://omega.ws:8080/kadiri/123456/12697
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
+http://omega.ws:8080/kadiri/123456/1186
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine+",Cine+ Emotion
+http://omega.ws:8080/kadiri/123456/12684
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Première
+http://omega.ws:8080/kadiri/123456/12682
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Frisson
+http://omega.ws:8080/kadiri/123456/12683
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Famiz
+http://omega.ws:8080/kadiri/123456/12687
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Classic
+http://omega.ws:8080/kadiri/123456/4415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Ciné+",Ciné+ Club
+http://omega.ws:8080/kadiri/123456/12686
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Action
+http://omega.ws:8080/kadiri/123456/12690
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Warner",Warner TV
+http://omega.ws:8080/kadiri/123456/30405
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Téva
+http://omega.ws:8080/kadiri/123456/1142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TCM Cinéma
+http://omega.ws:8080/kadiri/123456/12946
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RTL 9
+http://omega.ws:8080/kadiri/123456/13288
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Max
+http://omega.ws:8080/kadiri/123456/13240
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Géants
+http://omega.ws:8080/kadiri/123456/4365
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS City
+http://omega.ws:8080/kadiri/123456/4366
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Choc
+http://omega.ws:8080/kadiri/123456/13008
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkzlZoT.png" group-title="AB",AB1
+http://omega.ws:8080/kadiri/123456/1159
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ulaqDr.png" group-title="AB",AB3
+http://omega.ws:8080/kadiri/123456/4447
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ny545nH.png" group-title="Paramount",Paramount Channel
+http://omega.ws:8080/kadiri/123456/4362
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Paris Première
+http://omega.ws:8080/kadiri/123456/13473
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comédie",Comédie
+http://omega.ws:8080/kadiri/123456/13244
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Paramount",Paramount Décalé
+http://omega.ws:8080/kadiri/123456/13010
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Polar+
+http://omega.ws:8080/kadiri/123456/20157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="National",National Géographie
+http://omega.ws:8080/kadiri/123456/4374
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="National",National Géographie Wild
+http://omega.ws:8080/kadiri/123456/12952
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery Channel
+http://omega.ws:8080/kadiri/123456/4405
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery ID
+http://omega.ws:8080/kadiri/123456/12866
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery Science
+http://omega.ws:8080/kadiri/123456/12867
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery Family
+http://omega.ws:8080/kadiri/123456/12951
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète+
+http://omega.ws:8080/kadiri/123456/4360
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète+ CI
+http://omega.ws:8080/kadiri/123456/4358
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète A&E
+http://omega.ws:8080/kadiri/123456/4359
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ushuaia TV
+http://omega.ws:8080/kadiri/123456/12949
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Science et Vie
+http://omega.ws:8080/kadiri/123456/4355
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Animaux
+http://omega.ws:8080/kadiri/123456/4445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Chasse et Peche
+http://omega.ws:8080/kadiri/123456/4417
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Seasons
+http://omega.ws:8080/kadiri/123456/4354
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Crime District
+http://omega.ws:8080/kadiri/123456/13273
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trek TV
+http://omega.ws:8080/kadiri/123456/1113
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Histoire
+http://omega.ws:8080/kadiri/123456/1113
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NRJ",NRJ Hits
+http://omega.ws:8080/kadiri/123456/1064
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",VH1 Classic
+http://omega.ws:8080/kadiri/123456/1060
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Mezzo",Mezzo Live
+http://omega.ws:8080/kadiri/123456/1065
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Tropical
+http://omega.ws:8080/kadiri/123456/1062
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Africa
+http://omega.ws:8080/kadiri/123456/1063
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Latina
+http://omega.ws:8080/kadiri/123456/30408
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Mziki
+http://omega.ws:8080/kadiri/123456/30409
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Mezzo",Mezzo
+http://omega.ws:8080/kadiri/123456/1069
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="M6",M6 Music
+http://omega.ws:8080/kadiri/123456/1072
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trace",Trace Urbain
+http://omega.ws:8080/kadiri/123456/4337
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Brava
+http://omega.ws:8080/kadiri/123456/1067
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MTV",MTV
+http://omega.ws:8080/kadiri/123456/46864
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MTV",MTV Music
+http://omega.ws:8080/kadiri/123456/1068
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A La Carte
+http://omega.ws:8080/kadiri/123456/18988
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Top",Top Drama
+http://omega.ws:8080/kadiri/123456/38414
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Top",Top Kids
+http://omega.ws:8080/kadiri/123456/1048
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+
+http://omega.ws:8080/kadiri/123456/13740
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boing
+http://omega.ws:8080/kadiri/123456/1105
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boomerang
+http://omega.ws:8080/kadiri/123456/4429
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Canal J
+http://omega.ws:8080/kadiri/123456/1100
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Cartoon Network
+http://omega.ws:8080/kadiri/123456/1099
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney Channel
+http://omega.ws:8080/kadiri/123456/4404
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney+
+http://omega.ws:8080/kadiri/123456/1104
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney Junior
+http://omega.ws:8080/kadiri/123456/1096
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Game One
+http://omega.ws:8080/kadiri/123456/1086
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",J-One
+http://omega.ws:8080/kadiri/123456/1094
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Mangas
+http://omega.ws:8080/kadiri/123456/12954
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon
+http://omega.ws:8080/kadiri/123456/1102
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Junior
+http://omega.ws:8080/kadiri/123456/1090
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji
+http://omega.ws:8080/kadiri/123456/4340
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Teletoon
+http://omega.ws:8080/kadiri/123456/1089
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Teens
+http://omega.ws:8080/kadiri/123456/1091
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Toonami
+http://omega.ws:8080/kadiri/123456/1087
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport
+http://omega.ws:8080/kadiri/123456/9779
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN Sport
+http://omega.ws:8080/kadiri/123456/4436
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Eurosport
+http://omega.ws:8080/kadiri/123456/1083
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Foot
+http://omega.ws:8080/kadiri/123456/1084
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf+
+http://omega.ws:8080/kadiri/123456/13277
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf Channel
+http://omega.ws:8080/kadiri/123456/1080
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",InfoSport
+http://omega.ws:8080/kadiri/123456/1079
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Eurosport 360
+http://omega.ws:8080/kadiri/123456/56495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport Acess
+http://omega.ws:8080/kadiri/123456/56501
