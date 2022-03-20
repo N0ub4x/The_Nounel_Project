@@ -5,7 +5,7 @@
 | TF1        | [>](https://www.tntendirect.com/TF1-en-direct) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [x]() | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://www.tntendirect.com/M6-en-direct) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
-| Canal+     | [>]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
+| Canal+     | [x]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [x]() | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [x]() | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
@@ -36,9 +36,9 @@
 | 01net TV | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
 | beIN Sport | [x]() | <img height="20" src="https://i.imgur.com/FOVn9J1.png"/> |
 | dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
-| Bob l'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="40" src="https://i.imgur.com/EETIopp.png"/> |
+| Bob l'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="40" src="https://i.imgur.com/mk0fNO9.png"/> |
 | Fashion TV | [>](https://rplayer.surge.sh/?url=https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
-| South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/LxGp1n5.png"/> |
+| South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="20" src="https://i.imgur.com/aiMAjfW.png"/> |
 
 Tutoriel (IPTV)
 ----------------
