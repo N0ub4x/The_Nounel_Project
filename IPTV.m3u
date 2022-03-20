@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
-http://omega.ws:8080/kadiri/123456/11363
+https://list.iptvcat.com/my_list/s/a5f85f1fa1705e043358f9e9ca77c4f1.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
 https://list.iptvcat.com/my_list/s/2b13b805f6bf99431797f02e8b99574f.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
@@ -12,137 +12,137 @@ https://list.iptvcat.com/my_list/s/2d759beefdc1acfd371d0b8de68bd80d.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="" group-title="Adulte",France Ô
 https://list.iptvcat.com/my_list/s/2490ce85252af16a5aa4aed71aadd52d.m3u8
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
-http://omega.ws:8080/kadiri/123456/11364
+https://list.iptvcat.com/my_list/s/b21a5ab9b69d269ff60176d04ce53c12.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
-http://omega.ws:8080/kadiri/123456/13030
+https://list.iptvcat.com/my_list/s/b42d9b7069d579c8b557e520b95da27d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
-http://omega.ws:8080/kadiri/123456/4427
+https://list.iptvcat.com/my_list/s/5c7be1714a4c17126340cb01a089793b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
 http://omega.ws:8080/kadiri/123456/12941
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
-http://omega.ws:8080/kadiri/123456/4339
+https://list.iptvcat.com/my_list/s/57722e64b4897e1fa7532cd4025a6c0c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
-http://omega.ws:8080/kadiri/123456/4369
+https://list.iptvcat.com/my_list/s/c799ad841a840e3fb1d3c39e38028954.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
-http://omega.ws:8080/kadiri/123456/10397
+https://list.iptvcat.com/my_list/s/4ce172a8a0ee2c44ed772097a5108309.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
-http://omega.ws:8080/kadiri/123456/4382
+https://list.iptvcat.com/my_list/s/0626040942b9d7d1ca6ec9a4972b850e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
-http://omega.ws:8080/kadiri/123456/12695
+https://list.iptvcat.com/my_list/s/63d47df9ba75d711edc355343edfbfb4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="Adulte",CNews
-http://omega.ws:8080/kadiri/123456/4386
+https://list.iptvcat.com/my_list/s/1ba6ceaca1b9e8f2ed56607e9fb43511.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="Adulte",CStar
 https://s6.tntendirect.com/d17/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+https://list.iptvcat.com/my_list/s/03a0bf0befc7b810f83e6567f3b45b3d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CultureBox
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
-http://omega.ws:8080/kadiri/123456/12943
+https://list.iptvcat.com/my_list/s/70d16f8593095c2e59726f49ed4b8df7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
-http://omega.ws:8080/kadiri/123456/1078
+https://list.iptvcat.com/my_list/s/08c4d0b21c7639dfe48b720d94503303.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
-http://omega.ws:8080/kadiri/123456/4451
+https://list.iptvcat.com/my_list/s/485b6620fab60f60047a03be7446d4e4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
-
+https://list.iptvcat.com/my_list/s/7a5db8e652f5747892de985a8b861457.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
-http://omega.ws:8080/kadiri/123456/1120
+https://list.iptvcat.com/my_list/s/b3f47ffa6e825fcc824cd6216db4231f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
-http://omega.ws:8080/kadiri/123456/4416
+https://list.iptvcat.com/my_list/s/d63d7a170d07a721cf6c92e9b68ed442.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
-http://omega.ws:8080/kadiri/123456/4383
+https://list.iptvcat.com/my_list/s/092faf6afd0786f6a60b8572b4a1d046.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
 https://list.iptvcat.com/my_list/s/e06dedccff77be89a408281611593148.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",TV5 Monde
-http://omega.ws:8080/kadiri/123456/12697
+https://list.iptvcat.com/my_list/s/b9749816b6aaf173882ae3fb1aa81c8f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
 https://list.iptvcat.com/my_list/s/7b7822f187628b5428c5bd92ec6ce055.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Émotion",Cine+ Emotion
-http://omega.ws:8080/kadiri/123456/12684
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Émotion",Cine+ Émotion
+https://list.iptvcat.com/my_list/s/a1fd8965b311b2a46206f8b0eee0015e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Première
-http://omega.ws:8080/kadiri/123456/12682
+https://list.iptvcat.com/my_list/s/5838eb6f193aadb1a6372e9e155e3ea9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Ciné+ Frisson
-http://omega.ws:8080/kadiri/123456/12683
+https://list.iptvcat.com/my_list/s/0ce62db82b1cd2beab84c2c873eb35b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Ciné+ Famiz
-http://omega.ws:8080/kadiri/123456/12687
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Classic",Ciné+ Classic
-http://omega.ws:8080/kadiri/123456/4415
+https://list.iptvcat.com/my_list/s/235e56ac008b22e83bd025d64ced3443.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Classique",Ciné+ Classic
+https://list.iptvcat.com/my_list/s/e923d47c89da767f630a92f22fa09f27.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Club
-http://omega.ws:8080/kadiri/123456/12686
+https://list.iptvcat.com/my_list/s/d01646675dd30c93c83694d8809cb18a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Action",Action
-http://omega.ws:8080/kadiri/123456/12690
+https://list.iptvcat.com/my_list/s/223310e0c1ac9c340096648cbcc8723a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Warner TV
 http://omega.ws:8080/kadiri/123456/30405
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Téva
-http://omega.ws:8080/kadiri/123456/1142
+https://list.iptvcat.com/my_list/s/1b568cbdf9281f4b4a55861184b8d701.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",TCM Cinéma
-http://omega.ws:8080/kadiri/123456/12946
+https://list.iptvcat.com/my_list/s/8eeffb7f55b9128ddf6f5f2e6d8108b6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",RTL 9
-http://omega.ws:8080/kadiri/123456/13288
+https://list.iptvcat.com/my_list/s/46b82f6b5081f1086ed4b28d76180858.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Max
-http://omega.ws:8080/kadiri/123456/13240
+https://list.iptvcat.com/my_list/s/2dfdd74395af3615151f28519937631e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Géants
-http://omega.ws:8080/kadiri/123456/4365
+https://list.iptvcat.com/my_list/s/723bae19cb72319366b9f77e7f97c2b4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS City
-http://omega.ws:8080/kadiri/123456/4366
+https://list.iptvcat.com/my_list/s/91628654518d0f5f4ac15eddf48bfaa8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Choc
-http://omega.ws:8080/kadiri/123456/13008
+https://list.iptvcat.com/my_list/s/a92f323b0459cee78fb0b8596f45f827.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkzlZoT.png" group-title="Adulte",AB1
-http://omega.ws:8080/kadiri/123456/1159
+https://list.iptvcat.com/my_list/s/c4f66296dd368ea0b15a1052f8795cde.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ulaqDr.png" group-title="Adulte",AB3
-http://omega.ws:8080/kadiri/123456/4447
+https://list.iptvcat.com/my_list/s/271d612311fb89ae0c7f4627eda58a37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ny545nH.png" group-title="Film",Paramount Channel
-http://omega.ws:8080/kadiri/123456/4362
+https://list.iptvcat.com/my_list/s/e81d732d5403b1b5b429da83c5365655.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Paris Première
-http://omega.ws:8080/kadiri/123456/13473
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comédie",Comédie
-http://omega.ws:8080/kadiri/123456/13244
+https://list.iptvcat.com/my_list/s/5e016fd86af2f7cae8a3e7b66f1d6553.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comédie",Comédie+
+https://list.iptvcat.com/my_list/s/638cf9cd2d0ae898e33dd106b153af36.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Paramount Décalé
-http://omega.ws:8080/kadiri/123456/13010
+https://list.iptvcat.com/my_list/s/38781719dd550814d8d02c2480b7d765.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Polar+
-http://omega.ws:8080/kadiri/123456/20157
+https://list.iptvcat.com/my_list/s/f2e0498e3c80e7adf702625c8a7dfbf7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="National",National Géographie
-http://omega.ws:8080/kadiri/123456/4374
+https://list.iptvcat.com/my_list/s/64c292ad08c32347329d73e82481fcac.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="National",National Géographie Wild
-http://omega.ws:8080/kadiri/123456/12952
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery Channel
-http://omega.ws:8080/kadiri/123456/4405
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery ID
+https://list.iptvcat.com/my_list/s/74f523179e0353a3efb1668d32722e2e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Channel
+https://list.iptvcat.com/my_list/s/f926fa2234598c8b515158ee32ae2e76.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Discovery ID
 http://omega.ws:8080/kadiri/123456/12866
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery Science
-http://omega.ws:8080/kadiri/123456/12867
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Discovery",Discovery Family
-http://omega.ws:8080/kadiri/123456/12951
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Science
+https://list.iptvcat.com/my_list/s/0b302b935574b54bfb5463d0c684fe7d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Discovery Family
+https://list.iptvcat.com/my_list/s/e0d80dc1d9b510258c113986d5e209e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète+
-http://omega.ws:8080/kadiri/123456/4360
+https://list.iptvcat.com/my_list/s/81ff768a0db216058d5d885d25d92d57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète+ CI
-http://omega.ws:8080/kadiri/123456/4358
+https://list.iptvcat.com/my_list/s/ccca027f2e4c34c9fee66127c5da43d8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète A&E
-http://omega.ws:8080/kadiri/123456/4359
+https://list.iptvcat.com/my_list/s/6e2adf6cce596d3f0b325b3bf3c954dd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ushuaia TV
-http://omega.ws:8080/kadiri/123456/12949
+https://list.iptvcat.com/my_list/s/9968e9d40ad9af4470e7a1c785e45620.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Science et Vie
-http://omega.ws:8080/kadiri/123456/4355
+https://list.iptvcat.com/my_list/s/332c271b22b3f4c1b2beef44929651d5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Animaux
-http://omega.ws:8080/kadiri/123456/4445
+https://list.iptvcat.com/my_list/s/dd83c76ce954189d75b5adc2677d5ac7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Chasse et Peche
-http://omega.ws:8080/kadiri/123456/4417
+https://list.iptvcat.com/my_list/s/5eed2e2a6a23538893875301be2a5965.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Seasons
-http://omega.ws:8080/kadiri/123456/4354
+https://list.iptvcat.com/my_list/s/1a17b6cd0a0ed3a9c34608f9345c323f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Crime District
-http://omega.ws:8080/kadiri/123456/13273
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trek TV
-http://omega.ws:8080/kadiri/123456/1113
+https://list.iptvcat.com/my_list/s/99af2ddd2d81228373e9aa26ee503a9e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Trek TV
+https://list.iptvcat.com/my_list/s/be4902edeadc6aa4e597d9846b71e57d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7YXxpe.png" group-title="Histoire",Histoire
-http://omega.ws:8080/kadiri/123456/1113
+https://list.iptvcat.com/my_list/s/ed86abbc8f45d9077abc2b81cad50300.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rmuGNjw.png" group-title="Musique",NRJ Hits
-http://omega.ws:8080/kadiri/123456/1064
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eqRoBFw.png" group-title="",VH1 Classic
-http://omega.ws:8080/kadiri/123456/1060
+https://list.iptvcat.com/my_list/s/2c0ac62d908dbca58eae64e2e2592919.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eqRoBFw.png" group-title="Muique",MTV Classic+
+https://list.iptvcat.com/my_list/s/88a4bb208cc2035dead9ecb8f23d0fdd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo Live
-http://omega.ws:8080/kadiri/123456/1065
+https://list.iptvcat.com/my_list/s/a5d3164ea094d68f4e4d3d7f1323b960.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Tropical
 http://omega.ws:8080/kadiri/123456/1062
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Africa
@@ -154,73 +154,73 @@ http://omega.ws:8080/kadiri/123456/30409
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo
 http://omega.ws:8080/kadiri/123456/1069
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",M6 Music
-http://omega.ws:8080/kadiri/123456/1072
+https://list.iptvcat.com/my_list/s/dc75abc897921e5b4eab500a94cb164f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Urbain
-http://omega.ws:8080/kadiri/123456/4337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Brava
-http://omega.ws:8080/kadiri/123456/1067
+https://list.iptvcat.com/my_list/s/83b668f81f92b3d54b3cbf5ecab69677.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Brava
+https://list.iptvcat.com/my_list/s/61ff27a402cff8f31aab0a5a6c2507d8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",MTV
-http://omega.ws:8080/kadiri/123456/46864
+https://list.iptvcat.com/my_list/s/a43afc7b364ed5d1145d1d1956907c62.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",MTV Music
 http://omega.ws:8080/kadiri/123456/1068
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A La Carte
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nourriture",A La Carte
 http://omega.ws:8080/kadiri/123456/18988
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Top Drama
 http://omega.ws:8080/kadiri/123456/38414
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Top Kids
 http://omega.ws:8080/kadiri/123456/1048
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+
-http://omega.ws:8080/kadiri/123456/13740
+https://list.iptvcat.com/my_list/s/a3f1551a898bda32aedf6515f89c932d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boing
-http://omega.ws:8080/kadiri/123456/1105
+https://list.iptvcat.com/my_list/s/00089f725dd372f81ad0311f4863598c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boomerang
-http://omega.ws:8080/kadiri/123456/4429
+https://list.iptvcat.com/my_list/s/31b2bffff09ab545b596261cbfb9ff9c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Canal J
-http://omega.ws:8080/kadiri/123456/1100
+https://list.iptvcat.com/my_list/s/53c3f9d056741af4a36499e0c3421dce.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Cartoon Network
-http://omega.ws:8080/kadiri/123456/1099
+https://list.iptvcat.com/my_list/s/c251f737a180a588338d00b04f7a6dae.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney Channel
-http://omega.ws:8080/kadiri/123456/4404
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney+
-http://omega.ws:8080/kadiri/123456/1104
+https://list.iptvcat.com/my_list/s/2dedaf925bec7c1122af53c339c44950.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney+1
+https://list.iptvcat.com/my_list/s/8c4f055d2efc29b41aa16629494edcba.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney Junior
-http://omega.ws:8080/kadiri/123456/1096
+https://list.iptvcat.com/my_list/s/91ca81e51a1b2faae9447faa36703509.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Game One
-http://omega.ws:8080/kadiri/123456/1086
+https://list.iptvcat.com/my_list/s/0ce74ccee1f73ec1787b023831f3159c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",J-One
-http://omega.ws:8080/kadiri/123456/1094
+https://list.iptvcat.com/my_list/s/712eab38197509e294aea56801637809.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Mangas
-http://omega.ws:8080/kadiri/123456/12954
+https://list.iptvcat.com/my_list/s/ba9a283f12a73a495af5febf43f635d0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon
-http://omega.ws:8080/kadiri/123456/1102
+https://list.iptvcat.com/my_list/s/4003e5e6d96c70008d5011979cfe5ffb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Junior
-http://omega.ws:8080/kadiri/123456/1090
+https://list.iptvcat.com/my_list/s/ec3b24de22fbc10d56b25cafd17eb2c8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji
-http://omega.ws:8080/kadiri/123456/4340
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Teletoon
-http://omega.ws:8080/kadiri/123456/1089
+https://list.iptvcat.com/my_list/s/43cb708e1920e47c265187ac68814a5a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon+
+https://list.iptvcat.com/my_list/s/114f7e947b0e8a4748c13a64f73ef9d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Teens
-http://omega.ws:8080/kadiri/123456/1091
+https://list.iptvcat.com/my_list/s/3bf8f3552ff2bdf91bdd02d559147d57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Toonami
-http://omega.ws:8080/kadiri/123456/1087
+https://list.iptvcat.com/my_list/s/03940dcaf9d3dd11ce3c0153d4c1610c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport
-http://omega.ws:8080/kadiri/123456/9779
+https://list.iptvcat.com/my_list/s/63d1aedf7219dcd00164d7781cac50f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN Sport
-http://omega.ws:8080/kadiri/123456/4436
+https://list.iptvcat.com/my_list/s/1217f2b1510e13b749b0c3df30b819eb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Eurosport
-http://omega.ws:8080/kadiri/123456/1083
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Foot
-http://omega.ws:8080/kadiri/123456/1084
+https://list.iptvcat.com/my_list/s/5bb9afb2acc5611628426c51f750ef6c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Foot+
+https://list.iptvcat.com/my_list/s/d8106188fed035b815678e6b6161a8d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf+
-http://omega.ws:8080/kadiri/123456/13277
+https://list.iptvcat.com/my_list/s/e5dbdc71be945d0e084f26e3c2df6d24.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf Channel
-http://omega.ws:8080/kadiri/123456/1080
+https://list.iptvcat.com/my_list/s/014479607abfd947f37a64a99ac4b962.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wxXPG4E.png" group-title="Sport",InfoSport
-http://omega.ws:8080/kadiri/123456/1079
+https://list.iptvcat.com/my_list/s/c223770c18506e2e453975f2c1dbf705.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnk4DEJ.png" group-title="Sport",Eurosport 360
 http://omega.ws:8080/kadiri/123456/56495
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QDsPLfp.png" group-title="Sport",RMC Sport Acess
-http://omega.ws:8080/kadiri/123456/56501
+https://list.iptvcat.com/my_list/s/30b6be90535e7b22a4d822e24cdd4c97.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cp6E5sn.png" group-title="Enfant",Tortues Ninja TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Pluto TV Nature
@@ -271,3 +271,59 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aiMAjfW.png" group-title="Adulte",South Park TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618e34ac4a270700077b1f32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+
+https://list.iptvcat.com/my_list/s/f2e2fea98b18c6abab26e54fdf453c0b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Canal+ Sport
+https://list.iptvcat.com/my_list/s/590551cd20ca846af6b063339f2dcd2b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Canal+ Cinéma
+https://list.iptvcat.com/my_list/s/2f3fcc95e32f2e6aa11bf564298cae85.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+ Décalé
+https://list.iptvcat.com/my_list/s/4255009dc72682094689cafafdaf1c73.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Canal+ Family
+https://list.iptvcat.com/my_list/s/e9ed4374afd17515bad76db2b43436fe.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Canal+ Séries
+https://list.iptvcat.com/my_list/s/d256c4d6cff286bef008d201dd51e3bb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal Play
+https://list.iptvcat.com/my_list/s/501a1feb69c1ed02c84706ebaa79f097.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery
+https://list.iptvcat.com/my_list/s/f926fa2234598c8b515158ee32ae2e76.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery Investigation
+https://list.iptvcat.com/my_list/s/0b302b935574b54bfb5463d0c684fe7d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Disney Cinéma
+https://list.iptvcat.com/my_list/s/5415e27dddc1a7f2270e2aad4bb6d793.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",InfoSport+
+https://list.iptvcat.com/my_list/s/2912c7302e335c361524e5d36e07222b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",M6 Music Hits
+https://list.iptvcat.com/my_list/s/7d27eb4163e9f3d5011674937f8cb9e9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",MTV Hits
+https://list.iptvcat.com/my_list/s/3862968775734d26721f06d691b9d821.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon +1
+https://list.iptvcat.com/my_list/s/f44b0cbcc0f5aa960543ed39f53be675.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon
+https://list.iptvcat.com/my_list/s/fc79860d54b0c6237ddb044815cb8da2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN MAX
+https://list.iptvcat.com/my_list/s/038a4afd6ad37da6120c2538482c6e90.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
