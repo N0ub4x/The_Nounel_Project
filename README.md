@@ -36,7 +36,7 @@
 | 01net TV | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
 | beIN Sport | [x]() | <img height="20" src="https://i.imgur.com/FOVn9J1.png"/> |
 | dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
-| Bob L'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="40" width="20" src="https://i.imgur.com/mk0fNO9.png"/> |
+| Bob L'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="20" width="40" src="https://i.imgur.com/mk0fNO9.png"/> |
 | Fashion TV | [>](https://rplayer.surge.sh/?url=https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 
