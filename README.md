@@ -2,31 +2,30 @@
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| TF1        | [>](https://www.tntendirect.com/TF1-en-direct) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
-| France 2   | [x]() | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
-| France 3   | [>](https://www.tntendirect.com/M6-en-direct) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
+| TF1        | [>](https://rplayer.surge.sh/?url=https://s4.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDEyOjUzOjQyIFBNJmhhc2hfdmFsdWU9T2Z3K0hBRStiRnJiV0tJWlBrd3VzUT09JnZhbGlkbWludXRlcz0zMA==) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
+| France 2   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE4NjB+YWNsPSUyZip+aG1hYz02YzkwNjI1NzlmMTU1ZDE4MWEzM2MzYWNhYjcwNjdlYzA0YzhlNWI5ODYxYTM3NmVmODg1YmJiZmNmNmU1NmUw/simulcast/France_2/hls_fr2/France_2-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
+| France 3   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE5NDF+YWNsPSUyZip+aG1hYz1hMDMxZmRkMzlkYjJmZjk4NzVlN2JhMjQ0ZDA5M2YzZTJjNzk0MDgzZTI0OGNkNDkwNGM5YmE0YzA5OWYxZmFj/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [x]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [x]() | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| France 5   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIxNTR+YWNsPSUyZip+aG1hYz0yNGQ4MjZkNzQyZjE0OTRkNGFkMTRkZTc1NmE1NTgwZDE0MzExNmI3YTg5ZTk0MmUyMDJmYjg4NzE3MzlhNzZi/simulcast/France_5/hls_fr5/France_5-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [x]() | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
-| Arte       | [>](https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
-| C8         | [>](https://www.tntendirect.com/C8-en-direct) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
-| W9         | [>](https://www.tntendirect.com/W9-en-direct) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
-| TMC        | [>](https://www.tntendirect.com/TMC-en-direct) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
-| TFX        | [>](https://www.tntendirect.com/TFX-en-direct) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
-| NRJ 12     | [>](https://www.tntendirect.com/NRJ12-en-direct) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
-| LCP        | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
-| Public Sénat | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xkxbzc) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | 
-| France 4   | [x]() | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
-| BFM TV     | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
-| CNews      | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
-| CStar      | [>](https://www.tntendirect.com/CStar-en-direct) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
+| Arte       | [>](https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
+| C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
+| W9         | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=11031106&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6MTY6MDQgUE0maGFzaF92YWx1ZT03bTY4UEgxTkZZbTNwUkdXV0RaY3RRPT0mdmFsaWRtaW51dGVzPTMw) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
+| TMC        | [>](https://rplayer.surge.sh/?url=https://s4.tntendirect.com/tmc/live/playlist.m3u8?nimblesessionid=28889630&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6Mzg6MjcgUE0maGFzaF92YWx1ZT15MklhNm1lSlVkb1N6MEF2U2o2WExnPT0mdmFsaWRtaW51dGVzPTMw) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
+| TFX        | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NDA6NTAgUE0maGFzaF92YWx1ZT12MCt5UE9xcmVhaTcxMlg3aXhWMHZ3PT0mdmFsaWRtaW51dGVzPTMw) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
+| NRJ 12     | [>](https://rplayer.surge.sh/?url=https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
+| LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
+| France 4   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIwNDF+YWNsPSUyZip+aG1hYz1kODlhY2UxNTdiOGVjMWUzMmJlMmFjNzhiZGM2NGE1NDk1M2ZiNDA0NTRmZjk3MTBhNGFkNThhZGZkYzM4MDA1/simulcast/France_4/hls_fr4/France_4-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
+| BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
+| CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
+| CStar      | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NTE6NDEgUE0maGFzaF92YWx1ZT1sOW9Ycm1IOUFsSE1mZzJtT0ZBRFJ3PT0mdmFsaWRtaW51dGVzPTMw) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
 | Gulli      | [>](https://replay.gulli.fr/jwplayer/embedstreamtv) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
-| TF1 Séries Films | [>](https://www.tntendirect.com/Tf1-Series-Films-en-direct) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
-| L'Équipe 21| [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
+| TF1 Séries Films | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/hd1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NTM6MTIgUE0maGFzaF92YWx1ZT1xTHp4NzVHdTRqUlJSY3FUUkl5NG5nPT0mdmFsaWRtaW51dGVzPTMw) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
+| L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.tntendirect.com/6ter-en-direct) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
-| RMC Story  | [>](https://www.rmcbfmplay.com/direct-tv/rmc-story) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
-| RMC Découverte | [>](https://www.rmcbfmplay.com/direct-tv/rmc-decouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
-| Chérie 25  | [>](https://www.tntendirect.com/Cherie-25-en-direct) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
+| RMC Story  | [x]() | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
+| RMC Découverte | [x]() | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
+| Chérie 25  | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/cherie25/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDI6MDA6MTAgUE0maGFzaF92YWx1ZT1EVTNUQ1BOb3BFcUEyRkpPQzVHSStnPT0mdmFsaWRtaW51dGVzPTMw) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1.fr/lci/direct) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/jVYG_eH5UMU) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
