@@ -2,7 +2,7 @@
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| TF1        | [>](https://rplayer.surge.sh/?url=https://s4.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDEyOjUzOjQyIFBNJmhhc2hfdmFsdWU9T2Z3K0hBRStiRnJiV0tJWlBrd3VzUT09JnZhbGlkbWludXRlcz0zMA==) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
+| TF1        | [>](https://s4.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDY6NDY6MDYgUE0maGFzaF92YWx1ZT1KR2F5ZTlsQlhxeVZCT2pnNXg1aEpRPT0mdmFsaWRtaW51dGVzPTMw) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE4NjB+YWNsPSUyZip+aG1hYz02YzkwNjI1NzlmMTU1ZDE4MWEzM2MzYWNhYjcwNjdlYzA0YzhlNWI5ODYxYTM3NmVmODg1YmJiZmNmNmU1NmUw/simulcast/France_2/hls_fr2/France_2-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE5NDF+YWNsPSUyZip+aG1hYz1hMDMxZmRkMzlkYjJmZjk4NzVlN2JhMjQ0ZDA5M2YzZTJjNzk0MDgzZTI0OGNkNDkwNGM5YmE0YzA5OWYxZmFj/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [x]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
