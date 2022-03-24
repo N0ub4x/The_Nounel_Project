@@ -10,7 +10,7 @@ https://simulcast.ftven.fr/ZXhwPTE2NDgxNzIxMjh+YWNsPSUyZip+aG1hYz01YmFiYjAzMTIzN
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
 https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI2NTd+YWNsPSUyZip+aG1hYz00OTEwMGFkYzVhMjgzODE0NWQ0OGE1N2RiNDM2Nzg1OTA1NGFkODAzZGZlOWU3M2RhMjlkNzI0NWFiNTRkNTRh/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1648151657~acl=%2f*~hmac=e1928b7865954fac1bf8f1e9822eb908866f0fd2fc049ad047381c2eeb809753
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
-https://list.iptvcat.com/my_list/s/b21a5ab9b69d269ff60176d04ce53c12.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
