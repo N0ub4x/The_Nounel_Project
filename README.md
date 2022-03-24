@@ -5,8 +5,8 @@
 | TF1        | [>](https://rplayer.surge.sh/?url=https://tf1-hls-live.tf1.fr/video/7iWHJQcEgxinZOZJJWVI8g/1648156382/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgxNjM5NjF+YWNsPSUyZip+aG1hYz00MGRiYTNjMTViMWZkYWU4Nzk4ZDc5ZjVjYjY1MTM1MzNlNTI4MTQ0NzNkNjE3MTNhZjNiZTdkYTc4NDNlMzQ2/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1648142961~acl=%2f*~hmac=060f193f69b349aa4f556426b18a759405b8c035d4afef06cee47a90147dbd14) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE5NDF+YWNsPSUyZip+aG1hYz1hMDMxZmRkMzlkYjJmZjk4NzVlN2JhMjQ0ZDA5M2YzZTJjNzk0MDgzZTI0OGNkNDkwNGM5YmE0YzA5OWYxZmFj/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
-| Canal+     | [x]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIxNTR+YWNsPSUyZip+aG1hYz0yNGQ4MjZkNzQyZjE0OTRkNGFkMTRkZTc1NmE1NTgwZDE0MzExNmI3YTg5ZTk0MmUyMDJmYjg4NzE3MzlhNzZi/simulcast/France_5/hls_fr5/France_5-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
+| France 5   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI2NTd+YWNsPSUyZip+aG1hYz00OTEwMGFkYzVhMjgzODE0NWQ0OGE1N2RiNDM2Nzg1OTA1NGFkODAzZGZlOWU3M2RhMjlkNzI0NWFiNTRkNTRh/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1648151657~acl=%2f*~hmac=e1928b7865954fac1bf8f1e9822eb908866f0fd2fc049ad047381c2eeb809753) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [x]() | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
@@ -18,9 +18,10 @@
 | France 4   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIwNDF+YWNsPSUyZip+aG1hYz1kODlhY2UxNTdiOGVjMWUzMmJlMmFjNzhiZGM2NGE1NDk1M2ZiNDA0NTRmZjk3MTBhNGFkNThhZGZkYzM4MDA1/simulcast/France_4/hls_fr4/France_4-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
 | BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
 | CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
-| CStar      | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NTE6NDEgUE0maGFzaF92YWx1ZT1sOW9Ycm1IOUFsSE1mZzJtT0ZBRFJ3PT0mdmFsaWRtaW51dGVzPTMw) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
+| CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
 | Gulli      | [>](https://replay.gulli.fr/jwplayer/embedstreamtv) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
-| TF1 Séries Films | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/hd1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NTM6MTIgUE0maGFzaF92YWx1ZT1xTHp4NzVHdTRqUlJSY3FUUkl5NG5nPT0mdmFsaWRtaW51dGVzPTMw) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
+| CultureBox | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI0OTN+YWNsPSUyZip+aG1hYz04YzgwODE3OTQ4ZDlkMjkzNjZiNjkxN2YzNGZjMmU2MTZhMTYzMGYwZTU0NGU0ODVkYTI1ZWM5ZTRlNDMzMzdh/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1648151493~acl=%2f*~hmac=58de3de46832382d1535dbd3ad845ae7401a12f67ea6397e861ec373354a37c5) | <img height="30" src="https://i.imgur.com/2YMNxGo.png"/> |
+| TF1 Séries Films | [>](https://rplayer.surge.sh/?url=https://tsf-hls-live.tf1.fr/video/LuAyfR7GxqVx_Mt9PzkKPQ/1648165763/out/v1/a5def86fc7db4dbc9ac922f15a55d4c9/index.m3u8) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.tntendirect.com/6ter-en-direct) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [x]() | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
