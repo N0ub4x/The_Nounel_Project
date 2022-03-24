@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
 https://tf1-hls-live.tf1.fr/video/7iWHJQcEgxinZOZJJWVI8g/1648156382/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
-https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE4NjB+YWNsPSUyZip+aG1hYz02YzkwNjI1NzlmMTU1ZDE4MWEzM2MzYWNhYjcwNjdlYzA0YzhlNWI5ODYxYTM3NmVmODg1YmJiZmNmNmU1NmUw/simulcast/France_2/hls_fr2/France_2-avc1_2600000=10004.m3u8
+https://simulcast.ftven.fr/ZXhwPTE2NDgxNjM5NjF+YWNsPSUyZip+aG1hYz00MGRiYTNjMTViMWZkYWU4Nzk4ZDc5ZjVjYjY1MTM1MzNlNTI4MTQ0NzNkNjE3MTNhZjNiZTdkYTc4NDNlMzQ2/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1648142961~acl=%2f*~hmac=060f193f69b349aa4f556426b18a759405b8c035d4afef06cee47a90147dbd14
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
 https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE5NDF+YWNsPSUyZip+aG1hYz1hMDMxZmRkMzlkYjJmZjk4NzVlN2JhMjQ0ZDA5M2YzZTJjNzk0MDgzZTI0OGNkNDkwNGM5YmE0YzA5OWYxZmFj/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
@@ -18,9 +18,9 @@ https://stream-08.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLbLnbbzWQ-t3B76FG
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
 https://s7.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=11031106&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6MTY6MDQgUE0maGFzaF92YWx1ZT03bTY4UEgxTkZZbTNwUkdXV0RaY3RRPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
-https://s4.tntendirect.com/tmc/live/playlist.m3u8?nimblesessionid=28889630&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6Mzg6MjcgUE0maGFzaF92YWx1ZT15MklhNm1lSlVkb1N6MEF2U2o2WExnPT0mdmFsaWRtaW51dGVzPTMw
+https://tmc-hls-live.tf1.fr/video/dJpqVqNT0sGQP2-Ftmw5UQ/1648156729/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
-https://s7.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NDA6NTAgUE0maGFzaF92YWx1ZT12MCt5UE9xcmVhaTcxMlg3aXhWMHZ3PT0mdmFsaWRtaW51dGVzPTMw
+https://tfx-hls-live.tf1.fr/video/yS1piL1XMF4wXVv1lpvqfw/1648157025/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
 https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
