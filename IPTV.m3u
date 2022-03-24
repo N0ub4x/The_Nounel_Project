@@ -4,11 +4,11 @@ https://tf1-hls-live.tf1.fr/video/7iWHJQcEgxinZOZJJWVI8g/1648156382/out/v1/c2e38
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
 https://simulcast.ftven.fr/ZXhwPTE2NDgxNjM5NjF+YWNsPSUyZip+aG1hYz00MGRiYTNjMTViMWZkYWU4Nzk4ZDc5ZjVjYjY1MTM1MzNlNTI4MTQ0NzNkNjE3MTNhZjNiZTdkYTc4NDNlMzQ2/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1648142961~acl=%2f*~hmac=060f193f69b349aa4f556426b18a759405b8c035d4afef06cee47a90147dbd14
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
-https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE5NDF+YWNsPSUyZip+aG1hYz1hMDMxZmRkMzlkYjJmZjk4NzVlN2JhMjQ0ZDA5M2YzZTJjNzk0MDgzZTI0OGNkNDkwNGM5YmE0YzA5OWYxZmFj/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8
+https://simulcast.ftven.fr/ZXhwPTE2NDgxNzIwNzV+YWNsPSUyZip+aG1hYz1iYTgzNmU5MmJmOTUzMmJiYmU5NzQ2OGM1ZTc0Mzc4Mjk3MDg3YThhOThhYjhlNjhhZjM5MmI3OWE5ZTRjM2Ux/simulcast/France_3/hls_fr3/index.m3u8?hdnea=exp=1648151075~acl=%2f*~hmac=8b2312c9945e69441e3ffb425fd19334d0ca0e8349b0281648404094db2bb79a
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
-https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIwNDF+YWNsPSUyZip+aG1hYz1kODlhY2UxNTdiOGVjMWUzMmJlMmFjNzhiZGM2NGE1NDk1M2ZiNDA0NTRmZjk3MTBhNGFkNThhZGZkYzM4MDA1/simulcast/France_4/hls_fr4/France_4-avc1_2600000=10004.m3u8
+https://simulcast.ftven.fr/ZXhwPTE2NDgxNzIxMjh+YWNsPSUyZip+aG1hYz01YmFiYjAzMTIzNThkY2EzODAzZmUyMTRhMGJkNjYxNjQ0N2NmYmM5YTE0ZGQwZTIzZmJhOGQ5OTg2NjQwZjE2/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1648151128~acl=%2f*~hmac=7dba561e5161ad9bef65507891176fabfcdc7f47d31208d6cdcafc6be9257c3d
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
-https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIxNTR+YWNsPSUyZip+aG1hYz0yNGQ4MjZkNzQyZjE0OTRkNGFkMTRkZTc1NmE1NTgwZDE0MzExNmI3YTg5ZTk0MmUyMDJmYjg4NzE3MzlhNzZi/simulcast/France_5/hls_fr5/France_5-avc1_2600000=10004.m3u8
+https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI2NTd+YWNsPSUyZip+aG1hYz00OTEwMGFkYzVhMjgzODE0NWQ0OGE1N2RiNDM2Nzg1OTA1NGFkODAzZGZlOWU3M2RhMjlkNzI0NWFiNTRkNTRh/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1648151657~acl=%2f*~hmac=e1928b7865954fac1bf8f1e9822eb908866f0fd2fc049ad047381c2eeb809753
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
 https://list.iptvcat.com/my_list/s/b21a5ab9b69d269ff60176d04ce53c12.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
@@ -24,21 +24,21 @@ https://tfx-hls-live.tf1.fr/video/yS1piL1XMF4wXVv1lpvqfw/1648157025/out/v1/818e3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
 https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
-https://www.dailymotion.com/embed/video/xji3qy
+https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="Adulte",CNews
-https://list.iptvcat.com/my_list/s/1ba6ceaca1b9e8f2ed56607e9fb43511.m3u8
+https://stream-01.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gWtoTjB5hQ7AuaPCK6Ykp2I)/dm/3/x3b68jn/s/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="Adulte",CStar
-https://s7.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NTE6NDEgUE0maGFzaF92YWx1ZT1sOW9Ycm1IOUFsSE1mZzJtT0ZBRFJ3PT0mdmFsaWRtaW51dGVzPTMw
+https://stream-01.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLWhDM5JDqx-YEtzKcU_xfBEoahZY-x20NvgPygS_fD2)/p/dm/3/x5gv5v0/d/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CultureBox
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",CultureBox
+https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI0OTN+YWNsPSUyZip+aG1hYz04YzgwODE3OTQ4ZDlkMjkzNjZiNjkxN2YzNGZjMmU2MTZhMTYzMGYwZTU0NGU0ODVkYTI1ZWM5ZTRlNDMzMzdh/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1648151493~acl=%2f*~hmac=58de3de46832382d1535dbd3ad845ae7401a12f67ea6397e861ec373354a37c5
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
-https://s7.tntendirect.com/hd1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NTM6MTIgUE0maGFzaF92YWx1ZT1xTHp4NzVHdTRqUlJSY3FUUkl5NG5nPT0mdmFsaWRtaW51dGVzPTMw
+https://tsf-hls-live.tf1.fr/video/LuAyfR7GxqVx_Mt9PzkKPQ/1648165763/out/v1/a5def86fc7db4dbc9ac922f15a55d4c9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
-https://s4.tntendirect.com/lequipe21/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6NTQ6MjUgUE0maGFzaF92YWx1ZT1NcEQyVExmekc0aTR0WnR4T1NvSzdRPT0mdmFsaWRtaW51dGVzPTMw
+https://stream-01.ix7.dailymotion.com/sec(r-_K9KaKEM8TfiXnYVEaMc46S-0pIkdF1M4ri-YFshE)/dm/3/x2lefik/d/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
 https://list.iptvcat.com/my_list/s/485b6620fab60f60047a03be7446d4e4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
