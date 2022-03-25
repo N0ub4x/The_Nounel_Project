@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
-https://tf1-hls-live.tf1.fr/video/7iWHJQcEgxinZOZJJWVI8g/1648156382/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/28183
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
-https://simulcast.ftven.fr/ZXhwPTE2NDgxNjM5NjF+YWNsPSUyZip+aG1hYz00MGRiYTNjMTViMWZkYWU4Nzk4ZDc5ZjVjYjY1MTM1MzNlNTI4MTQ0NzNkNjE3MTNhZjNiZTdkYTc4NDNlMzQ2/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1648142961~acl=%2f*~hmac=060f193f69b349aa4f556426b18a759405b8c035d4afef06cee47a90147dbd14
+http://k3.koalatv.xyz:8000/770727778291/31948172/28246
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
-https://simulcast.ftven.fr/ZXhwPTE2NDgxNzIwNzV+YWNsPSUyZip+aG1hYz1iYTgzNmU5MmJmOTUzMmJiYmU5NzQ2OGM1ZTc0Mzc4Mjk3MDg3YThhOThhYjhlNjhhZjM5MmI3OWE5ZTRjM2Ux/simulcast/France_3/hls_fr3/index.m3u8?hdnea=exp=1648151075~acl=%2f*~hmac=8b2312c9945e69441e3ffb425fd19334d0ca0e8349b0281648404094db2bb79a
+http://k3.koalatv.xyz:8000/770727778291/31948172/28181
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
-https://simulcast.ftven.fr/ZXhwPTE2NDgxNzIxMjh+YWNsPSUyZip+aG1hYz01YmFiYjAzMTIzNThkY2EzODAzZmUyMTRhMGJkNjYxNjQ0N2NmYmM5YTE0ZGQwZTIzZmJhOGQ5OTg2NjQwZjE2/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1648151128~acl=%2f*~hmac=7dba561e5161ad9bef65507891176fabfcdc7f47d31208d6cdcafc6be9257c3d
+http://k3.koalatv.xyz:8000/770727778291/31948172/28180
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
-https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI2NTd+YWNsPSUyZip+aG1hYz00OTEwMGFkYzVhMjgzODE0NWQ0OGE1N2RiNDM2Nzg1OTA1NGFkODAzZGZlOWU3M2RhMjlkNzI0NWFiNTRkNTRh/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1648151657~acl=%2f*~hmac=e1928b7865954fac1bf8f1e9822eb908866f0fd2fc049ad047381c2eeb809753
+http://k3.koalatv.xyz:8000/770727778291/31948172/28179
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14938
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14966
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
 https://stream-08.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLbLnbbzWQ-t3B76FGMjiX6RduRBQs2cFU6rzsh-DUwy)/p/dm/3/x5gv5rr/d/live-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
-https://s7.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=11031106&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6MTY6MDQgUE0maGFzaF92YWx1ZT03bTY4UEgxTkZZbTNwUkdXV0RaY3RRPT0mdmFsaWRtaW51dGVzPTMw
+http://k3.koalatv.xyz:8000/770727778291/31948172/14954
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
-https://tmc-hls-live.tf1.fr/video/dJpqVqNT0sGQP2-Ftmw5UQ/1648156729/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14936
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
-https://tfx-hls-live.tf1.fr/video/yS1piL1XMF4wXVv1lpvqfw/1648157025/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14933
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
-https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14969
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
 https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
@@ -36,19 +36,19 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",CultureBox
 https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI0OTN+YWNsPSUyZip+aG1hYz04YzgwODE3OTQ4ZDlkMjkzNjZiNjkxN2YzNGZjMmU2MTZhMTYzMGYwZTU0NGU0ODVkYTI1ZWM5ZTRlNDMzMzdh/simulcast/France_4/hls_fr4/index.m3u8?hdnea=exp=1648151493~acl=%2f*~hmac=58de3de46832382d1535dbd3ad845ae7401a12f67ea6397e861ec373354a37c5
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
-https://tsf-hls-live.tf1.fr/video/LuAyfR7GxqVx_Mt9PzkKPQ/1648165763/out/v1/a5def86fc7db4dbc9ac922f15a55d4c9/index.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14930
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
 https://stream-01.ix7.dailymotion.com/sec(r-_K9KaKEM8TfiXnYVEaMc46S-0pIkdF1M4ri-YFshE)/dm/3/x2lefik/d/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
-https://list.iptvcat.com/my_list/s/485b6620fab60f60047a03be7446d4e4.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14957
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
-https://list.iptvcat.com/my_list/s/7a5db8e652f5747892de985a8b861457.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14955
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
-https://list.iptvcat.com/my_list/s/b3f47ffa6e825fcc824cd6216db4231f.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15143
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
-https://s7.tntendirect.com/cherie25/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDI6MDA6MTAgUE0maGFzaF92YWx1ZT1EVTNUQ1BOb3BFcUEyRkpPQzVHSStnPT0mdmFsaWRtaW51dGVzPTMw
+http://k3.koalatv.xyz:8000/770727778291/31948172/14956
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
-https://list.iptvcat.com/my_list/s/092faf6afd0786f6a60b8572b4a1d046.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14983
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
 https://www.youtube.com/embed/Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
@@ -58,163 +58,163 @@ https://list.iptvcat.com/my_list/s/b9749816b6aaf173882ae3fb1aa81c8f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
 https://list.iptvcat.com/my_list/s/7b7822f187628b5428c5bd92ec6ce055.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Émotion",Cine+ Émotion
-https://list.iptvcat.com/my_list/s/a1fd8965b311b2a46206f8b0eee0015e.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15013
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Première
-https://list.iptvcat.com/my_list/s/5838eb6f193aadb1a6372e9e155e3ea9.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15007
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Ciné+ Frisson
-https://list.iptvcat.com/my_list/s/0ce62db82b1cd2beab84c2c873eb35b2.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15010
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Ciné+ Famiz
-https://list.iptvcat.com/my_list/s/235e56ac008b22e83bd025d64ced3443.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15016
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Classique",Ciné+ Classic
-https://list.iptvcat.com/my_list/s/e923d47c89da767f630a92f22fa09f27.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15018
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Club
-https://list.iptvcat.com/my_list/s/d01646675dd30c93c83694d8809cb18a.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15019
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Action",Action
-https://list.iptvcat.com/my_list/s/223310e0c1ac9c340096648cbcc8723a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Warner TV
-http://omega.ws:8080/kadiri/123456/30405
+http://k3.koalatv.xyz:8000/770727778291/31948172/15039
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Warner Bros TV
+http://k3.koalatv.xyz:8000/770727778291/31948172/15036
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Téva
-https://list.iptvcat.com/my_list/s/1b568cbdf9281f4b4a55861184b8d701.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14961
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",TCM Cinéma
-https://list.iptvcat.com/my_list/s/8eeffb7f55b9128ddf6f5f2e6d8108b6.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15045
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",RTL 9
-https://list.iptvcat.com/my_list/s/46b82f6b5081f1086ed4b28d76180858.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14959
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Max
-https://list.iptvcat.com/my_list/s/2dfdd74395af3615151f28519937631e.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15021
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Géants
-https://list.iptvcat.com/my_list/s/723bae19cb72319366b9f77e7f97c2b4.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15030
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS City
-https://list.iptvcat.com/my_list/s/91628654518d0f5f4ac15eddf48bfaa8.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15027
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Choc
-https://list.iptvcat.com/my_list/s/a92f323b0459cee78fb0b8596f45f827.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15024
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkzlZoT.png" group-title="Adulte",AB1
-https://list.iptvcat.com/my_list/s/c4f66296dd368ea0b15a1052f8795cde.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14964
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ulaqDr.png" group-title="Adulte",AB3
-https://list.iptvcat.com/my_list/s/271d612311fb89ae0c7f4627eda58a37.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14965
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ny545nH.png" group-title="Film",Paramount Channel
-https://list.iptvcat.com/my_list/s/e81d732d5403b1b5b429da83c5365655.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15053
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Paris Première
-https://list.iptvcat.com/my_list/s/5e016fd86af2f7cae8a3e7b66f1d6553.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15050
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comédie",Comédie+
-https://list.iptvcat.com/my_list/s/638cf9cd2d0ae898e33dd106b153af36.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15049
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Paramount Décalé
-https://list.iptvcat.com/my_list/s/38781719dd550814d8d02c2480b7d765.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15054
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Polar+
 https://list.iptvcat.com/my_list/s/f2e0498e3c80e7adf702625c8a7dfbf7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="National",National Géographie
-https://list.iptvcat.com/my_list/s/64c292ad08c32347329d73e82481fcac.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15128
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="National",National Géographie Wild
-https://list.iptvcat.com/my_list/s/74f523179e0353a3efb1668d32722e2e.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15130
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Channel
-https://list.iptvcat.com/my_list/s/f926fa2234598c8b515158ee32ae2e76.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15132
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Discovery ID
 http://omega.ws:8080/kadiri/123456/12866
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Science
-https://list.iptvcat.com/my_list/s/0b302b935574b54bfb5463d0c684fe7d.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15134
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Discovery Family
-https://list.iptvcat.com/my_list/s/e0d80dc1d9b510258c113986d5e209e6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète+
-https://list.iptvcat.com/my_list/s/81ff768a0db216058d5d885d25d92d57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète+ CI
-https://list.iptvcat.com/my_list/s/ccca027f2e4c34c9fee66127c5da43d8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Planète",Planète A&E
-https://list.iptvcat.com/my_list/s/6e2adf6cce596d3f0b325b3bf3c954dd.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15136
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Planète
+http://k3.koalatv.xyz:8000/770727778291/31948172/15138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Planète+ CI
+http://k3.koalatv.xyz:8000/770727778291/31948172/15142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Planète A&E
+http://k3.koalatv.xyz:8000/770727778291/31948172/15140
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ushuaia TV
-https://list.iptvcat.com/my_list/s/9968e9d40ad9af4470e7a1c785e45620.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Science et Vie
-https://list.iptvcat.com/my_list/s/332c271b22b3f4c1b2beef44929651d5.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15126
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Science et Vie
+http://k3.koalatv.xyz:8000/770727778291/31948172/15145
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Animaux
-https://list.iptvcat.com/my_list/s/dd83c76ce954189d75b5adc2677d5ac7.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15146
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Chasse et Peche
-https://list.iptvcat.com/my_list/s/5eed2e2a6a23538893875301be2a5965.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15147
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Seasons
 https://list.iptvcat.com/my_list/s/1a17b6cd0a0ed3a9c34608f9345c323f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Crime District
-https://list.iptvcat.com/my_list/s/99af2ddd2d81228373e9aa26ee503a9e.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/63268
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Trek TV
 https://list.iptvcat.com/my_list/s/be4902edeadc6aa4e597d9846b71e57d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7YXxpe.png" group-title="Histoire",Histoire
-https://list.iptvcat.com/my_list/s/ed86abbc8f45d9077abc2b81cad50300.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15149
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rmuGNjw.png" group-title="Musique",NRJ Hits
 https://list.iptvcat.com/my_list/s/2c0ac62d908dbca58eae64e2e2592919.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eqRoBFw.png" group-title="Muique",MTV Classic+
-https://list.iptvcat.com/my_list/s/88a4bb208cc2035dead9ecb8f23d0fdd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eqRoBFw.png" group-title="Muique",VH1 Classic
+http://k3.koalatv.xyz:8000/770727778291/31948172/15227
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo Live
-https://list.iptvcat.com/my_list/s/a5d3164ea094d68f4e4d3d7f1323b960.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15221
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Tropical
-http://omega.ws:8080/kadiri/123456/1062
+http://k3.koalatv.xyz:8000/770727778291/31948172/15224
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Africa
-http://omega.ws:8080/kadiri/123456/1063
+http://k3.koalatv.xyz:8000/770727778291/31948172/15223
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Latina
 http://omega.ws:8080/kadiri/123456/30408
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Mziki
 http://omega.ws:8080/kadiri/123456/30409
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo
-http://omega.ws:8080/kadiri/123456/1069
+http://k3.koalatv.xyz:8000/770727778291/31948172/15220
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",M6 Music
-https://list.iptvcat.com/my_list/s/dc75abc897921e5b4eab500a94cb164f.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15210
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Urbain
-https://list.iptvcat.com/my_list/s/83b668f81f92b3d54b3cbf5ecab69677.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15225
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Brava
-https://list.iptvcat.com/my_list/s/61ff27a402cff8f31aab0a5a6c2507d8.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15218
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",MTV
-https://list.iptvcat.com/my_list/s/a43afc7b364ed5d1145d1d1956907c62.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15213
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",MTV Music
 http://omega.ws:8080/kadiri/123456/1068
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nourriture",A La Carte
-http://omega.ws:8080/kadiri/123456/18988
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nourriture",A la Carte
+http://k3.koalatv.xyz:8000/770727778291/31948172/15099
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama",Top Drama
 http://omega.ws:8080/kadiri/123456/38414
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Top Kids
 http://omega.ws:8080/kadiri/123456/1048
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+
-https://list.iptvcat.com/my_list/s/a3f1551a898bda32aedf6515f89c932d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi
+http://k3.koalatv.xyz:8000/770727778291/31948172/15121
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boing
-https://list.iptvcat.com/my_list/s/00089f725dd372f81ad0311f4863598c.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15113
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boomerang
-https://list.iptvcat.com/my_list/s/31b2bffff09ab545b596261cbfb9ff9c.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15108
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Canal J
-https://list.iptvcat.com/my_list/s/53c3f9d056741af4a36499e0c3421dce.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15117
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Cartoon Network
-https://list.iptvcat.com/my_list/s/c251f737a180a588338d00b04f7a6dae.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15112
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney Channel
-https://list.iptvcat.com/my_list/s/2dedaf925bec7c1122af53c339c44950.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney+1
-https://list.iptvcat.com/my_list/s/8c4f055d2efc29b41aa16629494edcba.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15101
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney Channel+1
+http://k3.koalatv.xyz:8000/770727778291/31948172/15102
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Disney Junior
-https://list.iptvcat.com/my_list/s/91ca81e51a1b2faae9447faa36703509.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15104
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Game One
-https://list.iptvcat.com/my_list/s/0ce74ccee1f73ec1787b023831f3159c.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15118
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",J-One
-https://list.iptvcat.com/my_list/s/712eab38197509e294aea56801637809.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15119
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Mangas
-https://list.iptvcat.com/my_list/s/ba9a283f12a73a495af5febf43f635d0.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15120
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon
-https://list.iptvcat.com/my_list/s/4003e5e6d96c70008d5011979cfe5ffb.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15109
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Junior
-https://list.iptvcat.com/my_list/s/ec3b24de22fbc10d56b25cafd17eb2c8.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15110
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji
-https://list.iptvcat.com/my_list/s/43cb708e1920e47c265187ac68814a5a.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15115
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon+
 https://list.iptvcat.com/my_list/s/114f7e947b0e8a4748c13a64f73ef9d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Teens
-https://list.iptvcat.com/my_list/s/3bf8f3552ff2bdf91bdd02d559147d57.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15111
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Toonami
-https://list.iptvcat.com/my_list/s/03940dcaf9d3dd11ce3c0153d4c1610c.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15116
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport
-https://list.iptvcat.com/my_list/s/63d1aedf7219dcd00164d7781cac50f0.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15171
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN Sport
-https://list.iptvcat.com/my_list/s/1217f2b1510e13b749b0c3df30b819eb.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15155
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Eurosport
-https://list.iptvcat.com/my_list/s/5bb9afb2acc5611628426c51f750ef6c.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15201
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Foot+
-https://list.iptvcat.com/my_list/s/d8106188fed035b815678e6b6161a8d6.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15203
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf+
 https://list.iptvcat.com/my_list/s/e5dbdc71be945d0e084f26e3c2df6d24.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf Channel
-https://list.iptvcat.com/my_list/s/014479607abfd947f37a64a99ac4b962.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15206
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wxXPG4E.png" group-title="Sport",InfoSport
-https://list.iptvcat.com/my_list/s/c223770c18506e2e453975f2c1dbf705.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15153
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnk4DEJ.png" group-title="Sport",Eurosport 360
 http://omega.ws:8080/kadiri/123456/56495
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QDsPLfp.png" group-title="Sport",RMC Sport Acess
@@ -270,19 +270,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aiMAjfW.png" group-title="Adulte",South Park TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618e34ac4a270700077b1f32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+
-https://list.iptvcat.com/my_list/s/f2e2fea98b18c6abab26e54fdf453c0b.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14989
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Canal+ Sport
-https://list.iptvcat.com/my_list/s/590551cd20ca846af6b063339f2dcd2b.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15004
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Canal+ Cinéma
-https://list.iptvcat.com/my_list/s/2f3fcc95e32f2e6aa11bf564298cae85.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14992
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+ Décalé
-https://list.iptvcat.com/my_list/s/4255009dc72682094689cafafdaf1c73.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/14995
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Canal+ Family
 https://list.iptvcat.com/my_list/s/e9ed4374afd17515bad76db2b43436fe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Canal+ Séries
-https://list.iptvcat.com/my_list/s/d256c4d6cff286bef008d201dd51e3bb.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15001
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal Play
-https://list.iptvcat.com/my_list/s/501a1feb69c1ed02c84706ebaa79f097.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15074
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery
 https://list.iptvcat.com/my_list/s/f926fa2234598c8b515158ee32ae2e76.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery Investigation
@@ -294,17 +294,17 @@ https://list.iptvcat.com/my_list/s/2912c7302e335c361524e5d36e07222b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",M6 Music Hits
 https://list.iptvcat.com/my_list/s/7d27eb4163e9f3d5011674937f8cb9e9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",MTV Hits
-https://list.iptvcat.com/my_list/s/3862968775734d26721f06d691b9d821.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15215
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon +1
 https://list.iptvcat.com/my_list/s/f44b0cbcc0f5aa960543ed39f53be675.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon
-https://list.iptvcat.com/my_list/s/fc79860d54b0c6237ddb044815cb8da2.m3u8
+http://k3.koalatv.xyz:8000/770727778291/31948172/15114
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN MAX
-https://list.iptvcat.com/my_list/s/038a4afd6ad37da6120c2538482c6e90.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+http://k3.koalatv.xyz:8000/770727778291/31948172/15163
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1sxRmXJ.png" group-title="Musique",P2M TV
+https://panel.streamparis.fr:3743/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Canal+ Kids
+http://k3.koalatv.xyz:8000/770727778291/31948172/14998
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
