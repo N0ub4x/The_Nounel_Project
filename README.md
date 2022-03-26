@@ -42,14 +42,33 @@
 
 Tutoriel (IPTV)
 ----------------
-Ouvrez VLC
-
-Appuyez sur Média > Ouvrir un flux réseau...
+VLC
+----
+"Média" > "Ouvrir un flux réseau..."
 
 Copier : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u
 
 Coller sur "Entrer une URL réseau :"
 
-Appuyez sur Lire
+Appuyez sur "Lire"
 
-Appuyez sur Vue > Liste de lecture
+"Vue" > "Liste de lecture"
+
+
+Kodi
+-----
+Aller sur "TV" > "Aller au navigateur d'extensions"
+
+Appuyez sur "PVR IPTV Simple Client"
+
+Appuyez sur "Installer"
+
+Appuyez sur "OK"
+
+Appuyez sur "PVR IPTV Simple Client" > "Configurer"
+
+Appuyez sur "- URL de la liste de lecture M3U"
+
+Copier Coller : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u > "OK"
+
+Aller à la Page d'Accueil > "TV" > Chaînes
