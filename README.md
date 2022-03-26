@@ -42,7 +42,7 @@
 
 Tutoriel (IPTV)
 ----------------
-VLC
+[VLC](https://www.microsoft.com/fr-fr/p/vlc-uwp/9nblggh4vvnh#activetab=pivot:overviewtab)
 ----
 "Média" > "Ouvrir un flux réseau..."
 
@@ -55,7 +55,7 @@ Appuyez sur "Lire"
 "Vue" > "Liste de lecture"
 
 
-Kodi
+[Kodi](https://www.microsoft.com/fr-fr/p/kodi/9nblggh4t892#activetab=pivot:overviewtab)
 -----
 Aller sur "TV" > "Aller au navigateur d'extensions"
 
