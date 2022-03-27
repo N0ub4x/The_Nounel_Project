@@ -108,7 +108,7 @@ https://list.iptvcat.com/my_list/s/e67e1aa80be47c887eaa6c41c6e274e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Channel
 https://list.iptvcat.com/my_list/s/f926fa2234598c8b515158ee32ae2e76.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Discovery ID
-http://omega.ws:8080/kadiri/123456/12866
+https://list.iptvcat.com/my_list/s/563bd01247346b188e50111cf8589d54.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Science
 https://list.iptvcat.com/my_list/s/0b302b935574b54bfb5463d0c684fe7d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Discovery Family
@@ -307,10 +307,10 @@ http://k3.koalatv.xyz:8000/770727778291/31948172/14998
 https://list.iptvcat.com/my_list/s/2490ce85252af16a5aa4aed71aadd52d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Planète +
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Planète+
 https://list.iptvcat.com/my_list/s/81ff768a0db216058d5d885d25d92d57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RB6Pvxk.png" group-title="Film",Altice Studio
+https://list.iptvcat.com/my_list/s/d9c104c9f0adf9e7d52db383480bb96e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
