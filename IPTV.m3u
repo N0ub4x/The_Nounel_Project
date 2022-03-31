@@ -52,7 +52,7 @@ https://list.iptvcat.com/my_list/s/cc662b00c734e40389182bac908782cd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
 https://www.youtube.com/embed/Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",TV5 Monde
 https://list.iptvcat.com/my_list/s/b9749816b6aaf173882ae3fb1aa81c8f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
@@ -311,8 +311,8 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/
 https://list.iptvcat.com/my_list/s/81ff768a0db216058d5d885d25d92d57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RB6Pvxk.png" group-title="Film",Altice Studio
 https://list.iptvcat.com/my_list/s/d9c104c9f0adf9e7d52db383480bb96e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Simon Super Lapin TV
+https://www.youtube.com/c/SimonSuperLapinFran%C3%A7ais/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
