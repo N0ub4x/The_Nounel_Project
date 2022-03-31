@@ -55,6 +55,22 @@ Appuyez sur "Lire"
 "Vue" > "Liste de lecture"
 
 
+
+
+VLC Lag toute les 20 secondes (Réparer) :
+
+Outils > Préférences
+
+Afficher les paramètres > Tous
+
+Flux de sortie
+
+Taille du cache du multiplexeur du flux de sortie (en millisecondes) > 4000
+
+Enregistrer
+
+
+
 [Kodi](https://www.microsoft.com/fr-fr/p/kodi/9nblggh4t892#activetab=pivot:overviewtab)
 -----
 Aller sur "TV" > "Aller au navigateur d'extensions"
