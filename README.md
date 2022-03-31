@@ -1,6 +1,5 @@
 # The Nounel Project - Regarder la TV Gratuitement !
 
-<center>
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://rplayer.surge.sh/?url=https://tf1-hls-live.tf1.fr/video/7iWHJQcEgxinZOZJJWVI8g/1648156382/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
@@ -87,5 +86,3 @@ Appuyez sur "- URL de la liste de lecture M3U"
 Copier Coller : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u > "OK"
 
 Aller à la Page d'Accueil > "TV" > Chaînes
-
-  </center>
