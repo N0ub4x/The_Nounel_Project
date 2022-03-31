@@ -54,10 +54,8 @@ Appuyez sur "Lire"
 
 "Vue" > "Liste de lecture"
 
-
-
-
-VLC Lag toute les 20 secondes (Réparer) :
+VLC Lag toute les 20 secondes (Réparer)
+----------------------------------------
 
 Outils > Préférences
 
