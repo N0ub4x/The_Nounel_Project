@@ -1,48 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="YouTube.fr",Bienvenue !
 https://www.youtube.com/embed/aWE0Sjh2X04
-#EXTINF:-1 tvg-id="",----- France FHD -----
-                                                                        
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
-https://list.iptvcat.com/my_list/s/4587cbf29e3736ec1c0a3a9e4af70278.m3u8
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
-https://list.iptvcat.com/my_list/s/80435f0a6fa255eb78a2ebc4e29923fc.m3u8
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
-https://list.iptvcat.com/my_list/s/4b2de11685fa3354f22f4ae66e18da7a.m3u8
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
-https://list.iptvcat.com/my_list/s/2e180c02d2b6335a272116f223ab49a7.m3u8
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
-https://list.iptvcat.com/my_list/s/65ad03a461cb793724a114d22c1139e9.m3u8
+#EXTINF:-1 tvg-id="",----- France 4K / FHD -----
+.
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148461
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148463
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148466
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148467
+#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148468
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148462
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
 https://list.iptvcat.com/my_list/s/e4272112d8112013ba0cf1e65a530a33.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
 https://stream-08.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLbLnbbzWQ-t3B76FGMjiX6RduRBQs2cFU6rzsh-DUwy)/p/dm/3/x5gv5rr/d/live-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
-https://list.iptvcat.com/my_list/s/b327559c1736e29e61c87f6597a522bc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
-https://list.iptvcat.com/my_list/s/8e19a67033db2abb0b761d835fadc6ad.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148464
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148470
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
 https://list.iptvcat.com/my_list/s/156d324b5deffa901dbd4ce51c0342ad.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
 https://list.iptvcat.com/my_list/s/8897d75aa344a83ef42db55edc6b3106.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
 https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
-https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148465
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="Adulte",CNews
 https://stream-01.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gWtoTjB5hQ7AuaPCK6Ykp2I)/dm/3/x3b68jn/s/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="Adulte",CStar
 https://stream-01.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLWhDM5JDqx-YEtzKcU_xfBEoahZY-x20NvgPygS_fD2)/p/dm/3/x5gv5v0/d/live-4.m3u8#cell=lcore
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/videosd-960x540/sdindex.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
-https://list.iptvcat.com/my_list/s/9cdc4ec1a4200cd6f40273760689cae6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148486
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148471
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
 https://stream-01.ix7.dailymotion.com/sec(r-_K9KaKEM8TfiXnYVEaMc46S-0pIkdF1M4ri-YFshE)/dm/3/x2lefik/d/live-4.m3u8#cell=lcore
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
-https://list.iptvcat.com/my_list/s/c443e904370b94c104ebe5a9225fe003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148473
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
 https://list.iptvcat.com/my_list/s/134820aa8589e70e10d51e36e8641636.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
@@ -59,12 +59,12 @@ https://www.youtube.com/c/FRANCE24/live
 https://list.iptvcat.com/my_list/s/a767a6b5c231460eea7cf3575e53e1bb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
 https://list.iptvcat.com/my_list/s/7b7822f187628b5428c5bd92ec6ce055.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Émotion
-https://list.iptvcat.com/my_list/s/dfdd7ada04d0d48a5a0686d80f9ceea2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X2y5BWg.png" group-title="Adulte",Ciné+ Première
-https://list.iptvcat.com/my_list/s/455b346fb2fdef4f921e40d25de9efb6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4kgJvq1.png" group-title="Horreur",Ciné+ Frisson
-https://list.iptvcat.com/my_list/s/8f9efe9f7a790aa0c5d87f338f187a5d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Émotion 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203423
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X2y5BWg.png" group-title="Adulte",Ciné+ Première 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203424
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4kgJvq1.png" group-title="Horreur",Ciné+ Frisson 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203425
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Ciné+ Famiz
 https://list.iptvcat.com/my_list/s/21b7d6769b1321b0133a65f6785fbcbb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MgTjibH.png" group-title="Classique",Ciné+ Classic
@@ -104,13 +104,13 @@ https://list.iptvcat.com/my_list/s/b3976ac453067266656bfeaf7473b05d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/azFbvB4.png" group-title="Film",Polar+
 https://list.iptvcat.com/my_list/s/f2e0498e3c80e7adf702625c8a7dfbf7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie
-https://list.iptvcat.com/my_list/s/6096d2c6810bd83bacf65ccfdc3dc2f4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie Wild
-https://list.iptvcat.com/my_list/s/66c1ea993c75fd27aeaf672de745244a.m3u8
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148488
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie Wild 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148489
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kLPhFD5.png" group-title="Science",Discovery Channel
 https://list.iptvcat.com/my_list/s/42f80c1d3cb0b005320c582cae0848c9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Discovery ID
-https://list.iptvcat.com/my_list/s/563bd01247346b188e50111cf8589d54.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Discovery ID 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148482
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Science
 https://list.iptvcat.com/my_list/s/bf78a11db3bc2a5a808c77903d1b7b3d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Discovery Family
@@ -121,12 +121,12 @@ http://k3.koalatv.xyz:8000/770727778291/31948172/15138
 https://list.iptvcat.com/my_list/s/58e45267f9ba8a64840e64da5f646b58.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Planète A&E
 https://list.iptvcat.com/my_list/s/9275c4ed9870f9593efff46b145286a3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ushuaïa TV
-https://list.iptvcat.com/my_list/s/0a9d881bb63d9c68e59a11d7799a52b8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ushuaïa TV 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148487
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Science et Vie
 https://list.iptvcat.com/my_list/s/3dc53d95844789a846ffd2457766131b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Animaux
-https://list.iptvcat.com/my_list/s/8947f58c3a9085f2deeb0b61bfea1b6c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Animaux 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203430
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Chasse & Pêche
 https://list.iptvcat.com/my_list/s/51b4ec0035e89278d9522b2e1ebafd4f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Seasons
@@ -169,16 +169,16 @@ https://list.iptvcat.com/my_list/s/449e6d74bc1948d7bcbbac4287b8c438.m3u8
 http://omega.ws:8080/kadiri/123456/38414
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Top Kids
 http://omega.ws:8080/kadiri/123456/1048
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+
-https://list.iptvcat.com/my_list/s/6c39d1d9255c45cce3c3b8995765367c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+ 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148483
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boing
 https://list.iptvcat.com/my_list/s/ce2792c15c86c66fe1f6fdb21af73f2c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boomerang
 https://list.iptvcat.com/my_list/s/500f6bb4465230ec3fe812adcc8ff8d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Canal J
 https://list.iptvcat.com/my_list/s/e1d764ee6df622fca67d093623594e21.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Cartoon Network
-https://list.iptvcat.com/my_list/s/0b6eff1a28c2d986fb706bf140a432c2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Cartoon Network 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148484
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dplaBfL.png" group-title="Enfant",Disney Channel
 https://list.iptvcat.com/my_list/s/cf11a7724dbb782b0b0c9da3bb1cbb74.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzoBYAU.png" group-title="Enfant",Disney +1
@@ -195,18 +195,18 @@ https://list.iptvcat.com/my_list/s/c77e4c990df4c48399c71615015c88e2.m3u8
 https://list.iptvcat.com/my_list/s/e9afa191e1633d160d2b1e164997396a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Junior
 https://list.iptvcat.com/my_list/s/a1afa885a4ed697755f1a33c450cf42c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji
-https://list.iptvcat.com/my_list/s/168974d687381ddfdf0772ca72781d75.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148485
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon+
 https://list.iptvcat.com/my_list/s/114f7e947b0e8a4748c13a64f73ef9d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Teens
 https://list.iptvcat.com/my_list/s/a358720f4a133c80a7d76b84f29b93c0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Toonami
 https://list.iptvcat.com/my_list/s/a069250fe938572d4973f15016a6fbf8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport
-https://list.iptvcat.com/my_list/s/e6056abec527850e9a27e8fb4c264ca0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN Sport
-https://list.iptvcat.com/my_list/s/eb31ba9d40b274e1a32fcd9749bc8845.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203436
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN Sport 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/146116
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f5XxPT5.jpg" group-title="Sport",EuroSport
 https://list.iptvcat.com/my_list/s/44b11466dc1c0d3c11996ee6a77d8480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Foot+
@@ -271,24 +271,24 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aiMAjfW.png" group-title="Adulte",South Park TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618e34ac4a270700077b1f32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+
-https://list.iptvcat.com/my_list/s/f9175e7f1419ea3624b815218cb11535.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+ 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148474
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Canal+ Sport
 https://list.iptvcat.com/my_list/s/c0be5f2752e61be35cd4d2ac8e2c094f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Canal+ Cinéma
-https://list.iptvcat.com/my_list/s/3d9347d1877953be6dffedfd811ea693.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+ Décalé
-https://list.iptvcat.com/my_list/s/93930bfc3a085a11889500381c67b3e2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Canal+ Family
-https://list.iptvcat.com/my_list/s/7ea62a1d5a67af95ead39f1355decf9d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Canal+ Séries
-https://list.iptvcat.com/my_list/s/273e96a767bb45b5de44ee0a4d256f28.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Canal+ Cinéma 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148475
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+ Décalé 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Canal+ Family 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148477
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Canal+ Séries 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148478
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal Play
 https://list.iptvcat.com/my_list/s/b5f0689d56a6c27d11a19905e36a1bda.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery
-https://list.iptvcat.com/my_list/s/f926fa2234598c8b515158ee32ae2e76.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery Investigation
-https://list.iptvcat.com/my_list/s/0b302b935574b54bfb5463d0c684fe7d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148480
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery Investigation 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148482
 #EXTINF:-1 tvg-id="" tvg-logo="blob:https://imgur.com/317bac9f-3e1a-45dc-b0cf-1e9646f79eec" group-title="Film",Disney Cinéma
 https://list.iptvcat.com/my_list/s/9258851418786f2406e05be6e2dc92c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yw66kj6.png" group-title="Sport",InfoSport+
@@ -309,10 +309,10 @@ https://list.iptvcat.com/my_list/s/85b9a9574e8b3943dec27e74bc0ae7dc.m3u8
 https://list.iptvcat.com/my_list/s/2490ce85252af16a5aa4aed71aadd52d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vsiPZ9k.png" group-title="Adulte",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JjeHir2.png" group-title="Adulte",Planète+
-https://list.iptvcat.com/my_list/s/ab22509b2daafd338cc82900cd7adf6d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RB6Pvxk.png" group-title="Film",Altice Studio
-https://list.iptvcat.com/my_list/s/4c51fd2dbdc8967bd075c2082729c165.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JjeHir2.png" group-title="Adulte",Planète+ 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148479
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RB6Pvxk.png" group-title="Film",Altice Studio 4K
+http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203429
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c5lajBG.png" group-title="Enfant",Simon Super Lapin TV
 https://www.youtube.com/c/SimonSuperLapinFran%C3%A7ais/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GJzGgFD.png" group-title="Adulte",Amazon Prime 1
