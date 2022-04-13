@@ -33,7 +33,7 @@
 | Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
 | BFM Business | [>](https://www.bfmtv.com/economie/en-direct/) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
 | France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
-| 01net TV | [>](https://rplayer.surge.sh/?url=https://www.dailymotion.com/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
+| 01net TV | [>](https://www.dailymotion.com/embed/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
 | beIN Sport | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="20" src="https://i.imgur.com/FOVn9J1.png"/> |
 | dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
 | Bob L'éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
