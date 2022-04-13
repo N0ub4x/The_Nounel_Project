@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="YouTube.fr",Bienvenue !
 https://www.youtube.com/embed/aWE0Sjh2X04
-#EXTINF:-1,----- France HD -----
-http://localhost/
+#EXTINF:-1 tvg-id="",----- France FHD -----
+                                                                        
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
 https://list.iptvcat.com/my_list/s/4587cbf29e3736ec1c0a3a9e4af70278.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
@@ -10,11 +10,11 @@ https://list.iptvcat.com/my_list/s/80435f0a6fa255eb78a2ebc4e29923fc.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
 https://list.iptvcat.com/my_list/s/4b2de11685fa3354f22f4ae66e18da7a.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
-https://list.iptvcat.com/my_list/s/b55f97309c7e53c58350d84ebb4b34a8.m3u8
+https://list.iptvcat.com/my_list/s/2e180c02d2b6335a272116f223ab49a7.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
-https://list.iptvcat.com/my_list/s/b818e55f4e79c9980dcaae356e189461.m3u8
+https://list.iptvcat.com/my_list/s/65ad03a461cb793724a114d22c1139e9.m3u8
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
-https://list.iptvcat.com/my_list/s/d8e3a087c0221d466417c6e06f00978b.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
 https://list.iptvcat.com/my_list/s/e4272112d8112013ba0cf1e65a530a33.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
@@ -26,7 +26,7 @@ https://list.iptvcat.com/my_list/s/8e19a67033db2abb0b761d835fadc6ad.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
 https://list.iptvcat.com/my_list/s/156d324b5deffa901dbd4ce51c0342ad.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
-https://list.iptvcat.com/my_list/s/0e06af254e6281f2996c8ab7e048bb9f.m3u8
+https://list.iptvcat.com/my_list/s/8897d75aa344a83ef42db55edc6b3106.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
 https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
@@ -50,7 +50,7 @@ https://list.iptvcat.com/my_list/s/9d5f961666aa37db675a1bdd7ecbdcad.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
 https://list.iptvcat.com/my_list/s/e40b354383dd1f909be95a17e6fc7cfd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
-https://list.iptvcat.com/my_list/s/d909d09161c73cafc3c7382c1a8a0f74.m3u8
+https://list.iptvcat.com/my_list/s/3642ded6d4fdb2b186fd13afc11fd754.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
 https://www.youtube.com/embed/Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
@@ -92,7 +92,7 @@ https://list.iptvcat.com/my_list/s/dfab403e8db6469531c787da150767d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkzlZoT.png" group-title="Adulte",AB1
 https://list.iptvcat.com/my_list/s/792c70817deb96b7fb26f141ab8d1e3f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ulaqDr.png" group-title="Adulte",AB3
-https://list.iptvcat.com/my_list/s/3154dd8e9470cd13aab71c42dd0a8574.m3u8
+https://list.iptvcat.com/my_list/s/bd1b7158fd02fb42a26fa13e8db78f0f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ny545nH.png" group-title="Film",Paramount Channel
 https://list.iptvcat.com/my_list/s/c956553a6f314075d78bf07034b7ef00.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/njBniEg.png" group-title="Adulte",Paris Première
@@ -194,7 +194,7 @@ https://list.iptvcat.com/my_list/s/c77e4c990df4c48399c71615015c88e2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon
 https://list.iptvcat.com/my_list/s/e9afa191e1633d160d2b1e164997396a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Junior
-https://list.iptvcat.com/my_list/s/dfb5ade5dd75890e0cdec28bbba0490f.m3u8
+https://list.iptvcat.com/my_list/s/a1afa885a4ed697755f1a33c450cf42c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji
 https://list.iptvcat.com/my_list/s/168974d687381ddfdf0772ca72781d75.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon+
@@ -212,9 +212,9 @@ https://list.iptvcat.com/my_list/s/44b11466dc1c0d3c11996ee6a77d8480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Foot+
 https://list.iptvcat.com/my_list/s/d8106188fed035b815678e6b6161a8d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf+
-https://list.iptvcat.com/my_list/s/e5dbdc71be945d0e084f26e3c2df6d24.m3u8
+https://list.iptvcat.com/my_list/s/a40227fb7b753edc2bcd2f524149306b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Golf Channel
-https://list.iptvcat.com/my_list/s/014479607abfd947f37a64a99ac4b962.m3u8
+https://list.iptvcat.com/my_list/s/7bb3061721f4abb2f9b0c801c688a7e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wxXPG4E.png" group-title="Sport",InfoSport
 https://list.iptvcat.com/my_list/s/ed13b6220210f0f11eb021eb595789e4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnk4DEJ.png" group-title="Sport",EuroSport 360
@@ -274,7 +274,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618e34ac4a270700077b1f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+
 https://list.iptvcat.com/my_list/s/f9175e7f1419ea3624b815218cb11535.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Canal+ Sport
-https://list.iptvcat.com/my_list/s/d7322bdfe746b3faaf0c759f46698bc9.m3u8
+https://list.iptvcat.com/my_list/s/c0be5f2752e61be35cd4d2ac8e2c094f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Canal+ Cinéma
 https://list.iptvcat.com/my_list/s/3d9347d1877953be6dffedfd811ea693.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+ Décalé
