@@ -1,4 +1,4 @@
-# The Nounel Project - Regarder la TV Gratuitement !
+# Chaînes TV
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
@@ -40,7 +40,21 @@
 | Fashion TV | [>](https://rplayer.surge.sh/?url=https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 
-Tutoriel (IPTV)
+# Radio
+
+| Radio             | Lien  | Logo  |
+|:-----------------:|:-----:|:-----:|
+| Fun Radio        | [>](https://streamer-04.rtl.fr/fun-1-44-128) | <img height="20" src="https://i.imgur.com/2O10QwT.png"/> |
+| NRJ              | [>](https://scdn.nrjaudio.fm/fr/30001/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs11) | <img height="20" src="https://i.imgur.com/KqffoAW.png"/> |
+| RTL              | [>](https://streamer-04.rtl.fr/rtl-1-44-128) | <img height="20" src="https://i.imgur.com/LJD2cai.png"/> |
+| RTL 2            | [>](https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8) | <img height="20" src="https://i.imgur.com/2Dg2g1I.jpg"/> |
+| Chérie FM        | [>](https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs9) | <img height="20" src="https://i.imgur.com/bSNQWL5.png"/> |
+| Virgin Radio     | [>](https://stream.virginradio.fr/virgin.aac) | <img height="20" src="https://i.imgur.com/ry8Q0gJ.png"/> |
+| Skyrock          | [>](https://icecast.skyrock.net/s/natio_mp3_128k) | <img height="20" src="https://i.imgur.com/uzgWb2i.jpg"/> |
+| RFM        | [>](https://stream.rfm.fr/rfm.mp3) | <img height="20" src="https://i.imgur.com/Fk2TcE3.png"/> |
+
+
+Tutoriel (TV)
 ----------------
 [VLC](https://www.microsoft.com/fr-fr/p/vlc-uwp/9nblggh4vvnh#activetab=pivot:overviewtab)
 ----
