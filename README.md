@@ -2,8 +2,8 @@
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| TF1        | [>](https://rplayer.surge.sh/?url=https://tf1-hls-live.tf1.fr/video/7iWHJQcEgxinZOZJJWVI8g/1648156382/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
-| France 2   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgxNjM5NjF+YWNsPSUyZip+aG1hYz00MGRiYTNjMTViMWZkYWU4Nzk4ZDc5ZjVjYjY1MTM1MzNlNTI4MTQ0NzNkNjE3MTNhZjNiZTdkYTc4NDNlMzQ2/simulcast/France_2/hls_fr2/index.m3u8?hdnea=exp=1648142961~acl=%2f*~hmac=060f193f69b349aa4f556426b18a759405b8c035d4afef06cee47a90147dbd14) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
+| TF1        | [>](https://rotf.lol/TF1-TV) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
+| France 2   | [>](https://rotf.lol/France-2) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE5NDF+YWNsPSUyZip+aG1hYz1hMDMxZmRkMzlkYjJmZjk4NzVlN2JhMjQ0ZDA5M2YzZTJjNzk0MDgzZTI0OGNkNDkwNGM5YmE0YzA5OWYxZmFj/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [>](https://rotf.lol/Canal-Plus-TV) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI2NTd+YWNsPSUyZip+aG1hYz00OTEwMGFkYzVhMjgzODE0NWQ0OGE1N2RiNDM2Nzg1OTA1NGFkODAzZGZlOWU3M2RhMjlkNzI0NWFiNTRkNTRh/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1648151657~acl=%2f*~hmac=e1928b7865954fac1bf8f1e9822eb908866f0fd2fc049ad047381c2eeb809753) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
@@ -12,14 +12,14 @@
 | C8         | [>](https://rotf.lol/C8-TV) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
 | W9         | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=11031106&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6MTY6MDQgUE0maGFzaF92YWx1ZT03bTY4UEgxTkZZbTNwUkdXV0RaY3RRPT0mdmFsaWRtaW51dGVzPTMw) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
 | TMC        | [>](https://rotf.lol/TMC-TV) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
-| TFX        | [>](https://rplayer.surge.sh/?url=https://tfx-hls-live.tf1.fr/video/yS1piL1XMF4wXVv1lpvqfw/1648157025/out/v1/818e38d791854222b71a950791fb7002/index.m3u8) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
+| TFX        | [>](https://rotf.lol/TFX-TV) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://rotf.lol/NRJ-12) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
 | France 4   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIwNDF+YWNsPSUyZip+aG1hYz1kODlhY2UxNTdiOGVjMWUzMmJlMmFjNzhiZGM2NGE1NDk1M2ZiNDA0NTRmZjk3MTBhNGFkNThhZGZkYzM4MDA1/simulcast/France_4/hls_fr4/France_4-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
-| BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
-| CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
-| CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
-| Gulli      | [>](https://replay.gulli.fr/jwplayer/embedstreamtv) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
+| BFM TV     | [>](https://rotf.lol/BFM-TV) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
+| CNews      | [>](https://rotf.lol/CNews) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
+| CStar      | [>](https://rotf.lol/CStar) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
+| Gulli      | [>](https://rotf.lol/Gulli) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
 | TF1 Séries Films | [>](https://rplayer.surge.sh/?url=https://tsf-hls-live.tf1.fr/video/LuAyfR7GxqVx_Mt9PzkKPQ/1648165763/out/v1/a5def86fc7db4dbc9ac922f15a55d4c9/index.m3u8) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.tntendirect.com/6ter-en-direct) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
@@ -41,6 +41,7 @@
 | Simpson TV | [>](https://rotf.lol/Simpson-TV) | <img height="40" src="https://i.imgur.com/er1reFn.png"/> |
 | Futurama TV| [>](https://rotf.lol/Futurama) | <img height="40" src="https://i.imgur.com/b1lo6hF.png"/> |
 | Nat Geo    | [>](https://rotf.lol/National-Geographic) | <img height="20" src="https://i.imgur.com/a1kk03E.png"/> |
+| Family Guy | [>](https://rotf.lol/Family-Guy) | <img height="20" src="https://i.imgur.com/UkbWcst.png"/> |
 
 # Radio
 
