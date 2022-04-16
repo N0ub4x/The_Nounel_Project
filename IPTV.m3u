@@ -1,32 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="YouTube.fr",Bienvenue !
 https://www.youtube.com/embed/aWE0Sjh2X04
-#EXTINF:-1 tvg-id="",----- France 4K / FHD -----
+#EXTINF:-1 tvg-id="",----- France UHD / FHD / HD -----
 .
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148461
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/269
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148463
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/274
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148466
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/275
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148467
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/276
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148468
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/277
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148462
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/270
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
-https://list.iptvcat.com/my_list/s/e4272112d8112013ba0cf1e65a530a33.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/7411
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
 https://stream-08.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLbLnbbzWQ-t3B76FGMjiX6RduRBQs2cFU6rzsh-DUwy)/p/dm/3/x5gv5rr/d/live-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148464
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/271
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148470
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/281
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
-https://list.iptvcat.com/my_list/s/156d324b5deffa901dbd4ce51c0342ad.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4546
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
-https://list.iptvcat.com/my_list/s/8897d75aa344a83ef42db55edc6b3106.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/321
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
 https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
@@ -38,19 +38,19 @@ https://stream-01.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLWhDM5JDqx-YEtzKc
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
 http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148486
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148471
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/285
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
 https://stream-01.ix7.dailymotion.com/sec(r-_K9KaKEM8TfiXnYVEaMc46S-0pIkdF1M4ri-YFshE)/dm/3/x2lefik/d/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148473
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/11035
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
-https://list.iptvcat.com/my_list/s/134820aa8589e70e10d51e36e8641636.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/10171
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
-https://list.iptvcat.com/my_list/s/9d5f961666aa37db675a1bdd7ecbdcad.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/329
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
-https://list.iptvcat.com/my_list/s/e40b354383dd1f909be95a17e6fc7cfd.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/284
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
-https://list.iptvcat.com/my_list/s/3642ded6d4fdb2b186fd13afc11fd754.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/292
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
 https://www.youtube.com/embed/Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
@@ -58,51 +58,51 @@ https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",TV5 Monde
 https://list.iptvcat.com/my_list/s/a767a6b5c231460eea7cf3575e53e1bb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
-https://list.iptvcat.com/my_list/s/7b7822f187628b5428c5bd92ec6ce055.m3u8
+https://www.youtube.com/embed/MsN0_WNXvh8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Émotion
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203423
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/255
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X2y5BWg.png" group-title="Adulte",Ciné+ Première
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203424
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/254
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4kgJvq1.png" group-title="Horreur",Ciné+ Frisson
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203425
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/257
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Ciné+ Famiz
-https://list.iptvcat.com/my_list/s/21b7d6769b1321b0133a65f6785fbcbb.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/258
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MgTjibH.png" group-title="Classique",Ciné+ Classic
-https://list.iptvcat.com/my_list/s/7d09c468b0d62cb3df43f01f1b7a93f3.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/259
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hwVDBi2.png" group-title="Adulte",Ciné+ Club
-https://list.iptvcat.com/my_list/s/fe40c68dd61fff7496ae26e9bdecf30e.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/256
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Action",Action
-https://list.iptvcat.com/my_list/s/b8375fd1fd54907b3a09e964fa8a1aee.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/266
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uD1tUzb.png" group-title="Film",Warner Bros TV
-http://k3.koalatv.xyz:8000/770727778291/31948172/15036
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4195
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Téva
-https://list.iptvcat.com/my_list/s/fbd3a2f5e3c2caab506ac6400edc28b2.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/283
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",TCM Cinéma
-https://list.iptvcat.com/my_list/s/461ff3d9c02c74ea85d469219d96723d.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/2644
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",RTL 9
-https://list.iptvcat.com/my_list/s/07e02f2766d6d8f75606c4561108ffda.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/273
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Max
-https://list.iptvcat.com/my_list/s/24f0dcdd742ef286f9dc827dd05f408f.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/265
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Géants
-https://list.iptvcat.com/my_list/s/e98e828034b4ebdbbb3c56e12aa3c851.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/264
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS City
-https://list.iptvcat.com/my_list/s/d85fd72d187a038861e4fcacbe19c4ca.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/262
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OCS",OCS Choc
-https://list.iptvcat.com/my_list/s/dfab403e8db6469531c787da150767d1.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/263
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkzlZoT.png" group-title="Adulte",AB1
-https://list.iptvcat.com/my_list/s/792c70817deb96b7fb26f141ab8d1e3f.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/280
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ulaqDr.png" group-title="Adulte",AB3
-https://list.iptvcat.com/my_list/s/bd1b7158fd02fb42a26fa13e8db78f0f.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/15011
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ny545nH.png" group-title="Film",Paramount Channel
-https://list.iptvcat.com/my_list/s/c956553a6f314075d78bf07034b7ef00.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4527
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/njBniEg.png" group-title="Adulte",Paris Première
-https://list.iptvcat.com/my_list/s/5e016fd86af2f7cae8a3e7b66f1d6553.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/314
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4oYRNQt.png" group-title="Comédie",Comédie+
-https://list.iptvcat.com/my_list/s/a0d44856ba5a32d7d1050deb905eedf9.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/319
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H77tUa3.png" group-title="Film",Paramount Décalé
-https://list.iptvcat.com/my_list/s/b3976ac453067266656bfeaf7473b05d.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4528
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/azFbvB4.png" group-title="Film",Polar+
-https://list.iptvcat.com/my_list/s/f2e0498e3c80e7adf702625c8a7dfbf7.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/2719
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie
 http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148488
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie Wild
@@ -132,13 +132,13 @@ https://list.iptvcat.com/my_list/s/51b4ec0035e89278d9522b2e1ebafd4f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Seasons
 https://list.iptvcat.com/my_list/s/aa1cd97bbb8a8e09551492a3f9541c06.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0lGNM4b.png" group-title="Adulte",Crime District
-https://list.iptvcat.com/my_list/s/96149cbf6a346d80a6d62c9ca1ed00f6.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/2544
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Trek TV
-https://list.iptvcat.com/my_list/s/e225ee6d4b0df049b0de60c387f6cd24.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/2578
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7YXxpe.png" group-title="Histoire",Histoire
-https://list.iptvcat.com/my_list/s/f9c0761fe3909cffa804ba3b691a240d.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/1226
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rmuGNjw.png" group-title="Musique",NRJ Hits
-https://list.iptvcat.com/my_list/s/ea1e0305e5dfde86bedfa5932369c156.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/1243
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eqRoBFw.png" group-title="Muique",VH1 Classic
 http://k3.koalatv.xyz:8000/770727778291/31948172/15227
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Mezzo Live
@@ -272,17 +272,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aiMAjfW.png" group-title="Adulte",South Park TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618e34ac4a270700077b1f32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148474
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/247
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Canal+ Sport
-https://list.iptvcat.com/my_list/s/c0be5f2752e61be35cd4d2ac8e2c094f.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/250
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",Canal+ Cinéma
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148475
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/249
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal+ Décalé
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148476
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/248
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Canal+ Family
 http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148477
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Séries",Canal+ Séries
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148478
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/252
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal Play
 https://list.iptvcat.com/my_list/s/b5f0689d56a6c27d11a19905e36a1bda.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery
@@ -312,7 +312,7 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JjeHir2.png" group-title="Adulte",Planète+
 http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148479
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RB6Pvxk.png" group-title="Film",Altice Studio
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203429
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4520
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c5lajBG.png" group-title="Enfant",Simon Super Lapin TV
 https://www.youtube.com/c/SimonSuperLapinFran%C3%A7ais/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GJzGgFD.png" group-title="Adulte",Amazon Prime 1
@@ -335,12 +335,12 @@ https://list.iptvcat.com/my_list/s/87430b1f45844dae5c07ff177b91a24a.m3u8
 https://list.iptvcat.com/my_list/s/9249fd3cd6261873a0fad61bc68dc2a9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Naija
 https://list.iptvcat.com/my_list/s/f53f2dd54ee4c4b340c0367177c77a80.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",BFM Business
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/2621
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",Trace Sport Stars
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/14561
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Comedy Central
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/14511
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
