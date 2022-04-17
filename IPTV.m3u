@@ -16,7 +16,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/277
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/270
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/7411
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
 https://stream-08.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLbLnbbzWQ-t3B76FGMjiX6RduRBQs2cFU6rzsh-DUwy)/p/dm/3/x5gv5rr/d/live-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
@@ -26,11 +26,11 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/281
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4546
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/321
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
 https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148465
+https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="Adulte",CNews
 https://stream-01.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gWtoTjB5hQ7AuaPCK6Ykp2I)/dm/3/x3b68jn/s/live-4.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="Adulte",CStar
@@ -48,7 +48,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/10171
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/329
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/284
+https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/292
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
