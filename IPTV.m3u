@@ -102,13 +102,13 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4528
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/azFbvB4.png" group-title="Film",Polar+
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/2719
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148488
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148488
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie Wild
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148489
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148489
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kLPhFD5.png" group-title="Science",Discovery Channel
 https://list.iptvcat.com/my_list/s/42f80c1d3cb0b005320c582cae0848c9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Discovery ID
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148482
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148482
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Science
 https://list.iptvcat.com/my_list/s/bf78a11db3bc2a5a808c77903d1b7b3d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Famille",Discovery Family
@@ -120,11 +120,11 @@ https://list.iptvcat.com/my_list/s/58e45267f9ba8a64840e64da5f646b58.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Planète A&E
 https://list.iptvcat.com/my_list/s/9275c4ed9870f9593efff46b145286a3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ushuaïa TV
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148487
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148487
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Science et Vie
 https://list.iptvcat.com/my_list/s/3dc53d95844789a846ffd2457766131b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Animaux
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/203430
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/203430
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Chasse & Pêche
 https://list.iptvcat.com/my_list/s/51b4ec0035e89278d9522b2e1ebafd4f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Seasons
@@ -168,7 +168,7 @@ http://omega.ws:8080/kadiri/123456/38414
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Top Kids
 http://omega.ws:8080/kadiri/123456/1048
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148483
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148483
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boing
 https://list.iptvcat.com/my_list/s/ce2792c15c86c66fe1f6fdb21af73f2c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boomerang
@@ -194,7 +194,7 @@ https://list.iptvcat.com/my_list/s/e9afa191e1633d160d2b1e164997396a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Junior
 https://list.iptvcat.com/my_list/s/a1afa885a4ed697755f1a33c450cf42c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148485
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148485
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon+
 https://list.iptvcat.com/my_list/s/114f7e947b0e8a4748c13a64f73ef9d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Teens
@@ -284,9 +284,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/252
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Canal Play
 https://list.iptvcat.com/my_list/s/b5f0689d56a6c27d11a19905e36a1bda.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148480
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Discovery Investigation
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148482
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148480
 #EXTINF:-1 tvg-id="" tvg-logo="blob:https://imgur.com/317bac9f-3e1a-45dc-b0cf-1e9646f79eec" group-title="Film",Disney Cinéma
 https://list.iptvcat.com/my_list/s/9258851418786f2406e05be6e2dc92c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yw66kj6.png" group-title="Sport",InfoSport+
@@ -308,7 +306,7 @@ https://list.iptvcat.com/my_list/s/2490ce85252af16a5aa4aed71aadd52d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vsiPZ9k.png" group-title="Adulte",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JjeHir2.png" group-title="Adulte",Planète+
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148479
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148479
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RB6Pvxk.png" group-title="Film",Altice Studio
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4520
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c5lajBG.png" group-title="Enfant",Simon Super Lapin TV
@@ -339,8 +337,8 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/2621
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/14561
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Comedy Central
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/14511
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",TV Breizh
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/323
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
