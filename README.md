@@ -25,7 +25,7 @@
 | 6ter       | [>](https://www.tntendirect.com/6ter-en-direct) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
 | RMC Découverte | [>](https://rotf.lol/RMC-Decouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
-| Chérie 25  | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/cherie25/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDI6MDA6MTAgUE0maGFzaF92YWx1ZT1EVTNUQ1BOb3BFcUEyRkpPQzVHSStnPT0mdmFsaWRtaW51dGVzPTMw) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
+| Chérie 25  | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://rotf.lol/LCI-TV) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://rotf.lol/France-Info) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | France 24  | [>](https://rotf.lol/France-24) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
@@ -38,25 +38,24 @@
 | Bob L'Éponge | [>](https://rotf.lol/Bob-Eponge-TV) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
 | Fashion TV | [>](https://rotf.lol/FTV-TV) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
 | South Park | [>](https://rotf.lol/South-Park-TV) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
-| Simpson TV | [>](https://rotf.lol/Simpson-TV) | <img height="40" src="https://i.imgur.com/er1reFn.png"/> |
-| Futurama TV| [>](https://rotf.lol/Futurama) | <img height="40" src="https://i.imgur.com/b1lo6hF.png"/> |
-| Nat Geo    | [>](https://rotf.lol/National-Geographic) | <img height="20" src="https://i.imgur.com/a1kk03E.png"/> |
-| Family Guy | [>](https://rotf.lol/Family-Guy) | <img height="20" src="https://i.imgur.com/UkbWcst.png"/> |
+| Fun Radio TV | [>](https://rotf.lol/FunRadioTV) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
 
 # Radio
 
 | Radio             | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| Fun Radio        | [>](https://streamer-04.rtl.fr/fun-1-44-128) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| NRJ              | [>](https://scdn.nrjaudio.fm/fr/30001/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs11) | <img height="50" src="https://i.imgur.com/Q2lgPlJ.png"/> |
-| RTL              | [>](https://streamer-04.rtl.fr/rtl-1-44-128) | <img height="50" src="https://i.imgur.com/LJD2cai.png"/> |
-| RTL 2            | [>](https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8) | <img height="50" src="https://i.imgur.com/2Dg2g1I.jpg"/> |
-| Chérie FM        | [>](https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs9) | <img height="50" src="https://i.imgur.com/Q6uaD5O.png"/> |
-| Virgin Radio     | [>](https://stream.virginradio.fr/virgin.aac) | <img height="50" src="https://i.imgur.com/ry8Q0gJ.png"/> |
-| Skyrock          | [>](https://icecast.skyrock.net/s/natio_mp3_128k) | <img height="50" src="https://i.imgur.com/uzgWb2i.jpg"/> |
-| RFM              | [>](https://stream.rfm.fr/rfm.mp3) | <img height="50" src="https://i.imgur.com/Fk2TcE3.png"/> |
-| Nostalgie        | [>](https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs9&access_token=ffb8813434764d568da10f4264006898) | <img height="50" src="https://i.imgur.com/GebTvoi.png"/> |
-| Rire & Chansons  | [>](https://scdn.nrjaudio.fm/fr/30401/aac_64.mp3?origine=playerrire&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs11&access_token=153d7d2d02324385ba32a57018675774) | <img height="50" src="https://i.imgur.com/S0kX1SN.png"/> |
+| Fun Radio        | [>](https://rotf.lol/FunRadio) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
+| Fun Radio Anthology | [>](https://rotf.lol/FunRadioA) | <img height="50" src="https://i.imgur.com/z2GsFqa.jpg"/> |
+| NRJ              | [>](https://rotf.lol/NRJRadio) | <img height="50" src="https://i.imgur.com/ZvkJH3y.png"/> |
+| RTL              | [>](https://rotf.lol/RTLRadio) | <img height="50" src="https://i.imgur.com/LJD2cai.png"/> |
+| RTL 2            | [>](https://rotf.lol/RTL2Radio) | <img height="50" src="https://i.imgur.com/2Dg2g1I.jpg"/> |
+| Chérie FM        | [>](https://rotf.lol/CherieFM) | <img height="50" src="https://i.imgur.com/Q6uaD5O.png"/> |
+| Virgin Radio     | [>](https://rotf.lol/VirginRadio) | <img height="50" src="https://i.imgur.com/ry8Q0gJ.png"/> |
+| Skyrock          | [>](https://rotf.lol/Skyrock) | <img height="50" src="https://i.imgur.com/uzgWb2i.jpg"/> |
+| RFM              | [>](https://rotf.lol/RFMRadio) | <img height="50" src="https://i.imgur.com/Fk2TcE3.png"/> |
+| Nostalgie        | [>](https://rotf.lol/Nostalgie) | <img height="50" src="https://i.imgur.com/GebTvoi.png"/> |
+| Rire & Chansons  | [>](https://rotf.lol/RireChansons) | <img height="50" src="https://i.imgur.com/S0kX1SN.png"/> |
+| One World Radio  | [>](https://rotf.lol/OWRTomorrowland) | <img height="50" src="https://i.imgur.com/EPHY16D.png"/> |
 
 
 Tutoriel (TV)
