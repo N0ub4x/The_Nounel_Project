@@ -4,23 +4,23 @@
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://rotf.lol/TF1-TV) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://rotf.lol/France-2) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
-| France 3   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjE5NDF+YWNsPSUyZip+aG1hYz1hMDMxZmRkMzlkYjJmZjk4NzVlN2JhMjQ0ZDA5M2YzZTJjNzk0MDgzZTI0OGNkNDkwNGM5YmE0YzA5OWYxZmFj/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
+| France 3   | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [>](https://rotf.lol/Canal-Plus-TV) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgxNzI2NTd+YWNsPSUyZip+aG1hYz00OTEwMGFkYzVhMjgzODE0NWQ0OGE1N2RiNDM2Nzg1OTA1NGFkODAzZGZlOWU3M2RhMjlkNzI0NWFiNTRkNTRh/simulcast/France_5/hls_fr5/index.m3u8?hdnea=exp=1648151657~acl=%2f*~hmac=e1928b7865954fac1bf8f1e9822eb908866f0fd2fc049ad047381c2eeb809753) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
-| M6         | [>](https://rplayer.surge.sh/?url=https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
+| France 5   | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| M6         | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://rotf.lol/Arte-TV) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://rotf.lol/C8-TV) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
-| W9         | [>](https://rplayer.surge.sh/?url=https://s7.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=11031106&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDE6MTY6MDQgUE0maGFzaF92YWx1ZT03bTY4UEgxTkZZbTNwUkdXV0RaY3RRPT0mdmFsaWRtaW51dGVzPTMw) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
+| W9         | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
 | TMC        | [>](https://rotf.lol/TMC-TV) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
 | TFX        | [>](https://rotf.lol/TFX-TV) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://rotf.lol/NRJ-12) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
-| France 4   | [>](https://rplayer.surge.sh/?url=https://simulcast.ftven.fr/ZXhwPTE2NDgwNjIwNDF+YWNsPSUyZip+aG1hYz1kODlhY2UxNTdiOGVjMWUzMmJlMmFjNzhiZGM2NGE1NDk1M2ZiNDA0NTRmZjk3MTBhNGFkNThhZGZkYzM4MDA1/simulcast/France_4/hls_fr4/France_4-avc1_2600000=10004.m3u8) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
+| France 4   | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
 | BFM TV     | [>](https://rotf.lol/BFM-TV) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
 | CNews      | [>](https://rotf.lol/CNews) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
-| CStar      | [>](https://rotf.lol/CStar) | <img height="30" src="https://i.imgur.com/Ya8QhQe.png"/> |
+| CStar      | [>](https://rotf.lol/CStar) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
 | Gulli      | [>](https://rotf.lol/Gulli) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
-| TF1 Séries Films | [>](https://rplayer.surge.sh/?url=https://tsf-hls-live.tf1.fr/video/LuAyfR7GxqVx_Mt9PzkKPQ/1648165763/out/v1/a5def86fc7db4dbc9ac922f15a55d4c9/index.m3u8) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
+| TF1 Séries Films | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.tntendirect.com/6ter-en-direct) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
@@ -45,14 +45,14 @@
 | Radio             | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
 | Fun Radio        | [>](https://rotf.lol/FunRadio) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| Fun Radio Anthology | [>](https://rotf.lol/FunRadioA) | <img height="50" src="https://i.imgur.com/z2GsFqa.jpg"/> |
+| Fun Radio Anthology | [>](https://rotf.lol/FunRadioAnthology) | <img height="50" src="https://i.imgur.com/z2GsFqa.jpg"/> |
 | NRJ              | [>](https://rotf.lol/NRJRadio) | <img height="50" src="https://i.imgur.com/ZvkJH3y.png"/> |
 | RTL              | [>](https://rotf.lol/RTLRadio) | <img height="50" src="https://i.imgur.com/LJD2cai.png"/> |
 | RTL 2            | [>](https://rotf.lol/RTL2Radio) | <img height="50" src="https://i.imgur.com/2Dg2g1I.jpg"/> |
 | Chérie FM        | [>](https://rotf.lol/CherieFM) | <img height="50" src="https://i.imgur.com/Q6uaD5O.png"/> |
 | Virgin Radio     | [>](https://rotf.lol/VirginRadio) | <img height="50" src="https://i.imgur.com/ry8Q0gJ.png"/> |
-| Skyrock          | [>](https://rotf.lol/Skyrock) | <img height="50" src="https://i.imgur.com/uzgWb2i.jpg"/> |
-| RFM              | [>](https://rotf.lol/RFMRadio) | <img height="50" src="https://i.imgur.com/Fk2TcE3.png"/> |
+| Skyrock          | [>](https://rotf.lol/Skyrock) | <img height="50" src="https://i.imgur.com/6eOgkKG.png"/> |
+| RFM              | [>](https://rotf.lol/RFMRadio) | <img height="50" src="https://i.imgur.com/6JJla7f.png"/> |
 | Nostalgie        | [>](https://rotf.lol/Nostalgie) | <img height="50" src="https://i.imgur.com/GebTvoi.png"/> |
 | Rire & Chansons  | [>](https://rotf.lol/RireChansons) | <img height="50" src="https://i.imgur.com/S0kX1SN.png"/> |
 | One World Radio  | [>](https://rotf.lol/OWRTomorrowland) | <img height="50" src="https://i.imgur.com/EPHY16D.png"/> |
