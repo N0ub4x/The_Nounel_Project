@@ -1,4 +1,19 @@
+# ⚠ ATTENTION ⚠
+
+Il est recommander d'utiliser un Blockeur de Publicité est un VPN :
+
+Google Chrome : [Blockeur de Pub](https://tiny.one/AdGuard) [VPN](https://tiny.one/GC-VPN)
+
+Microsoft Edge : [Blockeur de Pub](https://tiny.one/ME-AdGuard) [VPN](https://tiny.one/ME-VPN)
+
+Firefox : [Blockeur de Pub](https://tiny.one/FF-AdGuard) [VPN](https://tiny.one/FF-VPN)
+
+Opera : [Blockeur de Pub](https://tiny.one/OP-AdGuard) [VPN](https://tiny.one/OP-VPN)
+
+
+
 # Chaînes TV
+
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
