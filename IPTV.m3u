@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="YouTube.fr",Bienvenue !
-https://www.youtube.com/embed/aWE0Sjh2X04
 #EXTINF:-1 tvg-id="",----- France UHD / FHD / HD -----
-https://github.com/N0ub4x/The-Nounel-Project/blob/main/404.jpg?raw=true
+https://www.youtube.com/embed/aWE0Sjh2X04
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/269
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
@@ -26,7 +24,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/281
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4546
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
-https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-p.m3u8
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/321
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
 https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
