@@ -74,10 +74,10 @@ Opera : [Blockeur de Pub](https://tiny.one/OP-AdGuard) / [VPN](https://tiny.one/
 | One World Radio  | [>](https://rotf.lol/OWRTomorrowland) | <img height="50" src="https://i.imgur.com/EPHY16D.png"/> |
 
 
-Tutoriel (TV)
-----------------
-[VLC](https://www.microsoft.com/fr-fr/p/vlc-uwp/9nblggh4vvnh#activetab=pivot:overviewtab)
-----
+# Tutoriel (TV)
+
+# [VLC](https://tinyurl.com/VLC-MP)
+
 "Média" > "Ouvrir un flux réseau..."
 
 Copier : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u
@@ -89,8 +89,8 @@ Appuyez sur "Lire"
 "Vue" > "Liste de lecture"
 
 
-[Kodi](https://www.microsoft.com/fr-fr/p/kodi/9nblggh4t892#activetab=pivot:overviewtab)
------
+# [Kodi](https://www.microsoft.com/fr-fr/p/kodi/9nblggh4t892#activetab=pivot:overviewtab)
+
 Aller sur "TV" > "Aller au navigateur d'extensions"
 
 Appuyez sur "PVR IPTV Simple Client"
@@ -106,3 +106,18 @@ Appuyez sur "- URL de la liste de lecture M3U"
 Copier Coller : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u > "OK"
 
 Aller à la Page d'Accueil > "TV" > Chaînes
+
+
+# Tutoriel (Radio)
+
+# [VLC](https://tinyurl.com/VLC-MP)
+
+"Média" > "Ouvrir un flux réseau..."
+
+Copier : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/Radio.m3u
+
+Coller sur "Entrer une URL réseau :"
+
+Appuyez sur "Lire"
+
+"Vue" > "Liste de lecture"
