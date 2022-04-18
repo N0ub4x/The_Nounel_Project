@@ -37,7 +37,7 @@ Opera : [Blockeur de Pub](https://tiny.one/OP-AdGuard) / [VPN](https://tiny.one/
 | Gulli      | [>](https://rotf.lol/Gulli) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
 | TF1 Séries Films | [>](https://rotf.lol/TF1-SF) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://rotf.lol/LEquipe-21) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
-| 6ter       | [>](https://rotf.lol/6terTV) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
+| 6ter       | [>](https://rotf.lol/6ter-TV) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [x](https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/404.jpg) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
 | RMC Découverte | [>](https://rotf.lol/RMC-Decouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
 | Chérie 25  | [>](https://rotf.lol/Cherie25) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
