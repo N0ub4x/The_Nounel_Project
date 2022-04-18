@@ -60,18 +60,18 @@ Opera : [Blockeur de Pub](https://tiny.one/OP-AdGuard) / [VPN](https://tiny.one/
 
 | Radio             | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| Fun Radio        | [>](https://rotf.lol/FunRadio) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| Fun Radio Anthology | [>](https://rotf.lol/FunRadioAnthology) | <img height="50" src="https://i.imgur.com/z2GsFqa.jpg"/> |
-| NRJ              | [>](https://rotf.lol/NRJRadio) | <img height="50" src="https://i.imgur.com/ZvkJH3y.png"/> |
-| RTL              | [>](https://rotf.lol/RTLRadio) | <img height="50" src="https://i.imgur.com/LJD2cai.png"/> |
-| RTL 2            | [>](https://rotf.lol/RTL2Radio) | <img height="50" src="https://i.imgur.com/2Dg2g1I.jpg"/> |
-| Chérie FM        | [>](https://rotf.lol/CherieFM) | <img height="50" src="https://i.imgur.com/Q6uaD5O.png"/> |
-| Virgin Radio     | [>](https://rotf.lol/VirginRadio) | <img height="50" src="https://i.imgur.com/ry8Q0gJ.png"/> |
-| Skyrock          | [>](https://rotf.lol/Skyrock) | <img height="50" src="https://i.imgur.com/6eOgkKG.png"/> |
-| RFM              | [>](https://rotf.lol/RFMRadio) | <img height="50" src="https://i.imgur.com/6JJla7f.png"/> |
-| Nostalgie        | [>](https://rotf.lol/Nostalgie) | <img height="50" src="https://i.imgur.com/GebTvoi.png"/> |
-| Rire & Chansons  | [>](https://rotf.lol/RireChansons) | <img height="50" src="https://i.imgur.com/S0kX1SN.png"/> |
-| One World Radio  | [>](https://rotf.lol/OWRTomorrowland) | <img height="50" src="https://i.imgur.com/EPHY16D.png"/> |
+| Fun Radio        | [>](https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/index.m3u8) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
+| Fun Radio Anthology | [>](https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8) | <img height="50" src="https://i.imgur.com/z2GsFqa.jpg"/> |
+| NRJ              | [>](https://scdn.nrjaudio.fm/fr/30001/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs11) | <img height="50" src="https://i.imgur.com/ZvkJH3y.png"/> |
+| RTL              | [>](https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8) | <img height="50" src="https://i.imgur.com/LJD2cai.png"/> |
+| RTL 2            | [>](https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8) | <img height="50" src="https://i.imgur.com/2Dg2g1I.jpg"/> |
+| Chérie FM        | [>](https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs9) | <img height="50" src="https://i.imgur.com/Q6uaD5O.png"/> |
+| Virgin Radio     | [>](https://stream.virginradio.fr/virgin.aac) | <img height="50" src="https://i.imgur.com/ry8Q0gJ.png"/> |
+| Skyrock          | [>](https://icecast.skyrock.net/s/natio_mp3_128k) | <img height="50" src="https://i.imgur.com/6eOgkKG.png"/> |
+| RFM              | [x]() | <img height="50" src="https://i.imgur.com/6JJla7f.png"/> |
+| Nostalgie        | [>](https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs9&access_token=ffb8813434764d568da10f4264006898) | <img height="50" src="https://i.imgur.com/GebTvoi.png"/> |
+| Rire & Chansons  | [>](https://scdn.nrjaudio.fm/fr/30401/aac_64.mp3?origine=playerrire&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs11&access_token=153d7d2d02324385ba32a57018675774) | <img height="50" src="https://i.imgur.com/S0kX1SN.png"/> |
+| One World Radio  | [>](https://22193.live.streamtheworld.com/OWR_INTERNATIONAL_ADP/HLS/playlist.m3u8) | <img height="50" src="https://i.imgur.com/EPHY16D.png"/> |
 
 
 # Tutoriel (TV)
