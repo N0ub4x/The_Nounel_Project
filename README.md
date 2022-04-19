@@ -18,10 +18,10 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Ftf1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
-| France 2   | [x]() | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
-| France 3   | [x]() | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
+| France 2   | [>](https://app.molotov.tv/channels/19) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
+| France 3   | [>](https://app.molotov.tv/channel/49/program/801) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [x]() | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| France 5   | [>](https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F42%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dnews_channels%26trkOcr%3D1%26trkOsp%3D3) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fm6%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fartesimulcast.akamaized.net%2Fhls%2Flive%2F2031003%2Fartelive_fr%2Fmaster_v720.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
@@ -30,7 +30,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | TFX        | [x]() | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fnrj12hls-lh.akamaihd.net%2Fi%2Fnrj12hls_1%40579113%2Findex_720_av-p.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
-| France 4   | [x]() | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
+| France 4   | [>](https://app.molotov.tv/channels/18) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
 | BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
 | CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
@@ -39,7 +39,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2F6ter%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [>](https://app.molotov.tv/channels/48) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
-| RMC Découverte | [x]() | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
+| RMC Découverte | [>](https://app.molotov.tv/channels/12) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
 | Chérie 25  | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fcherie25%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [x]() | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
@@ -55,6 +55,8 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
 | Canal+ Sport | [>](http://lalastreams.me/streams/?stream=124242982?sid=1298132) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
+| CGNT       | [>](https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F569%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D34%26trkOsp%3D2) | <img height="50" src="https://i.imgur.com/CQapb6Y.png"/> |
+| Sport en France | [>](https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F254%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D45%26trkOsp%3D2) | <img height="50" src="https://i.imgur.com/wwAcghI.png"/> |
 
 # Radio
 
