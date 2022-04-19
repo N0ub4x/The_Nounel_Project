@@ -21,13 +21,13 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | France 2   | [>](https://app.molotov.tv/channels/19) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://app.molotov.tv/channels/49) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [>](https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F42%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dnews_channels%26trkOcr%3D1%26trkOsp%3D3) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| France 5   | [>](https://app.molotov.tv/channels/42) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fm6%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fartesimulcast.akamaized.net%2Fhls%2Flive%2F2031003%2Fartelive_fr%2Fmaster_v720.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
 | W9         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fw9%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
-| TMC        | [x]() | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
-| TFX        | [x]() | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
+| TMC        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Ftmc%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
+| TFX        | [>](https://s4.tntendirect.com/nt1/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fnrj12hls-lh.akamaihd.net%2Fi%2Fnrj12hls_1%40579113%2Findex_720_av-p.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
 | France 4   | [>](https://app.molotov.tv/channels/18) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
