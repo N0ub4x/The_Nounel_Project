@@ -19,7 +19,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Ftf1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://app.molotov.tv/channels/19) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
-| France 3   | [>](https://app.molotov.tv/channel/49/program/801) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
+| France 3   | [>](https://app.molotov.tv/channels/49) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [>](https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F42%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dnews_channels%26trkOcr%3D1%26trkOsp%3D3) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fm6%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
