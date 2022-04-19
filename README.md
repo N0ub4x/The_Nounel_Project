@@ -2,13 +2,13 @@
 
 Il est recommander d'utiliser un Blockeur de Publicité est un VPN :
 
-Google Chrome : [Blockeur de Pub](https://tiny.one/AdGuard) / [VPN](https://tiny.one/GC-VPN)
+Google Chrome : [Blockeur de Pub](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) / [VPN](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno)
 
-Microsoft Edge : [Blockeur de Pub](https://tiny.one/ME-AdGuard) / [VPN](https://tiny.one/ME-VPN)
+Microsoft Edge : [Blockeur de Pub](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh) / [VPN](https://microsoftedge.microsoft.com/addons/detail/bright-vpn-secure-priva/elbjgikfbbdgjgbhneoabmkgbpmdfmkg)
 
-Firefox : [Blockeur de Pub](https://tiny.one/FF-AdGuard) / [VPN](https://tiny.one/FF-VPN)
+Firefox : [Blockeur de Pub](https://addons.mozilla.org/fr/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [VPN](https://addons.mozilla.org/fr/firefox/addon/setupvpn/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-Opera : [Blockeur de Pub](https://tiny.one/OP-AdGuard) / [VPN](https://tiny.one/OP-VPN)
+Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-ad-blocker/) / [VPN](https://addons.opera.com/fr/extensions/details/opera-vpn/)
 
 
 
@@ -17,44 +17,44 @@ Opera : [Blockeur de Pub](https://tiny.one/OP-AdGuard) / [VPN](https://tiny.one/
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| TF1        | [>](https://rotf.lol/TF1-TV1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
-| France 2   | [>](https://rotf.lol/France2TV2) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
-| France 3   | [>](https://rotf.lol/France-3) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
-| Canal+     | [>](https://rotf.lol/Canal-Plus-TV) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [>](https://rotf.lol/France5TV) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
-| M6         | [>](https://rotf.lol/M6-TV) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
-| Arte       | [>](https://rotf.lol/Arte-TV) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
-| C8         | [>](https://rotf.lol/C8-TV) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
-| W9         | [>](https://rotf.lol/W9-TV) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
-| TMC        | [>](https://rotf.lol/TMC-TV) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
-| TFX        | [>](https://rotf.lol/TFX-TV) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
-| NRJ 12     | [>](https://rotf.lol/NRJ-12) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
-| LCP        | [>](https://rotf.lol/LCP-TV) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
-| France 4   | [>](https://rotf.lol/France-4) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
-| BFM TV     | [>](https://rotf.lol/BFM-TV) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
-| CNews      | [>](https://rotf.lol/CNews) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
-| CStar      | [>](https://rotf.lol/CStar) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
-| Gulli      | [>](https://rotf.lol/Gulli) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
-| TF1 Séries Films | [>](https://rotf.lol/TF1-SF) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
-| L'Équipe 21| [>](https://rotf.lol/LEquipe-21) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
-| 6ter       | [>](https://rotf.lol/6ter-TV) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
-| RMC Story  | [>](https://rotf.lol/RMC-Story) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
-| RMC Découverte | [>](https://rotf.lol/RMC-Decouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
-| Chérie 25  | [>](https://rotf.lol/Cherie25) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
-| LCI        | [>](https://rotf.lol/LCI-TV) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
-| France Info| [>](https://rotf.lol/France-Info) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
-| France 24  | [>](https://rotf.lol/France-24) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
-| Euronews   | [>](https://rotf.lol/Euronews-TV) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
-| BFM Business | [>](https://rotf.lol/BFM-Business) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
-| France Inter | [>](https://rotf.lol/France-Inter-TV) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
-| 01net TV | [>](https://rotf.lol/01net-TV) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
-| beIN Sport | [>](https://rotf.lol/beINSports) | <img height="20" src="https://i.imgur.com/FOVn9J1.png"/> |
-| dotNET TV  | [>](https://rotf.lol/dotNET-TV) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
-| Bob L'Éponge | [>](https://rotf.lol/Bob-Eponge-TV) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
-| Fashion TV | [>](https://rotf.lol/FTV-TV) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
-| South Park | [>](https://rotf.lol/South-Park-TV) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
-| Fun Radio TV | [>](https://rotf.lol/FunRadioTV) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| Canal+ Sport | [>](https://rotf.lol/CanalSport) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
+| TF1        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Ftf1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
+| France 2   | [x]() | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
+| France 3   | [x]() | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
+| Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
+| France 5   | [x]() | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| M6         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fm6%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
+| Arte       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fartesimulcast.akamaized.net%2Fhls%2Flive%2F2031003%2Fartelive_fr%2Fmaster_v720.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
+| C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
+| W9         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fw9%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
+| TMC        | [x]() | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
+| TFX        | [x]() | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
+| NRJ 12     | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fnrj12hls-lh.akamaihd.net%2Fi%2Fnrj12hls_1%40579113%2Findex_720_av-p.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
+| LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
+| France 4   | [x]() | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
+| BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
+| CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
+| CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
+| Gulli      | [>](https://replay.gulli.fr/jwplayer/embedstreamtv) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
+| TF1 Séries Films | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fhd1%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
+| L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
+| 6ter       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2F6ter%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
+| RMC Story  | [>](https://app.molotov.tv/channels/48) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
+| RMC Découverte | [x]() | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
+| Chérie 25  | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fcherie25%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
+| LCI        | [x]() | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
+| France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
+| France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
+| Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
+| BFM Business | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ftra1-cdn-edge-live04.pfd.sfr.net%2Fbfm-ncdn-live-pal1.pfd.sfr.net%2Fsid%3D02eg7nrhut12rjk0hskg%2Fshls%2FLIVE%24BFM_BUSINESS%2Findex.m3u8%3Fstart%3DLIVE%26end%3DEND) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
+| France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
+| 01net TV | [>](https://www.dailymotion.com/embed/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
+| beIN Sport | [>](http://lalastreams.me/streams/?stream=310?sid=133667) | <img height="20" src="https://i.imgur.com/FOVn9J1.png"/> |
+| dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
+| Bob L'Éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
+| Fashion TV | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ffash1043.cloudycdn.services%2Fslive%2Fftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil%2Fplaylist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
+| South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
+| Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
+| Canal+ Sport | [>](http://lalastreams.me/streams/?stream=124242982?sid=1298132) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 
 # Radio
 
@@ -76,7 +76,7 @@ Opera : [Blockeur de Pub](https://tiny.one/OP-AdGuard) / [VPN](https://tiny.one/
 
 # Tutoriel (TV)
 
-# [VLC](https://tinyurl.com/VLC-MP)
+# [VLC](https://www.videolan.org/vlc/index.fr.html)
 
 "Média" > "Ouvrir un flux réseau..."
 
@@ -110,7 +110,7 @@ Aller à la Page d'Accueil > "TV" > Chaînes
 
 # Tutoriel (Radio)
 
-# [VLC](https://tinyurl.com/VLC-MP)
+# [VLC](https://www.videolan.org/vlc/index.fr.html)
 
 "Média" > "Ouvrir un flux réseau..."
 
