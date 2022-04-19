@@ -55,8 +55,8 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
 | Canal+ Sport | [>](http://lalastreams.me/streams/?stream=124242982?sid=1298132) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
-| CGNT       | [>](https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F569%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D34%26trkOsp%3D2) | <img height="50" src="https://i.imgur.com/CQapb6Y.png"/> |
-| Sport en France | [>](https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F254%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D45%26trkOsp%3D2) | <img height="50" src="https://i.imgur.com/wwAcghI.png"/> |
+| CGNT       | [>](https://app.molotov.tv/channels/569) | <img height="50" src="https://i.imgur.com/CQapb6Y.png"/> |
+| Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="50" src="https://i.imgur.com/wwAcghI.png"/> |
 
 # Radio
 
