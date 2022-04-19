@@ -55,8 +55,8 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
 | Canal+ Sport | [>](http://lalastreams.me/streams/?stream=124242982?sid=1298132) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
-| CGNT       | [>](https://app.molotov.tv/channels/569) | <img height="50" src="https://i.imgur.com/CQapb6Y.png"/> |
-| Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="50" src="https://i.imgur.com/wwAcghI.png"/> |
+| CGNT       | [>](https://app.molotov.tv/channels/569) | <img height="20" src="https://i.imgur.com/CQapb6Y.png"/> |
+| Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
 
 # Radio
 
@@ -73,7 +73,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | RFM              | [>](https://stream.rfm.fr/rfm-64200-128/playlist.m3u8) | <img height="50" src="https://i.imgur.com/6JJla7f.png"/> |
 | Nostalgie        | [>](https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs9&access_token=ffb8813434764d568da10f4264006898) | <img height="50" src="https://i.imgur.com/GebTvoi.png"/> |
 | Rire & Chansons  | [>](https://scdn.nrjaudio.fm/fr/30401/aac_64.mp3?origine=playerrire&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs11&access_token=153d7d2d02324385ba32a57018675774) | <img height="50" src="https://i.imgur.com/S0kX1SN.png"/> |
-| One World Radio  | [>](https://22193.live.streamtheworld.com/OWR_INTERNATIONAL_ADP/HLS/playlist.m3u8) | <img height="50" src="https://i.imgur.com/EPHY16D.png"/> |
+| One World Radio  | [>](https://22193.live.streamtheworld.com/OWR_INTERNATIONAL_ADP/HLS/playlist.m3u8) | <img height="40" src="https://i.imgur.com/EPHY16D.png"/> |
 
 
 # Tutoriel (TV)
