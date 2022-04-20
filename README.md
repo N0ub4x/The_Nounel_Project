@@ -27,7 +27,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
 | W9         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fw9%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
 | TMC        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Ftmc%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
-| TFX        | [>](https://s4.tntendirect.com/nt1/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
+| TFX        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fnt1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fnrj12hls-lh.akamaihd.net%2Fi%2Fnrj12hls_1%40579113%2Findex_720_av-p.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
 | France 4   | [>](https://app.molotov.tv/channels/18) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
