@@ -4,13 +4,13 @@ https://www.youtube.com/embed/aWE0Sjh2X04
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
 https://s4.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/274
+http://mytv.fun:8080/otz7vxqdi8/crd8dpz73k/5669
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/275
+http://mytv.fun:8080/otz7vxqdi8/crd8dpz73k/12858
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/YIHoAbr.png" group-title="Adulte",France 4
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/276
+http://mytv.fun:8080/otz7vxqdi8/crd8dpz73k/5667
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/277
+http://mytv.fun:8080/otz7vxqdi8/crd8dpz73k/5666
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
 https://s4.tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
@@ -26,7 +26,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4546
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/321
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
-https://stream-10.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbMfRUC6JRcRDt_rpI4cu8FE)/dm/3/xji3qy/d/live-1.m3u8#cell=lcore
+https://www.dailymotion.com/embed/video/xji3qy
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNCPG26.png" group-title="Info",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JUqoFSu.jpeg" group-title="Adulte",CNews
@@ -46,7 +46,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/10171
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/329
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
-https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/index_720_av-p.m3u8
+http://mytv.fun:8080/otz7vxqdi8/crd8dpz73k/5693
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/292
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
@@ -54,7 +54,7 @@ https://www.youtube.com/embed/Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
 https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",TV5 Monde
-https://list.iptvcat.com/my_list/s/a767a6b5c231460eea7cf3575e53e1bb.m3u8
+http://mytv.fun:8080/otz7vxqdi8/crd8dpz73k/5604
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
 https://www.youtube.com/embed/MsN0_WNXvh8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",Ciné+ Émotion
