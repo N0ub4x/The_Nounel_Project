@@ -106,7 +106,7 @@ http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148488
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",National Géographie Wild
 http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148489
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kLPhFD5.png" group-title="Science",Discovery Channel
-https://list.iptvcat.com/my_list/s/42f80c1d3cb0b005320c582cae0848c9.m3u8
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/32811
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",Discovery ID
 http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148482
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Science",Discovery Science
@@ -202,7 +202,7 @@ https://list.iptvcat.com/my_list/s/a358720f4a133c80a7d76b84f29b93c0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Toonami
 https://list.iptvcat.com/my_list/s/a069250fe938572d4973f15016a6fbf8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport
-http://dtv21.org:2082/hafid11_139954/ebkFNnsX/146114
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/32835
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN Sport
 http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/146116
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f5XxPT5.jpg" group-title="Sport",EuroSport
@@ -218,7 +218,7 @@ https://list.iptvcat.com/my_list/s/ed13b6220210f0f11eb021eb595789e4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnk4DEJ.png" group-title="Sport",EuroSport 360
 http://omega.ws:8080/kadiri/123456/56495
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QDsPLfp.png" group-title="Sport",RMC Sport Acess
-https://list.iptvcat.com/my_list/s/74dccfa96e477389c2f763762b28c62c.m3u8
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/9168
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cp6E5sn.png" group-title="Enfant",Tortues Ninja TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Pluto TV Nature
@@ -306,7 +306,7 @@ https://list.iptvcat.com/my_list/s/2490ce85252af16a5aa4aed71aadd52d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vsiPZ9k.png" group-title="Adulte",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JjeHir2.png" group-title="Adulte",Planète+
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148479
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/32808
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RB6Pvxk.png" group-title="Film",Altice Studio
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4520
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c5lajBG.png" group-title="Enfant",Simon Super Lapin TV
@@ -339,8 +339,8 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/14561
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/14511
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adulte",TV Breizh
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/323
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",SyFy
+http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/32817
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
