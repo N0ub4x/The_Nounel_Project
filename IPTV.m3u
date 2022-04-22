@@ -40,7 +40,7 @@ https://s4.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
 https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=hsm36MwPBwR3aGA2CLQxmYFhY0VcLdZjnay_9mIC076TSBLzZuzmRisPm_q5172cqAFfbXI5La59YANyzKhWuQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
-https://s4.tntendirect.com/6ter/live/playlist.m3u8
+https://s4.tntendirect.com/6ter/live/playlist.m3u8f
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/10171
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
@@ -168,19 +168,19 @@ http://omega.ws:8080/kadiri/123456/38414
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Top Kids
 http://omega.ws:8080/kadiri/123456/1048
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Piwi+
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148483
+http://185.209.15.131:2052/manny/1234/61368
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boing
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/309
+http://185.209.15.131:2052/manny/1234/61411
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boomerang
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/307
+http://185.209.15.131:2052/manny/1234/61377
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Canal J
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/32828
+http://185.209.15.131:2052/manny/1234/61402
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Cartoon Network
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/148484
+http://185.209.15.131:2052/manny/1234/61375
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dplaBfL.png" group-title="Enfant",Disney Channel
-https://list.iptvcat.com/my_list/s/cf11a7724dbb782b0b0c9da3bb1cbb74.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzoBYAU.png" group-title="Enfant",Disney +1
-https://list.iptvcat.com/my_list/s/8c4f055d2efc29b41aa16629494edcba.m3u8
+http://185.209.15.131:2052/manny/1234/61394
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzoBYAU.png" group-title="Enfant",Disney Channel +1
+http://185.209.15.131:2052/manny/1234/61397
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/72o7384.png" group-title="Enfant",Disney Junior
 https://list.iptvcat.com/my_list/s/6b126933a8be34e9a4f95d600cab3c76.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ID7t0LK.png" group-title="Adulte",Game One
@@ -188,23 +188,23 @@ https://list.iptvcat.com/my_list/s/b65e396d186d703bc9a16e86014f9dca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wlEPgX5.png" group-title="Adulte",J One
 https://list.iptvcat.com/my_list/s/0bc044c629fd20d65ec27241768a47d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Mangas
-https://list.iptvcat.com/my_list/s/c77e4c990df4c48399c71615015c88e2.m3u8
+http://185.209.15.131:2052/manny/1234/61392
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon
-https://list.iptvcat.com/my_list/s/e9afa191e1633d160d2b1e164997396a.m3u8
+http://185.209.15.131:2052/manny/1234/61380
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Junior
-https://list.iptvcat.com/my_list/s/a1afa885a4ed697755f1a33c450cf42c.m3u8
+http://185.209.15.131:2052/manny/1234/61383
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Tiji
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/148485
+http://185.209.15.131:2052/manny/1234/61407
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Télétoon+
-https://list.iptvcat.com/my_list/s/114f7e947b0e8a4748c13a64f73ef9d2.m3u8
+http://185.209.15.131:2052/manny/1234/61373
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Nickelodeon Teens
-https://list.iptvcat.com/my_list/s/a358720f4a133c80a7d76b84f29b93c0.m3u8
+http://185.209.15.131:2052/manny/1234/61385
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Toonami
-https://list.iptvcat.com/my_list/s/a069250fe938572d4973f15016a6fbf8.m3u8
+http://185.209.15.131:2052/manny/1234/61405
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RMC Sport
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/32835
+http://185.209.15.131:2052/manny/1234/61117
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",beIN Sport
-http://dtv21.org:2082/hossin-350_967878/7nCuGFbE/146116
+http://185.209.15.131:2052/manny/1234/61094
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f5XxPT5.jpg" group-title="Sport",EuroSport
 https://list.iptvcat.com/my_list/s/44b11466dc1c0d3c11996ee6a77d8480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Foot+
