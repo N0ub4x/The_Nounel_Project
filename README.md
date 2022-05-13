@@ -11,8 +11,9 @@ Firefox : [Blockeur de Pub](https://addons.mozilla.org/fr/firefox/addon/adguard-
 Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-ad-blocker/) / [VPN](https://addons.opera.com/fr/extensions/details/opera-vpn/)
 
 
-
+<p align="center"
 <img alt="Télévision LG" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/TV.png" />
+</p>
 
 
 | Chaînes           | Lien  | Logo  |
