@@ -12,7 +12,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 
 
 
-# Chaînes TV
+<img alt="Télévision LG" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/TV.png" />
 
 
 | Chaînes           | Lien  | Logo  |
@@ -82,7 +82,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 
 "Média" > "Ouvrir un flux réseau..."
 
-Copier : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u
+Copier : https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/IPTV/IPTV.m3u
 
 Coller sur "Entrer une URL réseau :"
 
@@ -105,7 +105,7 @@ Appuyez sur "PVR IPTV Simple Client" > "Configurer"
 
 Appuyez sur "- URL de la liste de lecture M3U"
 
-Copier Coller : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/IPTV.m3u > "OK"
+Copier Coller : https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/IPTV/IPTV.m3u > "OK"
 
 Aller à la Page d'Accueil > "TV" > Chaînes
 
@@ -116,7 +116,7 @@ Aller à la Page d'Accueil > "TV" > Chaînes
 
 "Média" > "Ouvrir un flux réseau..."
 
-Copier : https://raw.githubusercontent.com/N0ub4x/The-Nounel-Project/main/Radio.m3u
+Copier : https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Radio/Radio.m3u
 
 Coller sur "Entrer une URL réseau :"
 
