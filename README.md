@@ -60,7 +60,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
 
 <p align="center">
-<img alt="Radio - Sony" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/Radio.png" />
+<img alt="Radio - Sony Custom" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/Radio Custom.png" />
 </p>
 
 | Radio             | Lien  | Logo  |
