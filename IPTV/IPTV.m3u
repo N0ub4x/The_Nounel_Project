@@ -12,7 +12,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/276
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Adulte",France 5
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/277
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
-https://s4.tntendirect.com/m6/live/playlist.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
@@ -328,7 +328,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/323
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Horreur",SyFy
 http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/32817
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",Boomerang +1
-http://dtv21.org:2082/Hamidfr_770474/gb0TrNid/8194
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
