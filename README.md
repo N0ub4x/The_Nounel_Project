@@ -42,7 +42,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | RMC Story  | [>](https://app.molotov.tv/channels/48) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
 | RMC Découverte | [>](https://app.molotov.tv/channels/12) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
 | Chérie 25  | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fcherie25%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
-| LCI        | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
+| LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
 | Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
