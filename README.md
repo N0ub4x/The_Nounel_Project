@@ -58,6 +58,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Canal+ Sport | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | CGNT       | [>](https://app.molotov.tv/channels/569) | <img height="20" src="https://i.imgur.com/CQapb6Y.png"/> |
 | Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
+| Canal+ Formula 1 | [>](https://livetv.video/embedplayer/FR/3981) | <img height="40" src="https://i.imgur.com/8q2DDvy.png"/> |
 
 <p align="center">
 <img alt="Radio - Sony Custom" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/Radio Custom.png" />
