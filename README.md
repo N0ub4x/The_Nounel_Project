@@ -18,11 +18,11 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| TF1        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Ftf1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
-| France 2   | [>](https://app.molotov.tv/channels/19) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
-| France 3   | [>](https://app.molotov.tv/channels/49) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
+| TF1        | [>](https://bestnhl.com/live/stream/tf1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
+| France 2   | [>](https://bestnhl.com/live/stream/france2) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
+| France 3   | [>](https://bestnhl.com/live/stream/france3) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [>](https://app.molotov.tv/channels/42) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| France 5   | [>](https://bestnhl.com/live/stream/france5) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fm6%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fartesimulcast.akamaized.net%2Fhls%2Flive%2F2031003%2Fartelive_fr%2Fmaster_v720.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
@@ -31,7 +31,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | TFX        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fnt1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fnrj12%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
-| France 4   | [>](https://app.molotov.tv/channels/18) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
+| France 4   | [>](https://bestnhl.com/live/stream/france4) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
 | BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
 | CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
@@ -39,7 +39,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | TF1 Séries Films | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fhd1%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2F6ter%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
-| RMC Story  | [>](https://app.molotov.tv/channels/48) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
+| RMC Story  | [>](https://bestnhl.com/live/stream/rmcstory) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
 | RMC Découverte | [>](https://app.molotov.tv/channels/12) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
 | Chérie 25  | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fcherie25%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
@@ -55,10 +55,14 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Fashion TV | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ffash1043.cloudycdn.services%2Fslive%2Fftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil%2Fplaylist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | CGNT       | [>](https://app.molotov.tv/channels/569) | <img height="20" src="https://i.imgur.com/CQapb6Y.png"/> |
 | Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
+| TV5 Monde | [>](https://www.stream4free.live/tv5-hd) | <img height="40" src="https://i.imgur.com/llrr1J8.png"/> |
+| Nat Geo | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
+| Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="40" src="https://i.imgur.com/8q2DDvy.png"/> |
+| Canal+ Cinéma | [>](https://leet365.cc/fr/3/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> |
+| Canal+ Décalé | [>](https://leet365.cc/fr/3/17) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
 
 <p align="center">
 <img alt="Radio - Sony Custom" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/Radio Custom.png" />
