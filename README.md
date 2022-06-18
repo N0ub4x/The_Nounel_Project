@@ -30,6 +30,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | TMC        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Ftmc%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
 | TFX        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fnt1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fnrj12%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
+| NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
 | France 4   | [>](https://bestnhl.com/live/stream/france4) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
 | BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
@@ -40,7 +41,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2F6ter%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [>](https://bestnhl.com/live/stream/rmcstory) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
-| RMC Découverte | [>](https://app.molotov.tv/channels/12) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
+| RMC Découverte | [>](https://bestnhl.com/live/stream/rmcdecouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
 | Chérie 25  | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fcherie25%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
@@ -60,9 +61,11 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | TV5 Monde | [>](https://www.stream4free.live/tv5-hd) | <img height="40" src="https://i.imgur.com/llrr1J8.png"/> |
 | Nat Geo | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
 | Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
-| Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="40" src="https://i.imgur.com/8q2DDvy.png"/> |
+| Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="60" src="https://i.imgur.com/8q2DDvy.png"/> |
 | Canal+ Cinéma | [>](https://leet365.cc/fr/3/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> |
 | Canal+ Décalé | [>](https://leet365.cc/fr/3/17) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
+| Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
+| RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 
 <p align="center">
 <img alt="Radio - Sony Custom" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/Radio Custom.png" />
