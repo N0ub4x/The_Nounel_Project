@@ -67,6 +67,8 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 
+Total : 49
+
 <p align="center">
 <img alt="Radio - Sony Custom" src="https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/Logo/Radio Custom.png" />
 </p>
@@ -86,6 +88,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Rire & Chansons  | [>](https://scdn.nrjaudio.fm/fr/30401/aac_64.mp3?origine=playerrire&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs11&access_token=153d7d2d02324385ba32a57018675774) | <img height="50" src="https://i.imgur.com/S0kX1SN.png"/> |
 | One World Radio  | [>](https://22193.live.streamtheworld.com/OWR_INTERNATIONAL_ADP/HLS/playlist.m3u8) | <img height="40" src="https://i.imgur.com/EPHY16D.png"/> |
 
+Total : 12
 
 # Tutoriel (TV)
 
