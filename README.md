@@ -22,7 +22,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | TF1        | [>](https://bestnhl.com/live/stream/tf1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://bestnhl.com/live/stream/france2) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://bestnhl.com/live/stream/france3) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
-| Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
+| Canal+     | [>](https://leet365.cc/fr/3/5) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [>](https://bestnhl.com/live/stream/france5) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [>](https://bestnhl.com/live/stream/m6) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://bestnhl.com/live/stream/arte) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
