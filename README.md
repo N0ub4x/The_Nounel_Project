@@ -68,6 +68,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 | Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="40" src="https://i.imgur.com/c5bufoj.png"/> |
+| EuroSport | [>](https://leet365.cc/fr/3/7) | <img height="40" src="https://i.imgur.com/qNGiD5E.png"/> |
 
 Total : 49
 
