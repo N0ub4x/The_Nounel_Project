@@ -92,7 +92,7 @@ Total : 12
 
 # Tutoriel (TV)
 
-# [VLC](https://www.videolan.org/vlc/index.fr.html)
+# [VLC](https://www.videolan.org/vlc/#download)
 
 "Média" > "Ouvrir un flux réseau..."
 
@@ -105,7 +105,7 @@ Appuyez sur "Lire"
 "Vue" > "Liste de lecture"
 
 
-# [Kodi](https://www.microsoft.com/fr-fr/p/kodi/9nblggh4t892#activetab=pivot:overviewtab)
+# [Kodi](https://kodi.tv/download)
 
 Aller sur "TV" > "Aller au navigateur d'extensions"
 
@@ -126,7 +126,7 @@ Aller à la Page d'Accueil > "TV" > Chaînes
 
 # Tutoriel (Radio)
 
-# [VLC](https://www.videolan.org/vlc/index.fr.html)
+# [VLC](https://www.videolan.org/vlc/#download)
 
 "Média" > "Ouvrir un flux réseau..."
 
