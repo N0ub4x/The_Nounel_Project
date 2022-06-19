@@ -23,13 +23,13 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | France 3   | [>](https://bestnhl.com/live/stream/france3) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [>](https://www.dailymotion.com/embed/video/x5gv6be) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [>](https://bestnhl.com/live/stream/france5) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
-| M6         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fm6%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
-| Arte       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fartesimulcast.akamaized.net%2Fhls%2Flive%2F2031003%2Fartelive_fr%2Fmaster_v720.m3u8) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
+| M6         | [>](https://bestnhl.com/live/stream/m6) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
+| Arte       | [>](https://bestnhl.com/live/stream/arte) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
-| W9         | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fw9%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
-| TMC        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Ftmc%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
-| TFX        | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fnt1%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
-| NRJ 12     | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fnrj12%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
+| W9         | [>](https://bestnhl.com/live/stream/w9) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
+| TMC        | [>](https://bestnhl.com/live/stream/tmc) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
+| TFX        | [>](https://bestnhl.com/live/stream/tfx) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
+| NRJ 12     | [>](https://bestnhl.com/live/stream/nrj12) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
 | France 4   | [>](https://bestnhl.com/live/stream/france4) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
@@ -37,12 +37,12 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
 | Gulli      | [>](https://replay.gulli.fr/jwplayer/embedstreamtv) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
-| TF1 Séries Films | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2Fhd1%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
+| TF1 Séries Films | [>](https://bestnhl.com/live/stream/tf1series) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
-| 6ter       | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs13.tntendirect.com%2F6ter%2Flive%2Fplaylist.m3u8) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
+| 6ter       | [>](https://bestnhl.com/live/stream/6ter) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [>](https://bestnhl.com/live/stream/rmcstory) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
 | RMC Découverte | [>](https://bestnhl.com/live/stream/rmcdecouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
-| Chérie 25  | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fs4.tntendirect.com%2Fcherie25%2Flive%2Fplaylist.m3u8) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
+| Chérie 25  | [>](https://bestnhl.com/live/stream/cherie25) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
@@ -58,14 +58,15 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
 | CGNT       | [>](https://app.molotov.tv/channels/569) | <img height="20" src="https://i.imgur.com/CQapb6Y.png"/> |
 | Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
-| TV5 Monde | [>](https://www.stream4free.live/tv5-hd) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
-| Nat Geo | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
+| TV5 Monde  | [>](https://www.stream4free.live/tv5-hd) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
+| Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
 | Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="60" src="https://i.imgur.com/8q2DDvy.png"/> |
 | Canal+ Cinéma | [>](https://leet365.cc/fr/3/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> |
 | Canal+ Décalé | [>](https://leet365.cc/fr/3/17) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
+| Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="40" src="https://i.imgur.com/c5bufoj.png"/> |
 
 Total : 49
 
