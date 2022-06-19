@@ -67,10 +67,10 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Canal+ Décalé | [>](https://leet365.cc/fr/3/17) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
-| Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="40" src="https://i.imgur.com/c5bufoj.png"/> |
-| EuroSport  | [>](https://leet365.cc/fr/3/7) | <img height="40" src="https://i.imgur.com/qNGiD5E.png"/> |
+| Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="20" src="https://i.imgur.com/c5bufoj.png"/> |
+| EuroSport  | [>](https://leet365.cc/fr/3/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
 | RMC Sport  | [>](https://leet365.cc/fr/3/4) | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
-| BeIN Sport | [>](https://leet365.cc/fr/3/1) | <img height="40" src="https://i.imgur.com/YYpeJry.png"/> |
+| BeIN Sport | [>](https://leet365.cc/fr/3/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 
 Total : 49
 
