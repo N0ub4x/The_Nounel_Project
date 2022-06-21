@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="",----- France FHD / HD -----
 https://www.youtube.com/embed/aWE0Sjh2X04
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
-https://s4.tntendirect.com/tf1/live/playlist.m3u8
+https://s12.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Adulte",France 2
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/274
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Adulte",France 3
@@ -16,9 +16,9 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Adulte",C8
-https://s4.tntendirect.com/d8/live/playlist.m3u8
+https://s12.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
-https://s4.tntendirect.com/w9/live/playlist.m3u8
+https://s12.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/281
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
@@ -36,11 +36,11 @@ https://www.dailymotion.com/cdn/live/video/x5gv5v0.m3u8?sec=XrX-q42FuTGJWq1c5nkk
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
-https://s4.tntendirect.com/hd1/live/playlist.m3u8
+https://s12.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
 https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=hsm36MwPBwR3aGA2CLQxmYFhY0VcLdZjnay_9mIC076TSBLzZuzmRisPm_q5172cqAFfbXI5La59YANyzKhWuQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Adulte",6ter
-https://s4.tntendirect.com/6ter/live/playlist.m3u8f
+https://s12.tntendirect.com/6ter/live/playlist.m3u8f
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Histoire",RMC Story
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/10171
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
