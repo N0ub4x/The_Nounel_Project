@@ -71,7 +71,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | EuroSport  | [>](https://leet365.cc/fr/3/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
 | RMC Sport  | [>](https://leet365.cc/fr/3/4) | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
 
-Total : 48
+Total : 51
 
 # Radio
 
