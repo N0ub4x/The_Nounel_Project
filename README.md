@@ -61,15 +61,15 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
 | TV5 Monde  | [>](https://www.stream4free.live/tv5-hd) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
 | Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
-| Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
+| Canal+ Sport | [x](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="60" src="https://i.imgur.com/8q2DDvy.png"/> |
 | Canal+ Cinéma | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> |
 | Canal+ Décalé | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 | Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="20" src="https://i.imgur.com/c5bufoj.png"/> |
-| EuroSport  | [>](https://leet365.cc/fr/3/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
-| RMC Sport  | [>](https://leet365.cc/fr/3/4) | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
+| EuroSport  | [x](https://leet365.cc/fr/3/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
+| RMC Sport  | [x](https://leet365.cc/fr/3/4) | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
 
 Total : 51
 
