@@ -47,6 +47,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
+| Dreamsee   | [>](https://www.twitch.tv/dreamseetv) | <img height="30" src="https://cdn.dreamsee.tv/img/logo/dreamsee.png"/> |
 | Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
 | BFM Business | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ftra1-cdn-edge-live04.pfd.sfr.net%2Fbfm-ncdn-live-pal1.pfd.sfr.net%2Fsid%3D02eg7nrhut12rjk0hskg%2Fshls%2FLIVE%24BFM_BUSINESS%2Findex.m3u8%3Fstart%3DLIVE%26end%3DEND) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
 | France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
