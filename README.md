@@ -57,8 +57,6 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Fashion TV | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ffash1043.cloudycdn.services%2Fslive%2Fftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil%2Fplaylist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| CGNT       | [>](https://app.molotov.tv/channels/569) | <img height="20" src="https://i.imgur.com/CQapb6Y.png"/> |
-| Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
 | TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
 | Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
 | Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
@@ -75,7 +73,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Gong       | [>](https://bestnhl.com/live/stream/gong) | <img height="40" src="https://i.imgur.com/SKEeY0h.png"/> |
 | KTO        | [>](https://bestnhl.com/live/stream/kto) | <img height="40" src="https://i.imgur.com/8EehIPG.png"/> |
 
-Total : 55
+Total : 53
 
 # Radio
 
