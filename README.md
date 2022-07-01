@@ -51,7 +51,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | BFM Business | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ftra1-cdn-edge-live04.pfd.sfr.net%2Fbfm-ncdn-live-pal1.pfd.sfr.net%2Fsid%3D02eg7nrhut12rjk0hskg%2Fshls%2FLIVE%24BFM_BUSINESS%2Findex.m3u8%3Fstart%3DLIVE%26end%3DEND) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
 | France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
 | 01net TV | [>](https://www.dailymotion.com/embed/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
-| beIN Sport | [-](https://leet365.cc/fr/3/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
+| beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
 | Bob L'Éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
 | Fashion TV | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ffash1043.cloudycdn.services%2Fslive%2Fftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil%2Fplaylist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
@@ -61,14 +61,14 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Sport en France | [>](https://app.molotov.tv/channels/254) | <img height="40" src="https://i.imgur.com/wwAcghI.png"/> |
 | TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
 | Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
-| Canal+ Sport | [-](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
+| Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="60" src="https://i.imgur.com/8q2DDvy.png"/> |
 | Canal+ Cinéma | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> |
 | Canal+ Décalé | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 | Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="20" src="https://i.imgur.com/c5bufoj.png"/> |
-| EuroSport  | [-](https://leet365.cc/fr/3/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
+| EuroSport  | [>](https://leet365.cc/fr/1/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
 | RMC Sport  | [-](https://leet365.cc/fr/3/4) | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
 | Boomerang  | [>](https://bestnhl.com/live/stream/boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
