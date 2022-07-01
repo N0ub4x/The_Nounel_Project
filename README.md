@@ -74,7 +74,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Gong       | [>](https://bestnhl.com/live/stream/gong) | <img height="40" src="https://i.imgur.com/SKEeY0h.png"/> |
 | KTO        | [>](https://bestnhl.com/live/stream/kto) | <img height="40" src="https://i.imgur.com/8EehIPG.png"/> |
 
-Total : 53
+Total : 54
 
 # Radio
 
@@ -146,3 +146,8 @@ Coller sur "Entrer une URL réseau :"
 Appuyez sur "Lire"
 
 "Vue" > "Liste de lecture"
+
+
+# Merci
+
+Merci à [LeWarpy](https://github.com/LeWarpy) pour la Chaîne TV [Dreamsee](https://www.twitch.tv/dreamseetv)
