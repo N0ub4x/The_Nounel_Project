@@ -53,6 +53,8 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/292
 https://www.youtube.com/embed/Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwEeS8x.png" group-title="Info",France 24
 https://www.youtube.com/c/FRANCE24/live
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.dreamsee.tv/img/logo/dreamsee.png" group-title="Adulte",Dreamsee Télévision
+http://cdnapi.kaltura.com/p/2748081/sp/274808100/playManifest/entryId/1_gxkyk6lt/format/applehttp/protocol/http/a/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Info",TV5 Monde
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/7528
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKs1Kwz.png" group-title="Info",Euronews
