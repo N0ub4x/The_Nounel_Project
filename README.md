@@ -31,7 +31,6 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | TMC        | [>](https://bestnhl.com/live/stream/tmc) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
 | TFX        | [>](https://bestnhl.com/live/stream/tfx) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://bestnhl.com/live/stream/nrj12) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
-| NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
 | France 4   | [>](https://bestnhl.com/live/stream/france4) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
 | BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
@@ -46,33 +45,34 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Chérie 25  | [>](https://bestnhl.com/live/stream/cherie25) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
+| TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
+| RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
+| Canal+ Décalé | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
+| Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
+| Canal+ Cinéma | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
+| beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
+| Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
+| Boomerang  | [>](https://bestnhl.com/live/stream/boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
+| Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
+| NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
-| Dreamsee   | [>](https://www.twitch.tv/dreamseetv) | <img height="30" src="https://cdn.dreamsee.tv/img/logo/dreamsee.png"/> |
-| Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
 | BFM Business | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ftra1-cdn-edge-live04.pfd.sfr.net%2Fbfm-ncdn-live-pal1.pfd.sfr.net%2Fsid%3D02eg7nrhut12rjk0hskg%2Fshls%2FLIVE%24BFM_BUSINESS%2Findex.m3u8%3Fstart%3DLIVE%26end%3DEND) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
+| Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
 | France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
 | 01net TV | [>](https://www.dailymotion.com/embed/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
-| beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
 | Bob L'Éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
 | Fashion TV | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ffash1043.cloudycdn.services%2Fslive%2Fftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil%2Fplaylist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
-| Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
-| Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="60" src="https://i.imgur.com/8q2DDvy.png"/> |
-| Canal+ Cinéma | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> |
-| Canal+ Décalé | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
-| RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 | Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="20" src="https://i.imgur.com/c5bufoj.png"/> |
 | EuroSport  | [>](https://leet365.cc/fr/1/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
 | RMC Sport  | [-](https://leet365.cc/fr/3/4) | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
-| Boomerang  | [>](https://bestnhl.com/live/stream/boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
-| Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
 | Gong       | [>](https://bestnhl.com/live/stream/gong) | <img height="40" src="https://i.imgur.com/SKEeY0h.png"/> |
 | KTO        | [>](https://bestnhl.com/live/stream/kto) | <img height="40" src="https://i.imgur.com/8EehIPG.png"/> |
+| Dreamsee   | [>](https://www.twitch.tv/dreamseetv) | <img height="30" src="https://cdn.dreamsee.tv/img/logo/dreamsee.png"/> |
 
 Total : 54
 
@@ -150,4 +150,4 @@ Appuyez sur "Lire"
 
 # Merci
 
-Merci à [LeWarpy](https://github.com/LeWarpy) pour la Chaîne TV [Dreamsee](https://www.twitch.tv/dreamseetv)
+Merci à [LeWarpy](https://github.com/LeWarpy) pour la [Chaîne TV](https://github.com/N0ub4x/The_Nounel_Project#tv) [Dreamsee](https://www.twitch.tv/dreamseetv)
