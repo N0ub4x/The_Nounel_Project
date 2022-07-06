@@ -20,9 +20,9 @@ https://s13.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e26x2wq.png" group-title="Adulte",W9
 https://s13.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Adulte",TMC
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/281
+https://s13.tntendirect.com/tmc/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/4546
+https://s13.tntendirect.com/nt1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sz9Lh9T.png" group-title="Adulte",NRJ 12
 https://s13.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iMBxUj.png" group-title="Adulte",LCP
@@ -34,7 +34,7 @@ https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ya8QhQe.png" group-title="Adulte",CStar
 https://www.dailymotion.com/cdn/live/video/x5gv5v0.m3u8?sec=XrX-q42FuTGJWq1c5nkkZJYYBIs7BQ-FcIuibxNBZuA33w_3D1xHr2OgH2VyfhGW6GDff8JhspM1iAjtt9nTDA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l85rt37.png" group-title="Enfant",Gulli
-https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/vMztcDc/index.m3u8
+https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/aHEUMcx/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
 https://s13.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p6Zl9XT.png" group-title="Sport",L'Équipe 21
@@ -46,7 +46,7 @@ http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/10171
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Découverte",RMC Découverte
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/329
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dI7rnz8.png" group-title="Adulte",Chérie 25
-http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/284
+https://s13.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOlmKlQ.png" group-title="Adulte",LCI
 http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/292
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ri84Amq.png" group-title="Info",France Info
