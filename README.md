@@ -52,7 +52,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Canal+ Cinéma | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
 | beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
-| Boomerang  | [>](https://bitmovin.com/demos/stream-test?format=dash&manifest=https%3A%2F%2Fmtv-live.cloud-02.molotov.tv%2Fpublic%2Fboomerang%2Fboomerang.isml%2Ffullhd25shft.mpd) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
+| Boomerang  | [>](https://players.akamai.com/players/dashjs?streamUrl=https%3A%2F%2Fmtv-live.cloud-02.molotov.tv%2Fpublic%2Fboomerang%2Fboomerang.isml%2Ffullhd25shft.mpd) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
 | Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
 | NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
