@@ -1,5 +1,5 @@
 ----- France HD / SD -----
-Gulli : https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/vMztcDc/index.m3u8
+Gulli : https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
 France Info : https://www.youtube.com/embed/Z-Nwo-ypKtM
 
