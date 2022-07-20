@@ -1,0 +1,31 @@
+<html>
+  <head>
+  <title> The Nounel Project - TF1 </title>
+  <center>
+    <h1> The Nounel Project - TF1 </h1>
+    <script src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/clappr/dash-shaka-playback@latest/dist/dash-shaka-playback.js"></script>
+  </head>
+
+  <body>
+    <div id="player"></div>
+    <script>
+      var player = new Clappr.Player(
+        {
+          source: 'https://mtv-live.cloud-02.molotov.tv/public/tf1/tf1.isml/fullhd25shft.mpd',
+          plugins: [DashShakaPlayback],
+          shakaConfiguration: {
+            preferredAudioLanguage: 'pt-BR',
+            streaming: {
+              rebufferingGoal: 15
+            }
+          },
+          shakaOnBeforeLoad: function(shaka_player) {
+            // shaka_player.getNetworkingEngine().registerRequestFilter() ...
+          },
+          parentId: '#player'
+        });
+    </script>
+	</center>
+  </body>
+</html>
