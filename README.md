@@ -47,8 +47,8 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
-| Canal+ Décalé | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
-| Canal+ Sport | [>](https://leet365.cc/fr/3/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
+| Canal+ Décalé | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20D%C3%A9cal%C3%A9) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
+| Canal+ Sport | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Sport) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | Canal+ Cinéma | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
 | beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
