@@ -1,7 +1,9 @@
 <html>
   <head>
   <title> The Nounel Project - Boomerang </title>
-    <center>
+  <center>
+  <body bgcolor=black>
+  <font color="white">
     <h1> The Nounel Project - Boomerang </h1>
     <script src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/clappr/dash-shaka-playback@latest/dist/dash-shaka-playback.js"></script>
@@ -15,7 +17,7 @@
           source: 'https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/fullhd25shft.mpd',
           plugins: [DashShakaPlayback],
           shakaConfiguration: {
-            preferredAudioLanguage: 'pt-BR',
+            preferredAudioLanguage: 'fr-FR',
             streaming: {
               rebufferingGoal: 15
             }
@@ -26,6 +28,6 @@
           parentId: '#player'
         });
     </script>
-    </center>
+	</center>
   </body>
 </html>
