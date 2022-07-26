@@ -21,9 +21,9 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TF1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%202) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
-| France 3   | [>](https://bestnhl.com/live/stream/france3) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
+| France 3   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%203) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
-| France 5   | [>](https://bestnhl.com/live/stream/france5) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
+| France 5   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%205) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [>](https://bestnhl.com/live/stream/m6) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://bestnhl.com/live/stream/arte) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
