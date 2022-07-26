@@ -28,8 +28,8 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | Arte       | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Arte) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
 | W9         | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/W9) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
-| TMC        | [>](https://bestnhl.com/live/stream/tmc) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
-| TFX        | [>](https://bestnhl.com/live/stream/tfx) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
+| TMC        | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TMC) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
+| TFX        | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TFX) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://bestnhl.com/live/stream/nrj12) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
 | LCP        | [>](https://www.dailymotion.com/embed/video/xji3qy) | <img height="40" src="https://i.imgur.com/5iMBxUj.png"/> |
 | France 4   | [>](https://bestnhl.com/live/stream/france4) | <img height="20" src="https://i.imgur.com/YIHoAbr.png"/> |
