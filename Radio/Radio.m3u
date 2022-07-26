@@ -23,8 +23,8 @@ https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=playernostalgie&aw_0_req.us
 https://scdn.nrjaudio.fm/fr/30401/aac_64.mp3?origine=playerrire&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs11&access_token=153d7d2d02324385ba32a57018675774
 #EXTINF:-1 tvg-id="Tomorrowland.com" tvg-logo="https://i.imgur.com/EPHY16D.png" group-title="Electro",One World Radio
 https://22193.live.streamtheworld.com/OWR_INTERNATIONAL_ADP/HLS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",
-
+#EXTINF:-1 tvg-id="P2MRadio.com" tvg-logo="https://i.imgur.com/ggURKP6.png" group-title="Radio",P2M Radio
+https://live.streamantille.com/radio/8140/stream.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radio",
