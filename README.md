@@ -24,10 +24,10 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | France 3   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%203) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%205) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
-| M6         | [>](https://bestnhl.com/live/stream/m6) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
-| Arte       | [>](https://bestnhl.com/live/stream/arte) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
+| M6         | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/M6) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
+| Arte       | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Arte) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
 | C8         | [>](https://www.dailymotion.com/embed/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/CmnOEtM.png"/> |
-| W9         | [>](https://bestnhl.com/live/stream/w9) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
+| W9         | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/W9) | <img height="20" src="https://i.imgur.com/e26x2wq.png"/> |
 | TMC        | [>](https://bestnhl.com/live/stream/tmc) | <img height="20" src="https://i.imgur.com/bf0scMb.png"/> |
 | TFX        | [>](https://bestnhl.com/live/stream/tfx) | <img height="20" src="https://i.imgur.com/hAnirTf.png"/> |
 | NRJ 12     | [>](https://bestnhl.com/live/stream/nrj12) | <img height="30" src="https://i.imgur.com/Sz9Lh9T.png"/> |
