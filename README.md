@@ -19,7 +19,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
-| TF1        | [>](https://bestnhl.com/live/stream/tf1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
+| TF1        | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TF1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://bestnhl.com/live/stream/france2) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://bestnhl.com/live/stream/france3) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
