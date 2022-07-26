@@ -36,7 +36,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | BFM TV     | [>](https://www.dailymotion.com/embed/video/xgz4t1) | <img height="30" src="https://i.imgur.com/jNCPG26.png"/> |
 | CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
-| Gulli      | [>](https://replay.gulli.fr/jwplayer/embedstreamtv) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
+| Gulli      | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Gulli) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
 | TF1 Séries Films | [>](https://bestnhl.com/live/stream/tf1series) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
 | 6ter       | [>](https://bestnhl.com/live/stream/6ter) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
