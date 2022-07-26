@@ -42,7 +42,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | 6ter       | [>](https://bestnhl.com/live/stream/6ter) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [>](https://bestnhl.com/live/stream/rmcstory) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
 | RMC Découverte | [>](https://bestnhl.com/live/stream/rmcdecouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
-| Chérie 25  | [>](https://bestnhl.com/live/stream/cherie25) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
+| Chérie 25  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Ch%C3%A9rie%2025) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
