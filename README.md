@@ -2,13 +2,13 @@
 
 Il est recommander d'utiliser un Blockeur de Publicité est un VPN :
 
-Google Chrome : [Blockeur de Pub](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) / [VPN](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno)
+Google Chrome : [Blockeur de Pub](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [VPN](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno)
 
-Microsoft Edge : [Blockeur de Pub](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh) / [VPN](https://microsoftedge.microsoft.com/addons/detail/bright-vpn-secure-priva/elbjgikfbbdgjgbhneoabmkgbpmdfmkg)
+Microsoft Edge : [Blockeur de Pub](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) / [VPN](https://microsoftedge.microsoft.com/addons/detail/bright-vpn-secure-priva/elbjgikfbbdgjgbhneoabmkgbpmdfmkg)
 
-Firefox : [Blockeur de Pub](https://addons.mozilla.org/fr/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) / [VPN](https://addons.mozilla.org/fr/firefox/addon/setupvpn/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+Firefox : [Blockeur de Pub](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) / [VPN](https://addons.mozilla.org/fr/firefox/addon/setupvpn/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-ad-blocker/) / [VPN](https://addons.opera.com/fr/extensions/details/opera-vpn/)
+Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/) / [VPN](https://addons.opera.com/fr/extensions/details/opera-vpn/)
 
 # TV
 
@@ -20,7 +20,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/opera-a
 | Chaînes           | Lien  | Logo  |
 |:-----------------:|:-----:|:-----:|
 | TF1        | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TF1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
-| France 2   | [>](https://bestnhl.com/live/stream/france2) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
+| France 2   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%202) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://bestnhl.com/live/stream/france3) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
 | Canal+     | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [>](https://bestnhl.com/live/stream/france5) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
