@@ -37,11 +37,11 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/JUqoFSu.jpeg"/> |
 | CStar      | [>](https://www.dailymotion.com/embed/video/x5gv5v0) | <img height="20" src="https://i.imgur.com/Ya8QhQe.png"/> |
 | Gulli      | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Gulli) | <img height="30" src="https://i.imgur.com/l85rt37.png"/> |
-| TF1 Séries Films | [>](https://bestnhl.com/live/stream/tf1series) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
+| TF1 Séries Films | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TF1%20S%C3%A9ries%20Films) | <img height="30" src="https://i.imgur.com/JPHIUnf.png"/> |
 | L'Équipe 21| [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://i.imgur.com/p6Zl9XT.png"/> |
-| 6ter       | [>](https://bestnhl.com/live/stream/6ter) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
+| 6ter       | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/6ter) | <img height="20" src="https://i.imgur.com/DcvJDY4.png"/> |
 | RMC Story  | [>](https://bestnhl.com/live/stream/rmcstory) | <img height="30" src="https://i.imgur.com/jXANVZp.png"/> |
-| RMC Découverte | [>](https://bestnhl.com/live/stream/rmcdecouverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
+| RMC Découverte | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/RMC%20D%C3%A9couverte) | <img height="30" src="https://i.imgur.com/wzmlEBl.png"/> |
 | Chérie 25  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Ch%C3%A9rie%2025) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
@@ -49,7 +49,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 | Canal+ Décalé | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20D%C3%A9cal%C3%A9) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
 | Canal+ Sport | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Sport) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
-| Canal+ Cinéma | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
+| Canal+ Cinéma | [x]() | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
 | beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
 | Boomerang  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
