@@ -57,12 +57,12 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="50" src="https://i.imgur.com/FwEeS8x.png"/> |
 | BFM Business | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/BFM%20Business) | <img height="50" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
 | Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
-| France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
-| 01net TV | [>](https://www.dailymotion.com/embed/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
-| dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
+| France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="50" src="https://i.imgur.com/smk90Wh.png"/> |
+| 01net TV | [>](https://www.dailymotion.com/embed/video/x7pctg0) | <img height="50" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
+| dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="50" src="https://i.imgur.com/9LrXFNP.png"/> |
 | Bob L'Éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
-| Fashion TV | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Fashion%20TV) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
-| Fashion TV L'Original | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Fashion%20TV%20L'Original) | <img height="40" src="https://i.imgur.com/xXJKm4f.png"/> |
+| Fashion TV | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Fashion%20TV) | <img height="50" src="https://i.imgur.com/n56r7oi.jpg"/> |
+| Fashion TV L'Original | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Fashion%20TV%20L'Original) | <img height="50" src="https://i.imgur.com/xXJKm4f.png"/> |
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
