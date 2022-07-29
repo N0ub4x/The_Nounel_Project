@@ -1,0 +1,34 @@
+
+<html>
+  <head>
+  <title> The Nounel Project - BFM Business </title>
+  <center>
+  <body bgcolor=black>
+  <font color="white">
+    <h1> The Nounel Project - BFM Business </h1>
+    <script src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/clappr/dash-shaka-playback@latest/dist/dash-shaka-playback.js"></script>
+  </head>
+
+  <body>
+    <div id="player"></div>
+    <script>
+      var player = new Clappr.Player(
+        {
+          source: 'https://tra1-cdn-edge-live04.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=02eg7nrhut12rjk0hskg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END',
+          plugins: [DashShakaPlayback],
+          shakaConfiguration: {
+            preferredAudioLanguage: 'fr-FR',
+            streaming: {
+              rebufferingGoal: 15
+            }
+          },
+          shakaOnBeforeLoad: function(shaka_player) {
+            // shaka_player.getNetworkingEngine().registerRequestFilter() ...
+          },
+          parentId: '#player'
+        });
+    </script>
+	</center>
+  </body>
+</html>
