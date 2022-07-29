@@ -22,7 +22,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | TF1        | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TF1) | <img height="20" src="https://i.imgur.com/e7683oF.png"/> |
 | France 2   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%202) | <img height="20" src="https://i.imgur.com/23MFY0U.png"/> |
 | France 3   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%203) | <img height="20" src="https://i.imgur.com/hxRmcTD.png"/> |
-| Canal+     | [x](https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Images/404.jpg) | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
+| Canal+     | [x]() | <img height="20" src="https://i.imgur.com/xy7gQLJ.jpg"/> |
 | France 5   | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/France%205) | <img height="20" src="https://i.imgur.com/5da6u0l.png"/> |
 | M6         | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/M6) | <img height="20" src="https://i.imgur.com/Ah9CAIO.png"/> |
 | Arte       | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Arte) | <img height="20" src="https://i.imgur.com/zYUKoXr.png"/> |
@@ -47,33 +47,32 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
 | TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
-| Canal+ Décalé | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20D%C3%A9cal%C3%A9) | <img height="40" src="https://i.imgur.com/fkRTEck.png"/> |
-| Canal+ Sport | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Sport) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
-| Canal+ Cinéma | [x]() | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
+| Canal+ Sport | [>](https://leet365.cc/fr/1/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
+| Canal+ Cinéma | [>](https://leet365.cc/fr/1/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
 | beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
 | Boomerang  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
 | Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
 | NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
-| France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="30" src="https://i.imgur.com/FwEeS8x.png"/> |
-| BFM Business | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ftra1-cdn-edge-live04.pfd.sfr.net%2Fbfm-ncdn-live-pal1.pfd.sfr.net%2Fsid%3D02eg7nrhut12rjk0hskg%2Fshls%2FLIVE%24BFM_BUSINESS%2Findex.m3u8%3Fstart%3DLIVE%26end%3DEND) | <img height="30" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
+| France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="50" src="https://i.imgur.com/FwEeS8x.png"/> |
+| BFM Business | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/BFM%20Business) | <img height="50" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
 | Euronews   | [>](https://www.youtube.com/embed/MsN0_WNXvh8) | <img height="20" src="https://i.imgur.com/yKs1Kwz.png"/> |
 | France Inter | [>](https://www.youtube.com/embed/5JHIgJYE-78) | <img height="30" src="https://i.imgur.com/smk90Wh.png"/> |
 | 01net TV | [>](https://www.dailymotion.com/embed/video/x7pctg0) | <img height="30" src="https://i.imgur.com/YLjp3jp.jpeg"/> |
 | dotNET TV  | [>](https://www.youtube.com/c/dotNET/live) | <img height="30" src="https://i.imgur.com/9LrXFNP.png"/> |
 | Bob L'Éponge | [>](https://pluto.tv/fr/live-tv/bob-leponge-fr-ptv3) | <img height="50" width="100" src="https://i.imgur.com/mk0fNO9.png"/> |
-| Fashion TV | [>](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Ffash1043.cloudycdn.services%2Fslive%2Fftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil%2Fplaylist.m3u8) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
+| Fashion TV | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Fashion%20TV) | <img height="40" src="https://i.imgur.com/n56r7oi.jpg"/> |
+| Fashion TV L'Original | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Fashion%20TV%20L'Original) | <img height="40" src="https://i.imgur.com/xXJKm4f.png"/> |
 | South Park | [>](https://pluto.tv/fr/live-tv/south-park-fr) | <img height="40" src="https://i.imgur.com/aiMAjfW.png"/> |
 | Fun Radio TV | [>](https://www.dailymotion.com/embed/video/xxtuy6) | <img height="50" src="https://i.imgur.com/2O10QwT.png"/> |
-| Canal+ Formula 1 | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Canal+%20Formula%201) | <img height="60" src="https://i.imgur.com/8q2DDvy.png"/> |
 | Trek       | [>](https://bestnhl.com/live/stream/trek) | <img height="40" src="https://i.imgur.com/mwxUHlD.png"/> |
 | Luxe TV 4K | [>](https://bestnhl.com/live/stream/luxetv4k) | <img height="20" src="https://i.imgur.com/c5bufoj.png"/> |
 | EuroSport  | [>](https://leet365.cc/fr/1/7) | <img height="20" src="https://i.imgur.com/qNGiD5E.png"/> |
-| RMC Sport  | [>](https://leet365.cc/fr/2/4) | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
+| RMC Sport  | [x]() | <img height="40" src="https://i.imgur.com/gN3UcYQ.png"/> |
 | Gong       | [>](https://bestnhl.com/live/stream/gong) | <img height="40" src="https://i.imgur.com/SKEeY0h.png"/> |
-| KTO        | [>](https://bestnhl.com/live/stream/kto) | <img height="40" src="https://i.imgur.com/8EehIPG.png"/> |
+| KTO        | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/KTO) | <img height="40" src="https://i.imgur.com/8EehIPG.png"/> |
 | Dreamsee   | [>](https://www.twitch.tv/dreamseetv) | <img height="30" src="https://i.imgur.com/wnBYE0i.png"/> |
-| P2M TV     | [>](http://rplayer.surge.sh/?url=https://panel.streamparis.fr:3743/stream/play.m3u8) | <img height="50" src="https://i.imgur.com/ggURKP6.png"/> |
+| P2M TV     | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/P2M%20TV) | <img height="50" src="https://i.imgur.com/ggURKP6.png"/> |
 
 Total : 55
 
