@@ -48,7 +48,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 | Canal+ Sport | [>](https://leet365.cc/fr/1/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
-| Canal+ Cinéma | [>](https://leet365.cc/fr/1/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
+| Canal+ Cinéma | [>](https://leet365.cc/fr/2/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
 | beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
 | Boomerang  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
