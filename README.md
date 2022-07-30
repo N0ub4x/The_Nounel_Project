@@ -45,14 +45,14 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | Chérie 25  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Ch%C3%A9rie%2025) | <img height="30" src="https://i.imgur.com/dI7rnz8.png"/> |
 | LCI        | [>](https://www.tf1info.fr/direct/) | <img height="20" src="https://i.imgur.com/nP9YAom.png"/> |
 | France Info| [>](https://www.youtube.com/embed/Z-Nwo-ypKtM) | <img height="20" src="https://i.imgur.com/ri84Amq.png"/> |
-| TV5 Monde  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/TV5%20Monde) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
+| TV5 Monde  | [>](https://bestnhl.com/live/stream/tv5) | <img height="20" src="https://i.imgur.com/llrr1J8.png"/> |
 | RTL9       | [>](https://bestnhl.com/live/stream/rtl9) | <img height="40" src="https://i.imgur.com/lHWZ7TC.png"/> |
 | Canal+ Sport | [>](https://leet365.cc/fr/1/6) | <img height="40" src="https://i.imgur.com/W8GlYZd.png"/> |
 | Canal+ Cinéma | [>](https://leet365.cc/fr/1/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
 | beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
 | Boomerang  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
-| Nat Geo    | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/National%20Geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
+| Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
 | NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="50" src="https://i.imgur.com/FwEeS8x.png"/> |
 | BFM Business | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/BFM%20Business) | <img height="50" src="https://i.imgur.com/D5ZyOmn.jpg"/> |
