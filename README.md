@@ -75,7 +75,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | P2M TV     | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/P2M%20TV) | <img height="50" src="https://i.imgur.com/ggURKP6.png"/> |
 | WildSide TV| [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/WildSide%20TV) | <img height="50" src="https://i.imgur.com/gf6fcJH.jpg"/> |
 
-Total : 56
+Total : 55
 
 # Radio
 
