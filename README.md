@@ -51,7 +51,7 @@ Opera : [Blockeur de Pub](https://addons.opera.com/fr/extensions/details/ublock/
 | Canal+ Cinéma | [>](https://leet365.cc/fr/2/5) | <img height="40" src="https://i.imgur.com/t1Y6ERb.png"/> 
 | beIN Sport | [>](https://leet365.cc/fr/1/1) | <img height="20" src="https://i.imgur.com/YYpeJry.png"/> |
 | Action     | [>](https://bestnhl.com/live/stream/action) | <img height="40" src="https://i.imgur.com/aKGBAa7.jpg"/> |
-| Boomerang  | [>](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
+| Boomerang  | [x](https://n0ub4x.github.io/The_Nounel_Project/IPTV/Boomerang) | <img height="40" src="https://i.imgur.com/5hADAw9.png"/> |
 | Nat Geo    | [>](https://www.stream4free.live/national-geographic) | <img height="40" src="https://i.imgur.com/qHA9ruL.png"/> |
 | NRJ Hits   | [>](https://bestnhl.com/live/stream/nrjhits) | <img height="40" src="https://i.imgur.com/EcyrYbq.png"/> |
 | France 24  | [>](https://www.youtube.com/embed/u9foWyMSATM) | <img height="50" src="https://i.imgur.com/FwEeS8x.png"/> |
